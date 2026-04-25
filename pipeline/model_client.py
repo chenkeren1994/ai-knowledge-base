@@ -33,6 +33,105 @@ import httpx
 logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
+# 国产模型价格表（元 / 百万 tokens）
+# ---------------------------------------------------------------------------
+_RMB_PRICING: dict[str, dict[str, float]] = {
+    "deepseek": {"input": 1, "output": 2},
+    "qwen": {"input": 4, "output": 12},
+    "openai": {"input": 150, "output": 600},
+}
+
+
+@dataclass
+class _CostRecord:
+    """单次 LLM 调用的成本记录。"""
+
+    provider: str
+    prompt_tokens: int
+    completion_tokens: int
+    total_tokens: int
+
+
+class CostTracker:
+    """LLM 调用成本追踪器，支持国产模型定价。"""
+
+    def __init__(self) -> None:
+        self._records: list[_CostRecord] = []
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """记录一次 LLM 调用的用量。
+
+        Args:
+            usage: Usage 实例，含 prompt_tokens / completion_tokens / total_tokens。
+            provider: 提供商名称，如 ``deepseek``、``qwen``、``openai``。
+        """
+        self._records.append(_CostRecord(
+            provider=provider,
+            prompt_tokens=usage.prompt_tokens,
+            completion_tokens=usage.completion_tokens,
+            total_tokens=usage.total_tokens,
+        ))
+
+    def estimated_cost(self, provider: str) -> float:
+        """估算指定提供商的历史总成本（元）。
+
+        Args:
+            provider: 提供商名称。
+
+        Returns:
+            累计估算成本（元），保留 4 位小数。
+        """
+        pricing = _RMB_PRICING.get(provider)
+        if pricing is None:
+            return 0.0
+
+        total_prompt = 0
+        total_completion = 0
+        for rec in self._records:
+            if rec.provider == provider:
+                total_prompt += rec.prompt_tokens
+                total_completion += rec.completion_tokens
+
+        cost = (total_prompt / 1_000_000) * pricing["input"]
+        cost += (total_completion / 1_000_000) * pricing["output"]
+        return round(cost, 4)
+
+    @property
+    def records(self) -> list[_CostRecord]:
+        """返回所有记录的只读副本。"""
+        return list(self._records)
+
+    def clear(self) -> None:
+        """清除所有记录（主要用于测试）。"""
+        self._records.clear()
+
+    def report(self, provider: str = "") -> None:
+        """打印成本报告。
+
+        Args:
+            provider: 提供商名称，为空则打印所有提供商。
+        """
+        providers = [provider] if provider else sorted({
+            rec.provider for rec in self._records
+        })
+        any_data = False
+        for prov in providers:
+            records = [r for r in self._records if r.provider == prov]
+            if not records:
+                continue
+            any_data = True
+            total_pt = sum(r.prompt_tokens for r in records)
+            total_ct = sum(r.completion_tokens for r in records)
+            total_tt = sum(r.total_tokens for r in records)
+            cost = self.estimated_cost(prov)
+            logger.info(
+                "Provider: %s | calls=%d | prompt=%d | completion=%d | total=%d | cost=¥%.4f",
+                prov, len(records), total_pt, total_ct, total_tt, cost,
+            )
+        if not any_data:
+            logger.info("No cost records available.")
+
+# ---------------------------------------------------------------------------
 # 数据模型
 # ---------------------------------------------------------------------------
 
@@ -352,6 +451,13 @@ def reset_provider() -> None:
 
 
 # ---------------------------------------------------------------------------
+# 全局成本追踪器
+# ---------------------------------------------------------------------------
+
+tracker = CostTracker()
+
+
+# ---------------------------------------------------------------------------
 # 带重试的对话函数
 # ---------------------------------------------------------------------------
 
@@ -398,6 +504,7 @@ async def chat_with_retry(
                 max_tokens=max_tokens,
             )
             elapsed = time.monotonic() - start
+            tracker.record(result.usage, provider.name)
             logger.info(
                 "chat_with_retry 成功 (attempt=%d/%d, elapsed=%.2fs, tokens=%d)",
                 attempt + 1,

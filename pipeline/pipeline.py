@@ -34,7 +34,7 @@ from typing import Any, Optional
 
 import httpx
 
-from model_client import create_provider, chat_with_retry
+from model_client import create_provider, chat_with_retry, tracker
 
 logger = logging.getLogger(__name__)
 
@@ -577,6 +577,31 @@ class Pipeline:
         self.dry_run = dry_run
         self.model = model
         self._provider: Optional[Any] = None
+        self._stats: dict[str, int] = {
+            "collected": 0,
+            "analyzed": 0,
+            "organized": 0,
+            "saved": 0,
+        }
+
+    def _print_cost_report(self) -> None:
+        """打印包含流水线统计和 LLM 成本的综合报告。"""
+        tracker.report()
+        total_cost = sum(tracker.estimated_cost(p) for p in {
+            r.provider for r in tracker.records
+        })
+        saved = self._stats.get("saved", 0)
+        avg = f"¥{total_cost / saved:.4f}" if saved > 0 else "N/A"
+        logger.info(
+            "Pipeline: collected=%d, analyzed=%d, organized=%d, saved=%d, "
+            "total_cost=¥%.4f, avg_cost_per_article=%s",
+            self._stats["collected"],
+            self._stats["analyzed"],
+            self._stats["organized"],
+            saved,
+            total_cost,
+            avg,
+        )
 
     async def run(self) -> int:
         """执行完整流水线。
@@ -610,9 +635,15 @@ class Pipeline:
         # Step 4: 保存
         saved = save_articles(organized, dry_run=self.dry_run)
 
+        self._stats.update(
+            collected=len(raw_items),
+            analyzed=len(analyzed),
+            organized=len(organized),
+            saved=saved,
+        )
+
         logger.info("=" * 50)
-        logger.info("流水线完成: 采集=%d, 分析=%d, 整理=%d, 保存=%d",
-                     len(raw_items), len(analyzed), len(organized), saved)
+        self._print_cost_report()
         logger.info("=" * 50)
         return saved
 

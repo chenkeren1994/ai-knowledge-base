@@ -1,0 +1,24 @@
+{
+  "id": "2026-04-24-github-trending-cavemem",
+  "title": "JuliusBrussee/cavemem",
+  "source": "github-trending",
+  "source_url": "https://github.com/JuliusBrussee/cavemem",
+  "author": "JuliusBrussee",
+  "summary": "为编码助手设计的跨 Agent 持久化记忆系统。通过 Hook 在会话边界捕获观察记录，使用 caveman 语法压缩（减少约 75% token，代码和路径保留不变），存储到本地 SQLite。提供 3 个 MCP 工具（search/timeline/get_observations）供 Agent 渐进式检索历史。支持 FTS5 关键词搜索 + 本地向量索引的混合检索。兼容 Claude Code、Cursor、Gemini CLI、OpenCode、Codex。",
+  "highlights": [
+    "Caveman 语法压缩 — 确定性压缩算法，非关键散文 token 减少 75%，代码/路径/版本号保持原样，且可无损还原",
+    "跨 IDE 通用 — 一个安装命令适配 5 种主流编码助手，解决了每个 Agent 工具记忆孤岛的问题"
+  ],
+  "tags": [
+    "Memory",
+    "RAG",
+    "Agent",
+    "Coding",
+    "Tool-use"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": "2026-04-18T00:21:39Z",
+  "created_at": "2026-04-24T16:00:00Z",
+  "updated_at": "2026-04-25T17:00:00Z"
+}

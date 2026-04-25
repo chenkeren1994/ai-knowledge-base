@@ -1,0 +1,25 @@
+{
+  "id": "2026-04-24-github-trending-ai-auto-work",
+  "title": "chaohong-ai/ai-auto-work",
+  "source": "github-trending",
+  "source_url": "https://github.com/chaohong-ai/ai-auto-work",
+  "author": "chaohong-ai",
+  "summary": "AI 驱动的全自动软件工程流水线，从需求分析到代码提交的端到端自主开发。核心设计：Claude 作为执行器 + Codex 作为对抗审查者，形成 Triple-Check 收敛循环。工作流分为 auto-work（全自动）、fast-auto-work（小改动快速通道）、manual-work（人工检查点）三种模式。每阶段上下文隔离（通过文件传递而非内存共享）、编译+测试机械门禁、原子化提交（≤3 文件 / ≤100 行）。支持 S/M/L 复杂度自动分级与任务拆分。",
+  "highlights": [
+    "双模型对抗审查 — Claude 构建 + Codex 审计，利用不同模型的认知偏见互补，系统性发现单模型自审查遗漏的问题",
+    "上下文污染隔离 — 每个阶段独立进程运行，通过文件而非内存传递信息，保证每阶段上下文干净"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "Coding",
+    "Code Review",
+    "Testing",
+    "Planning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": "2026-04-21T02:55:11Z",
+  "created_at": "2026-04-24T16:00:00Z",
+  "updated_at": "2026-04-25T17:00:00Z"
+}

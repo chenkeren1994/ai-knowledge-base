@@ -1,0 +1,24 @@
+{
+  "id": "2026-04-24-github-trending-google-agent-platform",
+  "title": "Google-Cloud-AI/agent-platform",
+  "source": "github-trending",
+  "source_url": "https://github.com/Google-Cloud-AI/agent-platform",
+  "author": "Google Cloud AI",
+  "summary": "Google Cloud 官方的 Gemini Enterprise Agent Platform 代码示例和教程合集。涵盖 Build（ADK、Agent Studio、Agent Garden、A2A 协议、MCP、RAG Engine）、Scale（Agent Runtime、Sessions、Memory Bank、Sandbox）、Govern（Gateway、Identity、Policies、Model Armor）、Optimize（Evaluation、Simulation、Observability、Optimizer）四大板块的入门指南。资源索引性质，非可运行框架。",
+  "highlights": [
+    "Google Agent 生态全景图 — 一份资源清单完整展现了 Google 在 Agent 平台侧的全栈布局（A2A/MCP/Agent Runtime/Memory Bank 等）",
+    "企业级 Agent 治理 — Agent Identity、Policies、Registry 等企业级管控能力表明 Google 正将 Agent 视为一等公民纳入云基础设施"
+  ],
+  "tags": [
+    "Agent",
+    "Deployment",
+    "Evaluation",
+    "Safety",
+    "RAG"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": "2026-04-20T17:08:58Z",
+  "created_at": "2026-04-24T16:00:00Z",
+  "updated_at": "2026-04-25T17:00:00Z"
+}

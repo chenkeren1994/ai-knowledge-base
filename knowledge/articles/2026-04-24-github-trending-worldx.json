@@ -1,0 +1,24 @@
+{
+  "id": "2026-04-24-github-trending-worldx",
+  "title": "YGYOOO/WorldX",
+  "source": "github-trending",
+  "source_url": "https://github.com/YGYOOO/WorldX",
+  "author": "YGYOOO",
+  "summary": "一句话生成 AI 自主驱动虚拟世界的创新项目。用户给出场景描述（如'北宋汴京的夜市'），系统自动生成地图、角色和世界规则，AI Agent 在其中自主决策、建立关系、展开对话，涌现不可预知的叙事。支持上帝模式（广播事件、编辑角色记忆/人格）、多日昼夜循环演化和时间线分叉。四模型协作架构：编排引擎 + 绘图模型 + 视觉审查 + 世界驱动，均采用 OpenAI 兼容协议可灵活替换。",
+  "highlights": [
+    "涌现叙事机制 — 角色自主决策+记忆+人格构建行为模式，故事不是剧本而是涌现，开创了 LLM 驱动的开放世界新范式",
+    "四模型协作架构 — 编排/绘图/审查/驱动四个模型角色独立配置，可混合搭配不同平台的模型，灵活又经济"
+  ],
+  "tags": [
+    "Multi-agent",
+    "Agent",
+    "LLM",
+    "Multi-modal",
+    "Planning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": "2026-04-18T06:24:32Z",
+  "created_at": "2026-04-24T16:00:00Z",
+  "updated_at": "2026-04-25T17:00:00Z"
+}

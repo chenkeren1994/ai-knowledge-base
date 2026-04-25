@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-24-github-trending-qwen-lens-studio",
+  "title": "dakshjain-1616/Qwen-Lens-Studio",
+  "source": "github-trending",
+  "source_url": "https://github.com/dakshjain-1616/Qwen-Lens-Studio",
+  "author": "dakshjain-1616",
+  "summary": "基于 Qwen3.6-35B-A3B 多模态视觉语言模型构建的 AI 工作室。提供 5 个专业视觉工具：Visual Reasoning（思维链推理）、Multilingual Describe（多语言图像描述）、Document IQ（发票/证件结构化 JSON 提取）、Code Lens（截图转代码，支持 HTML/React/Vue/Svelte）、Dual Compare（双图对比 Diff）。前端 React+TypeScript，后端 FastAPI+SSE 流式输出，支持 OpenRouter/Ollama/llama.cpp 多后端切换。",
+  "highlights": [
+    "单一模型多功能 — 用同一个 Qwen VLM 实现推理/描述/OCR/代码生成/对比五种任务，展示了 VLM 的通用能力边界",
+    "截图转代码 — 上传 UI 截图直接生成 HTML/React/Vue/Svelte 代码并支持在线预览，实用性强"
+  ],
+  "tags": [
+    "Multi-modal",
+    "LLM",
+    "Coding",
+    "Documentation"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": "2026-04-20T13:36:56Z",
+  "created_at": "2026-04-24T16:00:00Z",
+  "updated_at": "2026-04-25T17:00:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2026-04-24-github-trending-agentodyssey",
+  "title": "agentodyssey/agentodyssey",
+  "source": "github-trending",
+  "source_url": "https://github.com/agentodyssey/agentodyssey",
+  "author": "agentodyssey",
+  "summary": "面向 Agent 持续学习能力评估的研究框架。通过程序化生成开放式长周期文本游戏，评估 Agent 在探索、世界知识获取、情景记忆、技能学习和长周期规划五个维度的表现。提供 6 种 Agent 范式（Long Context、Fixed-Size Memory、RAG、SFT、Latent、RL），统一接口支持公平对比，附带多维度评测指标（World Knowledge QA、Episodic Memory QA 等诊断测试）。有学术论文和 PyPI 包。",
+  "highlights": [
+    "Agent 持续学习基准 — 首次将 test-time continual learning 付诸标准化评测，覆盖 5 种认知能力 + 6 种记忆范式",
+    "游戏生成+评估一体化 — 不仅提供了一个测试环境，还自动生成新游戏，避免 Agent 过拟合特定场景"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Evaluation",
+    "Planning",
+    "Autonomous"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": "2026-04-20T04:50:41Z",
+  "created_at": "2026-04-24T16:00:00Z",
+  "updated_at": "2026-04-25T17:00:00Z"
+}

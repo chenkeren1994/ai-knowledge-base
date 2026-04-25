@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260425-045",
+  "title": "Lambda Calculus Benchmark for AI",
+  "source": "rss",
+  "source_url": "https://victortaelin.github.io/lambench/",
+  "author": null,
+  "summary": "介绍了一个针对AI模型在lambda演算理解与推理能力上的基准测试，用于评估模型的形式化推理和符号操作能力。",
+  "highlights": [
+    "评估AI符号推理能力的新基准",
+    "聚焦形式化推理与函数式计算"
+  ],
+  "tags": [
+    "Evaluation",
+    "LLM",
+    "Reasoning"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:48:56Z",
+  "updated_at": "2026-04-25T12:48:56Z"
+}

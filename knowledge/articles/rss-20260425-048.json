@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260425-048",
+  "title": "DeepSeek v4",
+  "source": "rss",
+  "source_url": "https://api-docs.deepseek.com/news/news260424",
+  "author": null,
+  "summary": "DeepSeek v4 是深度求索公司发布的第四代大语言模型，采用 MoE 架构，在推理速度和性价比上表现突出。",
+  "highlights": [
+    "提升推理效率的新 MoE 架构",
+    "训练成本与性能平衡优化"
+  ],
+  "tags": [
+    "LLM",
+    "MoE",
+    "Inference",
+    "Deployment",
+    "Fine-tuning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:48:56Z",
+  "updated_at": "2026-04-25T12:48:56Z"
+}

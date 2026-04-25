@@ -1,6 +1,6 @@
 {
   "source": "github,rss",
-  "collected_at": "2026-04-25T12:25:50Z",
+  "collected_at": "2026-04-25T12:48:29Z",
   "items": [
     {
       "title": "Google plans to invest up to $40B in Anthropic",
@@ -45,6 +45,16 @@
     {
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Lambda Calculus Benchmark for AI",
+      "url": "https://victortaelin.github.io/lambench/",
       "source": "rss",
       "popularity": 0,
       "description": "",

@@ -1,0 +1,25 @@
+{
+  "id": "github-20260425-009",
+  "title": "affaan-m/everything-claude-code",
+  "source": "github",
+  "source_url": "https://github.com/affaan-m/everything-claude-code",
+  "author": "affaan-m",
+  "summary": "一个针对Claude Code、Codex等AI编码代理的性能优化系统，集成了技能、直觉、记忆和安全机制，以提升代理的效率和自主能力。",
+  "highlights": [
+    "多代理支持与性能优化",
+    "集成记忆与安全系统",
+    "研究优先的开发理念"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Memory",
+    "Safety",
+    "Tool-use"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:26:21Z",
+  "updated_at": "2026-04-25T12:26:21Z"
+}

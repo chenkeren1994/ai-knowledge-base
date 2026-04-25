@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260425-027",
+  "title": "There Will Be a Scientific Theory of Deep Learning",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.21691",
+  "author": null,
+  "summary": "探讨深度学习是否能够发展出科学理论，强调数学基础与可解释性的重要性。",
+  "highlights": [
+    "提出深度学习理论化的必要性",
+    "讨论现有理论进展与挑战"
+  ],
+  "tags": [
+    "Transformer",
+    "Embedding",
+    "Evaluation"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:26:21Z",
+  "updated_at": "2026-04-25T12:26:21Z"
+}

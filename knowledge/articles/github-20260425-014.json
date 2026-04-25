@@ -1,0 +1,25 @@
+{
+  "id": "github-20260425-014",
+  "title": "anomalyco/opencode",
+  "source": "github",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "summary": "OpenCode 是一个开源编码代理，基于 LLM 实现自主编程、代码生成和调试，提供可定制的工作流。",
+  "highlights": [
+    "开源编码代理",
+    "自主编程和调试",
+    "可定制工作流"
+  ],
+  "tags": [
+    "Agent",
+    "Coding",
+    "Autonomous",
+    "Fine-tuning",
+    "LLM"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:26:21Z",
+  "updated_at": "2026-04-25T12:26:21Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260425-028",
+  "title": "DeepSeek v4",
+  "source": "rss",
+  "source_url": "https://api-docs.deepseek.com/news/news260424",
+  "author": null,
+  "summary": "深度求索推出的第四代大语言模型，采用混合专家架构，在推理和编码任务上性能大幅提升。",
+  "highlights": [
+    "新一代MoE架构",
+    "推理与编码能力突破"
+  ],
+  "tags": [
+    "LLM",
+    "MoE",
+    "Coding",
+    "Inference"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:26:21Z",
+  "updated_at": "2026-04-25T12:26:21Z"
+}

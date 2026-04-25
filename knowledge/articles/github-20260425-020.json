@@ -1,0 +1,24 @@
+{
+  "id": "github-20260425-020",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic官方发布的Agent技能公共仓库，提供预构建的Agent能力模块，帮助开发者快速集成和复用Agent技能，降低开发门槛。",
+  "highlights": [
+    "官方Agent技能库",
+    "预构建可复用技能",
+    "降低Agent开发门槛"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Function calling",
+    "LLM"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:26:21Z",
+  "updated_at": "2026-04-25T12:26:21Z"
+}

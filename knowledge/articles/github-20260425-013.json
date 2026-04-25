@@ -1,0 +1,23 @@
+{
+  "id": "github-20260425-013",
+  "title": "Snailclimb/JavaGuide",
+  "source": "github",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "author": "Snailclimb",
+  "summary": "JavaGuide 是一个面向 Java 开发者和后端工程师的综合性面试指南，覆盖计算机基础、数据库、分布式系统、高并发、系统设计以及 AI 应用开发等核心知识点。",
+  "highlights": [
+    "涵盖 Java 面试全栈知识体系",
+    "高星开源项目，社区活跃",
+    "包含 AI 应用开发最新内容"
+  ],
+  "tags": [
+    "Coding",
+    "Knowledge Base",
+    "Documentation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:26:21Z",
+  "updated_at": "2026-04-25T12:26:21Z"
+}

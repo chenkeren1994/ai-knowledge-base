@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260425-007",
+  "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+  "source": "rss",
+  "source_url": "https://alash3al.github.io/stash?_v01",
+  "author": null,
+  "summary": "一个开源记忆层项目，旨在让任何AI代理都能实现像Claude.ai和ChatGPT那样的持久记忆能力，提升对话连续性和个性化体验。",
+  "highlights": [
+    "为AI代理提供开源持久记忆层",
+    "模仿Claude和ChatGPT的记忆功能",
+    "通用化解决方案，可集成多种代理"
+  ],
+  "tags": [
+    "Memory",
+    "LLM",
+    "Agent",
+    "Open Source"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:06:32Z",
+  "updated_at": "2026-04-25T12:06:32Z"
+}

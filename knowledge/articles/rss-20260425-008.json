@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260425-008",
+  "title": "There Will Be a Scientific Theory of Deep Learning",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.21691",
+  "author": null,
+  "summary": "本文探讨深度学习领域是否可能发展出统一科学理论，分析当前理论基础缺失的挑战与未来方向。",
+  "highlights": [
+    "提出深度学习理论化的愿景",
+    "分析深度学习黑箱问题与理论瓶颈"
+  ],
+  "tags": [
+    "LLM",
+    "Transformer",
+    "Deep Learning"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-25T12:06:32Z",
+  "updated_at": "2026-04-25T12:06:32Z"
+}

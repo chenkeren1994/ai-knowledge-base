@@ -1,0 +1,18 @@
+{
+  "id": "github-trending-20260425-001",
+  "title": "chekusu/wanman",
+  "source": "github-trending",
+  "source_url": "https://github.com/chekusu/wanman",
+  "author": "chekusu",
+  "summary": "开源 Agent 矩阵运行时，受日本单人列车启发，人类退居观察者，本地 runtime 自主协调多 Agent 工作流与任务执行。",
+  "highlights": [
+    "人机角色反转 — 人类不再逐个指挥Agent，而是退后观察自治运行，理念新颖",
+    "多Agent矩阵编排 — 本地runtime自主协调工作流，Claude Code+Codex双模型驱动"
+  ],
+  "tags": ["Multi-agent", "Agent", "Autonomous", "Tool-use"],
+  "relevance": 7,
+  "status": "published",
+  "published_at": "2026-04-22T14:17:57Z",
+  "created_at": "2026-04-25T10:30:00Z",
+  "updated_at": "2026-04-25T10:30:00Z"
+}

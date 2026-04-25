@@ -1,0 +1,18 @@
+{
+  "id": "github-trending-20260425-005",
+  "title": "ereztdev/langmem-ts",
+  "source": "github-trending",
+  "source_url": "https://github.com/ereztdev/langmem-ts",
+  "author": "ereztdev",
+  "summary": "TypeScript 原生 Agent 记忆原语：Embed→Store→Retrieve→Inject，Postgres+pgvector，零框架耦合。",
+  "highlights": [
+    "零框架耦合 — 消费者自管连接，不依赖LangChain等框架",
+    "可替换Embedder — 支持多种嵌入模型灵活切换"
+  ],
+  "tags": ["Agent", "Memory", "RAG", "Vector DB"],
+  "relevance": 5,
+  "status": "published",
+  "published_at": "2026-04-18T01:50:30Z",
+  "created_at": "2026-04-25T10:30:00Z",
+  "updated_at": "2026-04-25T10:30:00Z"
+}

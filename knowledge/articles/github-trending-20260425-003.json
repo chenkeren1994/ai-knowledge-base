@@ -1,0 +1,18 @@
+{
+  "id": "github-trending-20260425-003",
+  "title": "niklasfrick/spark-dashboard",
+  "source": "github-trending",
+  "source_url": "https://github.com/niklasfrick/spark-dashboard",
+  "author": "niklasfrick",
+  "summary": "GPU/CPU/内存/vLLM 实时硬件与 LLM 推理监控仪表板，适用于 LLM 部署运维场景。",
+  "highlights": [
+    "LLM推理可观测 — GPU+CPU+内存+vLLM多维度实时指标流式推送",
+    "Dashboard可视化 — 直观仪表板降低LLM部署运维门槛"
+  ],
+  "tags": ["Inference", "Deployment", "Evaluation"],
+  "relevance": 5,
+  "status": "published",
+  "published_at": "2026-04-20T16:10:13Z",
+  "created_at": "2026-04-25T10:30:00Z",
+  "updated_at": "2026-04-25T10:30:00Z"
+}

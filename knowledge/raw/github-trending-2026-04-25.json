@@ -1,12 +1,12 @@
 {
   "source": "github-trending",
   "skill": "github-trending",
-  "collected_at": "2026-04-25T17:00:00Z",
+  "collected_at": "2026-04-25T10:00:00Z",
   "items": [
     {
       "name": "cosmicstack-labs/mercury-agent",
       "url": "https://github.com/cosmicstack-labs/mercury-agent",
-      "summary": "mercury-agent 是带 Soul 人格系统和 Second Brain 记忆的 AI Agent 框架，CLI/Telegram 7×24 运行。值得关注：10种记忆类型自动提取、权限硬化、31内置工具、多Provider降级。",
+      "summary": "mercury-agent 带 Soul 人格系统与 Second Brain 持久记忆的 AI Agent 框架，CLI/Telegram 7×24 守护进程运行。值得关注：10种记忆类型自动提取合并、权限硬化、31内置工具。",
       "stars": 623,
       "language": "TypeScript",
       "topics": ["ai-assistant", "ai-agent", "llm"]
@@ -14,71 +14,71 @@
     {
       "name": "future-agi/future-agi",
       "url": "https://github.com/future-agi/future-agi",
-      "summary": "future-agi 是一站式 LLM 与 AI Agent 评估优化平台，覆盖模拟→评估→防护→监控→优化的生产级闭环，自托管 Apache 2.0 开源。值得关注：50+指标评估、Go 网关 29k req/s、6种 Prompt 优化算法。",
-      "stars": 279,
+      "summary": "future-agi 一站式 LLM 与 AI Agent 评估/防护/优化平台，覆盖模拟→监控的完整闭环，Apache 2.0 自托管。值得关注：50+评估指标、Go网关 29k req/s、6种 Prompt 优化算法。",
+      "stars": 309,
       "language": "Python",
       "topics": ["ai", "ai-gateway", "evals", "llm", "observability", "simulation"]
     },
     {
       "name": "YGYOOO/WorldX",
       "url": "https://github.com/YGYOOO/WorldX",
-      "summary": "WorldX 一句话即可生成 AI 自主驱动的虚拟世界，角色自主决策、建立关系、涌现叙事。值得关注：四模型协作架构（编排/绘图/审查/驱动）、上帝模式、多时间线分叉。",
+      "summary": "WorldX 一句话生成 AI 自主驱动的虚拟世界，多 Agent 自主决策、涌现叙事。值得关注：四模型协作架构、上帝模式、多时间线分叉。",
       "stars": 207,
       "language": "TypeScript",
-      "topics": ["agent", "ai", "ai-agents", "llm", "generative-ai", "multi-agent-simulation", "emergent-behavior"]
+      "topics": ["agent", "ai", "ai-agents", "llm", "generative-ai", "multi-agent-simulation"]
+    },
+    {
+      "name": "chekusu/wanman",
+      "url": "https://github.com/chekusu/wanman",
+      "summary": "wanman 受日本单人列车启发的开源 Agent 矩阵运行时，人类退居观察者，本地 runtime 自主协调多 Agent 工作流。值得关注：自主多 Agent 编排新范式。",
+      "stars": 192,
+      "language": "TypeScript",
+      "topics": ["agent", "claude-code", "codex", "llm"]
     },
     {
       "name": "JuliusBrussee/cavemem",
       "url": "https://github.com/JuliusBrussee/cavemem",
-      "summary": "cavemem 为编码助手提供跨 Agent 持久记忆系统，采用 caveman 语法压缩减少 75% token，SQLite 本地存储+MCP 检索。值得关注：跨5种主流IDE兼容、混合检索。",
+      "summary": "cavemem 为编码助手提供跨 Agent 持久记忆，caveman 语法压缩 token 75%，SQLite+MCP 本地检索。值得关注：跨 5 种 IDE 兼容、混合检索。",
       "stars": 139,
       "language": "TypeScript",
       "topics": ["ai", "memory", "rag", "claude-code"]
     },
     {
-      "name": "chekusu/wanman",
-      "url": "https://github.com/chekusu/wanman",
-      "summary": "wanman 是受日本单人列车启发的开源 Agent 矩阵运行时，让用户退居观察者角色，本地 runtime 自主协调多 Agent 工作流。值得关注：自主多Agent编排新范式。",
-      "stars": 110,
-      "language": "TypeScript",
-      "topics": ["agent", "claude-code", "codex", "llm"]
-    },
-    {
       "name": "chaohong-ai/ai-auto-work",
       "url": "https://github.com/chaohong-ai/ai-auto-work",
-      "summary": "ai-auto-work 实现从需求调研→规划→开发→审查的 AI 全自动工程流水线，Claude+Codex 双模型对抗审查。值得关注：上下文污染隔离、编译测试机械门禁、原子化提交。",
+      "summary": "ai-auto-work AI 全自动工程流水线：需求调研→规划→开发→审查，Claude+Codex 双模型对抗审查。值得关注：上下文隔离、编译测试门禁、原子化提交。",
       "stars": 89,
       "language": "Shell",
-      "topics": ["agent", "ai", "llm", "autonomous-coding", "code-review", "workflow"]
+      "topics": ["agent", "ai", "llm", "autonomous-coding", "code-review"]
     },
     {
       "name": "esengine/reasonix",
       "url": "https://github.com/esengine/reasonix",
-      "summary": "reasonix 是 DeepSeek 原生 Agent 框架，提供 Cache-First Loop、R1 思维链提取、工具调用修复等能力。值得关注：专为 DeepSeek 推理模型优化的 Agent 架构。",
-      "stars": 64,
+      "summary": "reasonix DeepSeek 原生 Agent 框架：Cache-First Loop + R1 思维链提取 + 工具调用修复。值得关注：专为推理模型优化的 Agent 架构。",
+      "stars": 66,
       "language": "TypeScript",
       "topics": ["agent", "deepseek", "llm", "tool-use", "prompt-caching"]
     },
     {
       "name": "Google-Cloud-AI/agent-platform",
       "url": "https://github.com/Google-Cloud-AI/agent-platform",
-      "summary": "agent-platform 是 Google 官方 Gemini Enterprise Agent Platform 代码示例合集，涵盖 Build/Scale/Govern/Optimize 四大板块。值得关注：Google Agent 全栈布局全景图。",
+      "summary": "agent-platform Google 官方 Gemini Enterprise Agent Platform 代码示例合集，覆盖 Build/Scale/Govern/Optimize 四大板块。值得关注：Google Agent 全栈布局。",
       "stars": 43,
       "language": null,
-      "topics": ["enterprise", "gemini", "agents", "llm", "generative-ai", "agentic"]
+      "topics": ["enterprise", "gemini", "agents", "llm", "generative-ai"]
     },
     {
       "name": "agentodyssey/agentodyssey",
       "url": "https://github.com/agentodyssey/agentodyssey",
-      "summary": "agentodyssey 是 Agent 持续学习评测框架，通过文本游戏评估5种认知能力，支持6种记忆范式公平对比。值得关注：首个标准化 test-time continual learning 基准。",
+      "summary": "agentodyssey Agent 持续学习评测框架，通过文本游戏评估 5 种认知能力+6 种记忆范式。值得关注：首个标准化 test-time continual learning 基准。",
       "stars": 37,
       "language": "Python",
-      "topics": ["agents", "ai", "llm", "continual-learning", "memory", "test-time-training"]
+      "topics": ["agents", "ai", "llm", "continual-learning", "memory"]
     },
     {
       "name": "java-up-up/super-agent",
       "url": "https://github.com/java-up-up/super-agent",
-      "summary": "super-agent 是 Java 生态企业级 AI Agent 平台，集成 RAG+MCP+Skills+三层执行器。值得关注：五步前置编排、双通道混合检索、Parent-Child 块聚合等工程化深度。",
+      "summary": "super-agent Java 生态企业级 AI Agent 平台，集成 RAG+MCP+Skills。值得关注：五步前置编排、双通道检索、Parent-Child 块聚合。",
       "stars": 29,
       "language": "Java",
       "topics": ["agent", "ai", "llm", "mcp", "rag", "skills"]
@@ -86,7 +86,7 @@
     {
       "name": "dakshjain-1616/Qwen-Lens-Studio",
       "url": "https://github.com/dakshjain-1616/Qwen-Lens-Studio",
-      "summary": "Qwen-Lens-Studio 基于 Qwen3.6-35B-A3B 的多模态 AI 工作室，提供5种视觉工具（推理/描述/OCR/代码生成/对比）。值得关注：单模型多功能应用、截图转代码。",
+      "summary": "Qwen-Lens-Studio 基于 Qwen3.6-35B-A3B 的多模态 AI 工作室，5 种视觉工具（推理/OCR/代码生成等）。值得关注：单模型多功能应用。",
       "stars": 23,
       "language": "TypeScript",
       "topics": ["ai", "llm", "multimodal", "qwen", "computer-vision"]
@@ -94,7 +94,7 @@
     {
       "name": "floodsung/floodsung-skill",
       "url": "https://github.com/floodsung/floodsung-skill",
-      "summary": "floodsung-skill 将 Flood Sung 十年知乎全量语料（~90万字）蒸馏为 Claude Code Skill，实现个人数字分身。值得关注：'开源自己'理念、Skill 三层架构最佳实践。",
+      "summary": "floodsung-skill 将 Flood Sung 十年知乎 ~90 万字语料蒸馏为 Claude Code Skill，生成个人数字分身。值得关注：开源自己理念、Skill 三层架构。",
       "stars": 19,
       "language": "Python",
       "topics": ["skill", "ai-agent", "llm", "claude-code", "digital-twin"]
@@ -102,26 +102,26 @@
     {
       "name": "niklasfrick/spark-dashboard",
       "url": "https://github.com/niklasfrick/spark-dashboard",
-      "summary": "spark-dashboard 提供 GPU/CPU/内存/vLLM 实时硬件与 LLM 推理监控仪表板。值得关注：模型推理可观测性工具，适用于 LLM 部署运维。",
-      "stars": 17,
+      "summary": "spark-dashboard GPU/CPU/内存/vLLM 实时监控仪表板，面向 LLM 推理运维。值得关注：LLM 部署可观测性实用工具。",
+      "stars": 18,
       "language": "TypeScript",
       "topics": ["ai", "llm", "gpu-monitoring", "observability", "vllm"]
     },
     {
       "name": "Visko-Platform/VEFX-Bench",
       "url": "https://github.com/Visko-Platform/VEFX-Bench",
-      "summary": "VEFX-Bench 是面向通用视频编辑和视觉特效的整体基准测试。值得关注：AI+视频生成领域的标准化评测工具。",
-      "stars": 15,
+      "summary": "VEFX-Bench 通用视频编辑与视觉特效基准测试。值得关注：AI+视频生成领域标准化评测工具。",
+      "stars": 16,
       "language": "Python",
       "topics": ["agent", "ai", "generative-ai", "video-generation"]
     },
     {
       "name": "ereztdev/langmem-ts",
       "url": "https://github.com/ereztdev/langmem-ts",
-      "summary": "langmem-ts 是 TypeScript 原生 AI Agent 记忆原语（Embed→Store→Retrieve→Inject），基于 Postgres+pgvector。值得关注：零框架耦合、可替换 Embedder。",
+      "summary": "langmem-ts TypeScript 原生 Agent 记忆原语（Embed→Store→Retrieve→Inject），基于 Postgres+pgvector。值得关注：零框架耦合、可替换 Embedder。",
       "stars": 12,
       "language": "TypeScript",
-      "topics": ["agent", "ai", "memory", "rag", "vector-database", "langchain"]
+      "topics": ["agent", "ai", "memory", "rag", "vector-database"]
     }
   ]
 }

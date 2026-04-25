@@ -342,6 +342,9 @@ def get_provider() -> LLMProvider:
     return _default_provider
 
 
+create_provider = build_provider
+
+
 def reset_provider() -> None:
     """重置全局提供商实例（用于测试或切换提供商）。"""
     global _default_provider

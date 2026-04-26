@@ -1,0 +1,23 @@
+{
+  "id": "github-20260426-018",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "Hermes-Agent 是一个可随着用户交互不断成长的自主智能体框架，注重个性化适应与持续进化能力。",
+  "highlights": [
+    "支持智能体自主成长与演进",
+    "强调个性化交互与长期适应"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "LLM",
+    "Fine-tuning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-26T02:23:43Z",
+  "updated_at": "2026-04-26T02:23:43Z"
+}

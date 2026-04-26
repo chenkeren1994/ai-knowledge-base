@@ -1,0 +1,25 @@
+{
+  "id": "github-20260426-016",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic 开源了 Agent Skills 仓库，提供一系列可复用的智能体技能模块，旨在降低 AI Agent 开发门槛，加速智能体应用构建。",
+  "highlights": [
+    "提供可复用的Agent技能模块",
+    "降低AI Agent开发门槛",
+    "来自Anthropic官方开源项目"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Autonomous",
+    "LLM",
+    "Multi-agent"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-26T02:23:43Z",
+  "updated_at": "2026-04-26T02:23:43Z"
+}

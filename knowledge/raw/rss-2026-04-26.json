@@ -1,6 +1,6 @@
 {
   "source": "github,rss",
-  "collected_at": "2026-04-26T02:23:23Z",
+  "collected_at": "2026-04-26T08:47:30Z",
   "items": [
     {
       "title": "OpenAI Privacy Filter",
@@ -25,6 +25,26 @@
     {
       "title": "GPT‑5.5 Bio Bug Bounty",
       "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
       "source": "rss",
       "popularity": 0,
       "description": "",

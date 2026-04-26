@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260426-041",
+  "title": "OpenAI Privacy Filter",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-openai-privacy-filter/",
+  "author": null,
+  "summary": "文章介绍了OpenAI的隐私过滤器，用于保护用户数据安全和隐私。",
+  "highlights": [
+    "隐私过滤功能保护用户数据",
+    "提升AI应用的安全性"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Guardrails"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-26T08:47:52Z",
+  "updated_at": "2026-04-26T08:47:52Z"
+}

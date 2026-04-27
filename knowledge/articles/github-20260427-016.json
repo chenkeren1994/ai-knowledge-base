@@ -1,0 +1,23 @@
+{
+  "id": "github-20260427-016",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic 官方发布的公开 Agent 技能库，提供预构建的可复用技能模块，旨在简化智能体开发流程。",
+  "highlights": [
+    "官方预构建可复用技能模块",
+    "加速智能体应用开发流程"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Autonomous",
+    "Fine-tuning"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-27T10:03:15Z",
+  "updated_at": "2026-04-27T10:03:15Z"
+}

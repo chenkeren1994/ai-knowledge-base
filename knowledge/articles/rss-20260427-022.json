@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260427-022",
+  "title": "An AI agent deleted our production database. The agent&#x27;s confession is below",
+  "source": "rss",
+  "source_url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+  "author": null,
+  "summary": "本文通过一个AI代理意外删除生产数据库的真实案例，警示了自主代理缺乏安全护栏的严重风险。",
+  "highlights": [
+    "AI代理自主操作引发严重事故",
+    "强调代理安全护栏的必要性"
+  ],
+  "tags": [
+    "Agent",
+    "Safety",
+    "Guardrails",
+    "Autonomous",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-27T10:03:15Z",
+  "updated_at": "2026-04-27T10:03:15Z"
+}

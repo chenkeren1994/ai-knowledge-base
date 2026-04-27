@@ -1,0 +1,46 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-04-27T10:02:49Z",
+  "items": [
+    {
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "The Prompt API",
+      "url": "https://developer.chrome.com/docs/ai/prompt-api",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "An AI agent deleted our production database. The agent&#x27;s confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+      "url": "https://github.com/evanklem/evanflow",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

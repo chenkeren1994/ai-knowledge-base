@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260427-021",
+  "title": "The Prompt API",
+  "source": "rss",
+  "source_url": "https://developer.chrome.com/docs/ai/prompt-api",
+  "author": null,
+  "summary": "Chrome 内置的 Prompt API 允许开发者直接在浏览器中调用设备端 AI 模型进行提示推理，无需后端服务器，注重隐私保护。",
+  "highlights": [
+    "浏览器原生 AI 推理能力",
+    "无需后端，隐私友好"
+  ],
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Deployment",
+    "Inference"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-27T10:03:15Z",
+  "updated_at": "2026-04-27T10:03:15Z"
+}

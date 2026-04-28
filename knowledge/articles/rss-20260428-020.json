@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260428-020",
+  "title": "Talkie: a 13B vintage language model from 1930",
+  "source": "rss",
+  "source_url": "https://talkie-lm.com/introducing-talkie",
+  "author": null,
+  "summary": "Talkie 是一个基于1930年代语料训练的13B参数复古语言模型，旨在模拟早期时代的语言风格和知识背景。",
+  "highlights": [
+    "13B参数的复古语言模型",
+    "使用1930年代语料训练",
+    "模拟早期语言风格与知识"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Historical"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-28T10:04:07Z",
+  "updated_at": "2026-04-28T10:04:07Z"
+}

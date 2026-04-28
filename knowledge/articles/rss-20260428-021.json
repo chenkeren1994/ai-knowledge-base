@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260428-021",
+  "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+  "source": "rss",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+  "author": null,
+  "summary": "微软与OpenAI结束独家合作与收入分成协议，双方关系从排他性转向更开放的合作模式，可能影响AI行业格局。",
+  "highlights": [
+    "结束独家合作与收入分成",
+    "OpenAI可与其他云服务商合作",
+    "微软仍将使用OpenAI模型"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Chatbot"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-28T10:04:07Z",
+  "updated_at": "2026-04-28T10:04:07Z"
+}

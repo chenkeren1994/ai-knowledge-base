@@ -1,0 +1,25 @@
+{
+  "id": "github-20260429-010",
+  "title": "anomalyco/opencode",
+  "source": "github",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "summary": "OpenCode 是一个开源的编码代理，旨在替代商业编码助手（如 GitHub Copilot），支持本地部署和多种模型，提供智能代码补全、生成和交互式编码功能。",
+  "highlights": [
+    "开源替代Copilot的编码代理",
+    "支持本地部署和多种模型",
+    "高度可定制和社区驱动"
+  ],
+  "tags": [
+    "Coding",
+    "Agent",
+    "LLM",
+    "Tool-use",
+    "Function calling"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-29T09:55:34Z",
+  "updated_at": "2026-04-29T09:55:34Z"
+}

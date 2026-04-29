@@ -1,0 +1,25 @@
+{
+  "id": "github-20260429-016",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic官方发布的智能体技能库，提供可复用的技能模块，用于构建更强大的AI Agent。",
+  "highlights": [
+    "Anthropic官方发布，高信誉背书",
+    "12万+星标，社区高度关注",
+    "提供可复用技能模块，加速Agent开发"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Autonomous",
+    "Prompt Engineering",
+    "Coding"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-29T09:55:34Z",
+  "updated_at": "2026-04-29T09:55:34Z"
+}

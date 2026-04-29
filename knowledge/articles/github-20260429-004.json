@@ -1,0 +1,24 @@
+{
+  "id": "github-20260429-004",
+  "title": "ollama/ollama",
+  "source": "github",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "summary": "ollama 是一个本地大语言模型运行工具，支持快速启动和运行多种开源模型（如 Kimi-K2.5、DeepSeek、Qwen 等），提供简洁的命令行和 API 接口。",
+  "highlights": [
+    "一行命令部署运行多种 LLM",
+    "支持多模态和主流开源模型",
+    "跨平台且性能优化良好"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Inference",
+    "Multi-modal"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-29T09:55:34Z",
+  "updated_at": "2026-04-29T09:55:34Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260429-020",
+  "title": "How ChatGPT serves ads",
+  "source": "rss",
+  "source_url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+  "author": null,
+  "summary": "文章解析了ChatGPT的广告投放机制，涉及基于对话上下文的定向广告、用户数据使用及隐私保护策略。",
+  "highlights": [
+    "广告与AI对话深度整合",
+    "基于上下文语义的精准定向",
+    "平衡用户体验与商业化"
+  ],
+  "tags": [
+    "Chatbot",
+    "LLM",
+    "Deployment"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-29T09:55:34Z",
+  "updated_at": "2026-04-29T09:55:34Z"
+}

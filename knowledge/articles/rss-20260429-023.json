@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260429-023",
+  "title": "Talkie: a 13B vintage language model from 1930",
+  "source": "rss",
+  "source_url": "https://talkie-lm.com/introducing-talkie",
+  "author": null,
+  "summary": "这是一个名为 Talkie 的 13B 参数的语言模型，宣称来自 1930 年，可能是一个复古风格或恶搞项目，缺乏实际技术细节。",
+  "highlights": [
+    "13B 参数规模",
+    "1930 年复古设定"
+  ],
+  "tags": [
+    "LLM",
+    "Chatbot",
+    "Prompt Engineering"
+  ],
+  "relevance": 2,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-29T09:55:34Z",
+  "updated_at": "2026-04-29T09:55:34Z"
+}

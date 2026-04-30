@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260430-021",
+  "title": "Mozilla&#x27;s Opposition to Chrome&#x27;s Prompt API",
+  "source": "rss",
+  "source_url": "https://github.com/mozilla/standards-positions/issues/1213",
+  "author": null,
+  "summary": "Mozilla公开反对Chrome的Prompt API，担忧其隐私、安全和标准制定问题。",
+  "highlights": [
+    "Mozilla反对Chrome Prompt API",
+    "聚焦隐私与安全风险",
+    "浏览器AI接口标准化争议"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Guardrails"
+  ],
+  "relevance": 3,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-30T09:55:36Z",
+  "updated_at": "2026-04-30T09:55:36Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "github-20260430-017",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "HerMes Agent 是由 Nous Research 开发的智能代理项目，旨在通过持续交互与学习，随用户共同成长与进化。",
+  "highlights": [
+    "智能代理随用户动态进化",
+    "强调个性化成长与交互适应"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Fine-tuning",
+    "Autonomous"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-30T09:55:36Z",
+  "updated_at": "2026-04-30T09:55:36Z"
+}

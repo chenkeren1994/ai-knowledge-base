@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260430-022",
+  "title": "Mike: open-source legal AI",
+  "source": "rss",
+  "source_url": "https://mikeoss.com/",
+  "author": null,
+  "summary": "Mike是一个面向法律场景的开源AI项目，专注于法律文档理解与智能问答，旨在降低法律服务门槛。",
+  "highlights": [
+    "开源法律专用AI模型",
+    "支持合同分析与法律咨询",
+    "降低中小律所AI应用门槛"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "RAG",
+    "Knowledge Base",
+    "Chatbot"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-30T09:55:36Z",
+  "updated_at": "2026-04-30T09:55:36Z"
+}

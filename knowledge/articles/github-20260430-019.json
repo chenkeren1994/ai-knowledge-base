@@ -1,0 +1,25 @@
+{
+  "id": "github-20260430-019",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "summary": "Firecrawl 是一个专为AI应用设计的API，提供网页搜索、抓取和交互功能，简化从网络获取结构化数据的过程。",
+  "highlights": [
+    "面向AI的网页数据提取API",
+    "高热度开源工具，超过11万星星",
+    "支持搜索、抓取和交互一体化"
+  ],
+  "tags": [
+    "RAG",
+    "Search",
+    "Tool-use",
+    "LLM",
+    "Agent"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-30T09:55:36Z",
+  "updated_at": "2026-04-30T09:55:36Z"
+}

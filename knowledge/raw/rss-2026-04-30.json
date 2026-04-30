@@ -1,0 +1,46 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-04-30T09:55:06Z",
+  "items": [
+    {
+      "title": "The Zig project&#x27;s rationale for their anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Mozilla&#x27;s Opposition to Chrome&#x27;s Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Mike: open-source legal AI",
+      "url": "https://mikeoss.com/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+      "url": "https://datacenter.fm/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

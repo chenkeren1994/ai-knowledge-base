@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260430-020",
+  "title": "The Zig project&#x27;s rationale for their anti-AI contribution policy",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+  "author": null,
+  "summary": "Zig项目阐述了其禁止AI贡献政策背后的理由，主要涉及代码质量、版权和社区价值观。",
+  "highlights": [
+    "Zig明确反对AI生成的代码贡献",
+    "政策基于质量与版权考量"
+  ],
+  "tags": [
+    "Safety",
+    "Documentation"
+  ],
+  "relevance": 2,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-30T09:55:36Z",
+  "updated_at": "2026-04-30T09:55:36Z"
+}

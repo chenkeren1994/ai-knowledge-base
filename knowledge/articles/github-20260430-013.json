@@ -1,0 +1,24 @@
+{
+  "id": "github-20260430-013",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该项目收集了超过25种AI工具的系统提示（system prompts）、内部工具及模型信息，为理解这些AI助手的行为模式和提示工程技术提供了宝贵资源。",
+  "highlights": [
+    "收录25+主流AI工具的system prompts",
+    "包含内部工具与模型信息，资源丰富",
+    "社区热度极高（136k+ stars）"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Agent",
+    "Tool-use",
+    "LLM"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-04-30T09:55:36Z",
+  "updated_at": "2026-04-30T09:55:36Z"
+}

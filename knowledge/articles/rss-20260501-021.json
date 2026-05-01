@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260501-021",
+  "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+  "source": "rss",
+  "source_url": "https://twitter.com/theo/status/2049645973350363168",
+  "author": null,
+  "summary": "报道指出，Claude Code 工具会在检测到 Git 提交信息中包含“OpenClaw”关键词时拒绝请求或额外收费，暴露了 LLM 工具对特定关键词敏感的定价与使用策略。",
+  "highlights": [
+    "特定关键词触发计费或拒绝机制",
+    "暴露 LLM 工具策略化运营风险"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Guardrails"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-01T09:24:05Z",
+  "updated_at": "2026-05-01T09:24:05Z"
+}

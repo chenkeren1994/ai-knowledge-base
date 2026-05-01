@@ -1,0 +1,24 @@
+{
+  "id": "github-20260501-006",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "一个广泛使用的Stable Diffusion图形化界面，提供文本生成图像、图像编辑、超分辨率等功能，极大降低了AI图像生成的门槛。",
+  "highlights": [
+    "一键安装和运行Stable Diffusion模型",
+    "支持多种采样器和扩展插件",
+    "社区活跃，持续更新与优化"
+  ],
+  "tags": [
+    "Diffusion",
+    "Fine-tuning",
+    "Prompt Engineering",
+    "Deployment"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-01T09:24:05Z",
+  "updated_at": "2026-05-01T09:24:05Z"
+}

@@ -1,0 +1,36 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-05-02T08:55:36Z",
+  "items": [
+    {
+      "title": "Eka’s robotic claw feels like we&#x27;re approaching a ChatGPT moment",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Show HN: AI CAD Harness",
+      "url": "https://fusion.adam.new/install",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

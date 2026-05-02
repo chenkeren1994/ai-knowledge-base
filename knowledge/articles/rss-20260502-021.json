@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260502-021",
+  "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+  "author": null,
+  "summary": "DeepSeek V4 以极低成本实现了接近前沿水平的性能，可能通过架构优化或高效训练方法达成。",
+  "highlights": [
+    "接近前沿性能",
+    "价格极低"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Inference"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-02T08:56:01Z",
+  "updated_at": "2026-05-02T08:56:01Z"
+}

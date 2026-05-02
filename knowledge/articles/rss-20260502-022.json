@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260502-022",
+  "title": "Show HN: AI CAD Harness",
+  "source": "rss",
+  "source_url": "https://fusion.adam.new/install",
+  "author": null,
+  "summary": "一个利用AI辅助计算机辅助设计（CAD）的开源工具，可能通过自然语言或图像输入生成CAD模型，旨在提高设计效率。",
+  "highlights": [
+    "AI驱动的CAD设计工具",
+    "提升设计自动化与效率"
+  ],
+  "tags": [
+    "Multi-modal",
+    "Tool-use",
+    "Agent",
+    "Prompt Engineering"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-02T08:56:01Z",
+  "updated_at": "2026-05-02T08:56:01Z"
+}

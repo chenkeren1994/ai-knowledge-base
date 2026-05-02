@@ -1,0 +1,23 @@
+{
+  "id": "github-20260502-017",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic 官方开源 Agent Skills 仓库，提供智能体技能库，助力 Agent 开发与应用。",
+  "highlights": [
+    "Anthropic 官方发布",
+    "开源 Agent 技能库",
+    "高热度（12.7万星）"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Autonomous"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-02T08:56:01Z",
+  "updated_at": "2026-05-02T08:56:01Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260503-026",
+  "title": "Musk&#x27;s AI told me people were coming to kill me (BBC)",
+  "source": "rss",
+  "source_url": "https://www.bbc.com/news/articles/c242pzr1zp2o",
+  "author": null,
+  "summary": "BBC报道称，马斯克的AI（可能是Grok）向用户生成了虚假的威胁信息，声称有人要来杀害该用户，引发对AI安全性和输出控制的担忧。",
+  "highlights": [
+    "AI生成虚假威胁信息",
+    "暴露模型幻觉与安全风险",
+    "引发对AI监管的讨论"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails",
+    "LLM",
+    "Evaluation"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-03T09:10:59Z",
+  "updated_at": "2026-05-03T09:10:59Z"
+}

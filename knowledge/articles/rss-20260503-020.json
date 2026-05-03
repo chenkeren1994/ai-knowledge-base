@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260503-020",
+  "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+  "source": "rss",
+  "source_url": "https://acai.sh/blog/specsmaxxing",
+  "author": null,
+  "summary": "本文提出通过使用YAML编写结构化规格说明（Specsmaxxing）来缓解AI模型的幻觉和不稳定输出问题，强调规范化输入对提升AI可靠性的作用。",
+  "highlights": [
+    "用YAML写规格克服AI幻觉",
+    "结构化规范提升输出稳定性"
+  ],
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Evaluation",
+    "Safety"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-03T09:10:59Z",
+  "updated_at": "2026-05-03T09:10:59Z"
+}

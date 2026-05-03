@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260503-022",
+  "title": "The agent harness belongs outside the sandbox",
+  "source": "rss",
+  "source_url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+  "author": null,
+  "summary": "探讨AI agent的部署架构，主张将agent harness置于沙箱之外以平衡安全与功能性。",
+  "highlights": [
+    "提出agent harness外置于沙箱的新范式",
+    "强调安全与实用性的平衡",
+    "提供部署agent的实用建议"
+  ],
+  "tags": [
+    "Agent",
+    "Deployment",
+    "Safety",
+    "Autonomous",
+    "Tool-use"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-03T09:10:59Z",
+  "updated_at": "2026-05-03T09:10:59Z"
+}

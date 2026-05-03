@@ -1,0 +1,24 @@
+{
+  "id": "github-20260503-002",
+  "title": "n8n-io/n8n",
+  "source": "github",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "author": "n8n-io",
+  "summary": "n8n 是一个公平代码的工作流自动化平台，原生支持 AI 能力，提供可视化构建与自定义代码结合，支持自托管或云部署，拥有超过 400 个集成。",
+  "highlights": [
+    "可视化工作流与自定义代码结合",
+    "400+ 第三方集成",
+    "原生 AI 能力嵌入自动化"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Deployment",
+    "Fine-tuning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-03T09:10:59Z",
+  "updated_at": "2026-05-03T09:10:59Z"
+}

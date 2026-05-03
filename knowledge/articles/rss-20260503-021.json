@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260503-021",
+  "title": "VS Code inserting &#x27;Co-Authored-by Copilot&#x27; into commits regardless of usage",
+  "source": "rss",
+  "source_url": "https://github.com/microsoft/vscode/pull/310226",
+  "author": null,
+  "summary": "VS Code 在未使用 Copilot 的情况下，仍会在 Git 提交中自动添加“Co-Authored-by Copilot”注释，引发用户对隐私和控制的争议。",
+  "highlights": [
+    "Copilot 提交标记不再基于实际使用",
+    "用户反馈未使用仍被自动标注"
+  ],
+  "tags": [
+    "Coding",
+    "Tool-use",
+    "Safety",
+    "Chatbot"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-03T09:10:59Z",
+  "updated_at": "2026-05-03T09:10:59Z"
+}

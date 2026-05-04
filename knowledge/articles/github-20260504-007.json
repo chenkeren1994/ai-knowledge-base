@@ -1,0 +1,24 @@
+{
+  "id": "github-20260504-007",
+  "title": "f/prompts.chat",
+  "source": "github",
+  "source_url": "https://github.com/f/prompts.chat",
+  "author": "f",
+  "summary": "一个社区驱动的 ChatGPT 提示词分享与发现平台，提供大量高质量提示词模板，支持开源自托管。",
+  "highlights": [
+    "社区共享海量优质提示词",
+    "开源可自托管保护隐私",
+    "提升 ChatGPT 使用效率"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Chatbot",
+    "Open Source",
+    "Community"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-04T10:03:49Z",
+  "updated_at": "2026-05-04T10:03:49Z"
+}

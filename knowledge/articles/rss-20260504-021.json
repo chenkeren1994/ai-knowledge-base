@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260504-021",
+  "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+  "source": "rss",
+  "source_url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+  "author": null,
+  "summary": "OpenAI的o1模型在急诊患者诊断中达到67%准确率，优于分诊医生的50-55%，展示了LLM在医疗诊断领域的应用潜力。",
+  "highlights": [
+    "急诊诊断准确率超越人类医生",
+    "o1模型准确率67% vs 医生50-55%"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Chatbot",
+    "Medical"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-04T10:03:49Z",
+  "updated_at": "2026-05-04T10:03:49Z"
+}

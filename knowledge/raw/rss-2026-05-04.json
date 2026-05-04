@@ -1,0 +1,26 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-05-04T10:03:26Z",
+  "items": [
+    {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

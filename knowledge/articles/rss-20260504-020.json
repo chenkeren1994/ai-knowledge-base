@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260504-020",
+  "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+  "source": "rss",
+  "source_url": "https://github.com/aattaran/deepclaude",
+  "author": null,
+  "summary": "DeepClaude 将 Claude Code 的 agent 循环与 DeepSeek V4 Pro 集成，实现多模型协作推理与任务执行。",
+  "highlights": [
+    "多模型 agent 循环协作",
+    "结合 Claude 与 DeepSeek 优势"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Multi-agent"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-04T10:03:49Z",
+  "updated_at": "2026-05-04T10:03:49Z"
+}

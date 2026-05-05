@@ -1,0 +1,25 @@
+{
+  "id": "github-20260505-015",
+  "title": "microsoft/generative-ai-for-beginners",
+  "source": "github",
+  "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "author": "microsoft",
+  "summary": "微软推出的生成式AI入门课程，包含21节课，覆盖从基础概念到实际构建应用的全流程，适合初学者系统学习。",
+  "highlights": [
+    "微软官方出品，系统性课程",
+    "21节实战教学，覆盖提示工程与RAG",
+    "GitHub 11万+星，社区活跃"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Prompt Engineering",
+    "RAG",
+    "Agent"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

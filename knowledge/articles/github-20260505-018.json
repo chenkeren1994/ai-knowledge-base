@@ -1,0 +1,25 @@
+{
+  "id": "github-20260505-018",
+  "title": "google-gemini/gemini-cli",
+  "source": "github",
+  "source_url": "https://github.com/google-gemini/gemini-cli",
+  "author": "google-gemini",
+  "summary": "谷歌官方开源项目，将Gemini大模型的能力以智能体形式集成到终端中，支持代码生成、文件操作、系统管理等任务。",
+  "highlights": [
+    "官方开源的终端AI智能体",
+    "直接调用Gemini模型能力",
+    "支持多种命令行自动化任务"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Autonomous",
+    "Coding",
+    "Chatbot"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

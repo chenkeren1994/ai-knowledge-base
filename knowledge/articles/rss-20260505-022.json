@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260505-022",
+  "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+  "source": "rss",
+  "source_url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+  "author": null,
+  "summary": "Google Chrome在未经用户明确同意的情况下静默安装了一个4GB的本地AI模型，引发隐私、设备性能和用户控制权的争议。",
+  "highlights": [
+    "4GB本地AI模型被静默安装",
+    "缺乏用户同意机制引隐私争议"
+  ],
+  "tags": [
+    "Deployment",
+    "Inference",
+    "Safety",
+    "Guardrails"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

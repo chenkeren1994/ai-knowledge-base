@@ -1,0 +1,23 @@
+{
+  "id": "github-20260505-014",
+  "title": "Comfy-Org/ComfyUI",
+  "source": "github",
+  "source_url": "https://github.com/Comfy-Org/ComfyUI",
+  "author": "Comfy-Org",
+  "summary": "ComfyUI 是一个高度模块化的扩散模型图形界面，基于节点/图接口，提供强大的工作流编辑、API和后端支持，广泛用于稳定扩散等模型的构建和部署。",
+  "highlights": [
+    "模块化节点图工作流",
+    "最强大的扩散模型GUI",
+    "高可扩展性与社区生态"
+  ],
+  "tags": [
+    "Diffusion",
+    "Tool-use",
+    "Deployment"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

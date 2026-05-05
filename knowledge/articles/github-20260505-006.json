@@ -1,0 +1,24 @@
+{
+  "id": "github-20260505-006",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是 Stable Diffusion 最流行的 Web 界面，提供直观的图形操作方式，支持模型加载、提示词编辑、图像生成与扩展功能。",
+  "highlights": [
+    "最流行的 Stable Diffusion Web UI",
+    "支持丰富的插件与扩展",
+    "降低 AI 绘画使用门槛"
+  ],
+  "tags": [
+    "Diffusion",
+    "Tool-use",
+    "Deployment",
+    "Prompt Engineering"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

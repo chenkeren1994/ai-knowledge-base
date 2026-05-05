@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260505-021",
+  "title": "Train Your Own LLM from Scratch",
+  "source": "rss",
+  "source_url": "https://github.com/angelos-p/llm-from-scratch",
+  "author": null,
+  "summary": "介绍如何从头开始训练自己的语言模型，涵盖数据收集、模型架构选择、训练流程和评估方法。",
+  "highlights": [
+    "从零训练LLM的端到端教程",
+    "覆盖数据准备与训练配置"
+  ],
+  "tags": [
+    "LLM",
+    "Transformer",
+    "Fine-tuning"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

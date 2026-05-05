@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260505-020",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "source": "rss",
+  "source_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+  "author": null,
+  "summary": "OpenAI 介绍了其构建低延迟语音 AI 服务的规模化方法，涵盖模型优化、推理加速和架构设计。",
+  "highlights": [
+    "实现语音 AI 低延迟规模化",
+    "涵盖模型优化与推理加速"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260505-023",
+  "title": "Agent Skills",
+  "source": "rss",
+  "source_url": "https://addyosmani.com/blog/agent-skills/",
+  "author": null,
+  "summary": "可能介绍了一种定义和实现AI Agent可复用技能的方法或框架，旨在提升Agent的模块化和可组合能力。",
+  "highlights": [
+    "聚焦Agent技能标准化与复用",
+    "强调模块化与可组合设计"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Function calling"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

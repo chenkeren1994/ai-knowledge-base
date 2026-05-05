@@ -1,0 +1,23 @@
+{
+  "id": "github-20260505-019",
+  "title": "supabase/supabase",
+  "source": "github",
+  "source_url": "https://github.com/supabase/supabase",
+  "author": "supabase",
+  "summary": "Supabase 是一个开源的 Postgres 开发平台，提供数据库、认证、实时订阅和存储功能，尤其适合作为 AI 应用的后端，支持向量存储和 RAG 场景。",
+  "highlights": [
+    "开源 Firebase 替代品",
+    "内置 Postgres 向量支持",
+    "AI 应用后端基础设施"
+  ],
+  "tags": [
+    "RAG",
+    "Vector DB",
+    "LangChain"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-05T09:50:16Z",
+  "updated_at": "2026-05-05T09:50:16Z"
+}

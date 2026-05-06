@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260506-021",
+  "title": "Three Inverse Laws of AI",
+  "source": "rss",
+  "source_url": "https://susam.net/inverse-laws-of-robotics.html",
+  "author": null,
+  "summary": "探讨人工智能领域存在的反直觉定律或逆尺度规律，分析模型规模、数据需求与性能之间的非线性关系及其对AI发展的启示。",
+  "highlights": [
+    "揭示AI规模与效率的反直觉关系",
+    "挑战传统Scaling Law假设",
+    "为模型部署提供新视角"
+  ],
+  "tags": [
+    "LLM",
+    "Scaling Law",
+    "Inference",
+    "Evaluation",
+    "Research"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-06T10:06:22Z",
+  "updated_at": "2026-05-06T10:06:22Z"
+}

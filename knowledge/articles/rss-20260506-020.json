@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260506-020",
+  "title": "Telus Uses AI to Alter Call-Agent Accents",
+  "source": "rss",
+  "source_url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+  "author": null,
+  "summary": "Telus 使用 AI 技术实时改变呼叫中心客服的口音，以减少口音歧视并提升沟通效率。",
+  "highlights": [
+    "AI 实时转换客服口音",
+    "提升客户服务包容性"
+  ],
+  "tags": [
+    "Chatbot",
+    "Deployment",
+    "Fine-tuning"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-06T10:06:22Z",
+  "updated_at": "2026-05-06T10:06:22Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-20260506-016",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "NousResearch推出的可扩展AI Agent框架，支持持续学习和个性化成长，基于Hermes模型系列。",
+  "highlights": [
+    "基于Hermes模型的可成长Agent框架",
+    "支持持续学习和个性化定制",
+    "高热度开源项目，社区活跃"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Fine-tuning",
+    "Autonomous",
+    "Tool-use"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-06T10:06:22Z",
+  "updated_at": "2026-05-06T10:06:22Z"
+}

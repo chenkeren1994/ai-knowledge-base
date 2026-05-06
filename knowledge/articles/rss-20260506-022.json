@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260506-022",
+  "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+  "source": "rss",
+  "source_url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+  "author": null,
+  "summary": "Wiki Builder 是一个用于构建 LLM 知识库的技能或工具，可能涉及 RAG 和向量数据库等技术。",
+  "highlights": [
+    "专注于构建 LLM 知识库",
+    "可能集成 RAG 和向量检索"
+  ],
+  "tags": [
+    "RAG",
+    "Knowledge Base",
+    "LLM",
+    "Vector DB"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-06T10:06:22Z",
+  "updated_at": "2026-05-06T10:06:22Z"
+}

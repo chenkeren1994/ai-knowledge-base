@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260509-022",
+  "title": "OpenAI’s WebRTC problem",
+  "source": "rss",
+  "source_url": "https://moq.dev/blog/webrtc-is-the-problem/",
+  "author": null,
+  "summary": "讨论了OpenAI在实时通信（WebRTC）应用中可能遇到的技术挑战或问题。",
+  "highlights": [
+    "点明OpenAI与WebRTC的关联",
+    "实时通信技术问题"
+  ],
+  "tags": [
+    "LLM",
+    "Application",
+    "Chatbot"
+  ],
+  "relevance": 4,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-09T09:05:45Z",
+  "updated_at": "2026-05-09T09:05:45Z"
+}

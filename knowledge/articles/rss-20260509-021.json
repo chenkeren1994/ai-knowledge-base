@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260509-021",
+  "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+  "source": "rss",
+  "source_url": "https://twitter.com/trq212/status/2052809885763747935",
+  "author": null,
+  "summary": "探讨利用Claude模型生成或处理HTML的显著效果，突出HTML在AI辅助开发中的高效性。",
+  "highlights": [
+    "展示Claude生成HTML的惊人效率",
+    "强调HTML作为输出格式的实用性",
+    "提供利用AI进行网页开发的实践思路"
+  ],
+  "tags": [
+    "LLM",
+    "Coding",
+    "Tool-use",
+    "Prompt Engineering"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-09T09:05:45Z",
+  "updated_at": "2026-05-09T09:05:45Z"
+}

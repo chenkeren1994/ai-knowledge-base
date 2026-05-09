@@ -1,0 +1,25 @@
+{
+  "id": "github-20260509-016",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "author": "langchain-ai",
+  "summary": "LangChain 是一个智能体工程平台，提供模块化工具和集成，支持构建基于大语言模型的复杂应用。该项目在 TypeScript 和 Python 中均可使用，拥有庞大的社区和生态系统。",
+  "highlights": [
+    "模块化智能体与链式架构",
+    "丰富的LLM与工具集成生态",
+    "支持TypeScript和Python双语言"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "LLM",
+    "LangChain",
+    "Prompt Engineering"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-09T09:05:45Z",
+  "updated_at": "2026-05-09T09:05:45Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260509-024",
+  "title": "AI is breaking two vulnerability cultures",
+  "source": "rss",
+  "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+  "author": null,
+  "summary": "探讨人工智能如何通过自动化漏洞检测与修复，打破传统主动发现与被动修补两种安全漏洞文化。",
+  "highlights": [
+    "AI自动化漏洞检测",
+    "改变传统安全文化",
+    "提升漏洞修复效率"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Code Review",
+    "Tool-use",
+    "Evaluation"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-09T09:05:45Z",
+  "updated_at": "2026-05-09T09:05:45Z"
+}

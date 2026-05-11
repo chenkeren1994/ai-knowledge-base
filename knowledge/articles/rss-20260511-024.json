@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260511-024",
+  "title": "Task Paralysis and AI",
+  "source": "rss",
+  "source_url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+  "author": null,
+  "summary": "该文章探讨了AI在缓解任务瘫痪（Task Paralysis）问题上的潜在作用，但缺乏具体技术细节或实验支撑。",
+  "highlights": [
+    "概念性讨论AI与任务瘫痪",
+    "缺乏技术细节与案例"
+  ],
+  "tags": [
+    "Agent",
+    "Planning",
+    "Autonomous"
+  ],
+  "relevance": 3,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-11T10:51:38Z",
+  "updated_at": "2026-05-11T10:51:38Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260511-023",
+  "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+  "source": "rss",
+  "source_url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+  "author": null,
+  "summary": "该实验测试了Claude模型模拟用户空间IP协议栈时响应ping命令的延迟，评估其作为网络协议栈的实时推理性能。",
+  "highlights": [
+    "AI模拟网络协议栈的可行性验证",
+    "ping响应延迟的量化测试"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Inference",
+    "Evaluation"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-11T10:51:38Z",
+  "updated_at": "2026-05-11T10:51:38Z"
+}

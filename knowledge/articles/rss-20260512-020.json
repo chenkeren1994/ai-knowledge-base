@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260512-020",
+  "title": "If AI writes your code, why use Python?",
+  "source": "rss",
+  "source_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+  "author": null,
+  "summary": "探讨在AI代码生成背景下Python语言的必要性，分析AI编程对语言选择的影响。",
+  "highlights": [
+    "AI写代码降低语言学习门槛",
+    "Python生态仍具独特优势"
+  ],
+  "tags": [
+    "LLM",
+    "Coding",
+    "Prompt Engineering",
+    "Agent"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-12T10:21:25Z",
+  "updated_at": "2026-05-12T10:21:25Z"
+}

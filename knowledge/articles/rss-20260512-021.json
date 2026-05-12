@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260512-021",
+  "title": "Claude Platform on AWS",
+  "source": "rss",
+  "source_url": "https://claude.com/blog/claude-platform-on-aws",
+  "author": null,
+  "summary": "Claude 模型平台在 AWS 上的集成与部署方案，旨在为企业提供可扩展、安全的 AI 推理服务。",
+  "highlights": [
+    "Claude 在 AWS 上的原生集成",
+    "企业级可扩展 AI 推理",
+    "简化云端部署与运维"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Inference"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-12T10:21:25Z",
+  "updated_at": "2026-05-12T10:21:25Z"
+}

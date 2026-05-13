@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260513-021",
+  "title": "Reimagining the mouse pointer for the AI era",
+  "source": "rss",
+  "source_url": "https://deepmind.google/blog/ai-pointer/",
+  "author": null,
+  "summary": "本文探讨了在AI时代重新设计鼠标指针的概念，旨在通过AI增强用户与数字界面的交互方式，可能引入上下文感知、动态反馈等特性。",
+  "highlights": [
+    "AI驱动的动态鼠标指针交互",
+    "重新定义传统UI输入设备"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Multi-modal"
+  ],
+  "relevance": 3,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-13T10:11:18Z",
+  "updated_at": "2026-05-13T10:11:18Z"
+}

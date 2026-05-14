@@ -1,0 +1,25 @@
+{
+  "id": "github-20260514-014",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "收集了Cursor、Claude Code、Devin AI等数十种AI工具的系统提示词、内部工具和AI模型的开源仓库，为理解这些工具的设计逻辑和行为模式提供了宝贵资源。",
+  "highlights": [
+    "汇总数百种AI工具的系统提示词",
+    "揭示AI工具内部逻辑和设计模式",
+    "高热度，社区广泛关注和贡献"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Agent",
+    "Tool-use",
+    "LLM",
+    "Coding"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-14T10:03:15Z",
+  "updated_at": "2026-05-14T10:03:15Z"
+}

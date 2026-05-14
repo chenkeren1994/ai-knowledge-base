@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260514-021",
+  "title": "Arena AI Model ELO History",
+  "source": "rss",
+  "source_url": "https://mayerwin.github.io/AI-Arena-History/",
+  "author": null,
+  "summary": "该项目提供AI模型ELO评分的历史记录，用于追踪模型性能排名随时间的变化。",
+  "highlights": [
+    "追踪AI模型ELO评分历史变化",
+    "公开模型性能排名数据"
+  ],
+  "tags": [
+    "Evaluation",
+    "LLM",
+    "Leaderboard"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-14T10:03:15Z",
+  "updated_at": "2026-05-14T10:03:15Z"
+}

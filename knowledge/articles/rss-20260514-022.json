@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260514-022",
+  "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+  "source": "rss",
+  "source_url": "https://github.com/DrCatHicks/learning-opportunities",
+  "author": null,
+  "summary": "该文章描述了一个结合 Claude Code 和 Codex 的技能，旨在通过刻意练习来提升编码能力。",
+  "highlights": [
+    "结合多种AI编码助手",
+    "专注于刻意技能发展"
+  ],
+  "tags": [
+    "Coding",
+    "Agent",
+    "Tool-use"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-14T10:03:15Z",
+  "updated_at": "2026-05-14T10:03:15Z"
+}

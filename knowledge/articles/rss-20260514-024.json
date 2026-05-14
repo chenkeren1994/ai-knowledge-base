@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260514-024",
+  "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "source": "rss",
+  "source_url": "https://github.com/cactus-compute/needle",
+  "author": null,
+  "summary": "Needle 项目通过知识蒸馏技术，将 Gemini 的工具调用能力压缩至 2600 万参数的小模型中，实现了在极低资源下的高效工具调用。",
+  "highlights": [
+    "蒸馏 Gemini 工具调用至 26M 参数",
+    "极小模型实现工具调用",
+    "降低部署与推理成本"
+  ],
+  "tags": [
+    "Fine-tuning",
+    "Tool-use",
+    "Agent",
+    "Deployment"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-14T10:03:15Z",
+  "updated_at": "2026-05-14T10:03:15Z"
+}

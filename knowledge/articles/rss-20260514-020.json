@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260514-020",
+  "title": "Claude for Small Business",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/news/claude-for-small-business",
+  "author": null,
+  "summary": "本文介绍Claude AI模型在小企业场景中的应用，旨在通过智能助手提升运营效率。",
+  "highlights": [
+    "专为小企业定制AI助手",
+    "简化日常工作流程"
+  ],
+  "tags": [
+    "LLM",
+    "Chatbot",
+    "Agent"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-14T10:03:15Z",
+  "updated_at": "2026-05-14T10:03:15Z"
+}

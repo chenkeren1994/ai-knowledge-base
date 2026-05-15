@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260515-026",
+  "title": "LLM Policy for Rust Compiler",
+  "source": "rss",
+  "source_url": "https://github.com/rust-lang/rust-forge/pull/1040",
+  "author": null,
+  "summary": "该文章或项目讨论了在Rust编译器中集成LLM（大语言模型）的策略或政策，可能涉及利用LLM改进编译错误信息、代码建议或自动修复等功能。",
+  "highlights": [
+    "定义LLM与Rust编译器集成规范",
+    "提升编译错误信息可读性与修复效率"
+  ],
+  "tags": [
+    "LLM",
+    "Coding",
+    "Tool-use"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-15T10:10:58Z",
+  "updated_at": "2026-05-15T10:10:58Z"
+}

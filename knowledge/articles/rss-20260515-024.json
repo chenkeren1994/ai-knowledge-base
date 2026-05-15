@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260515-024",
+  "title": "Claude for Legal",
+  "source": "rss",
+  "source_url": "https://github.com/anthropics/claude-for-legal",
+  "author": null,
+  "summary": "Anthropic 推出专为法律行业优化的 Claude 版本，旨在提升法律文档分析、合同审查和研究效率。",
+  "highlights": [
+    "专为法律场景定制",
+    "提升合同分析效率",
+    "支持法律研究任务"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "RAG",
+    "Chatbot"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-15T10:10:58Z",
+  "updated_at": "2026-05-15T10:10:58Z"
+}

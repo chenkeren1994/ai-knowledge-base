@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260515-021",
+  "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI&#x2F;Claude",
+  "source": "rss",
+  "source_url": "https://relax.ai/docs",
+  "author": null,
+  "summary": "RelaxAI 是一个声称比 OpenAI/Claude 便宜 80% 的英国主权 LLM 推理服务项目，聚焦成本优化与本地化部署。",
+  "highlights": [
+    "推理成本降低 80%",
+    "英国主权数据与部署"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-15T10:10:58Z",
+  "updated_at": "2026-05-15T10:10:58Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260515-022",
+  "title": "Codex is now in the ChatGPT mobile app",
+  "source": "rss",
+  "source_url": "https://openai.com/index/work-with-codex-from-anywhere/",
+  "author": null,
+  "summary": "OpenAI 将代码生成模型 Codex 集成到 ChatGPT 移动应用中，使用户能通过手机进行代码生成和交互。",
+  "highlights": [
+    "Codex 模型集成到移动端",
+    "提升移动场景下的编码效率"
+  ],
+  "tags": [
+    "LLM",
+    "Coding",
+    "Chatbot",
+    "Deployment"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-15T10:10:58Z",
+  "updated_at": "2026-05-15T10:10:58Z"
+}

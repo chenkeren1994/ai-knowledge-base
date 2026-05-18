@@ -1,0 +1,25 @@
+{
+  "id": "github-20260518-009",
+  "title": "huggingface/transformers",
+  "source": "github",
+  "source_url": "https://github.com/huggingface/transformers",
+  "author": "huggingface",
+  "summary": "Hugging Face Transformers 是一个统一的模型定义框架，支持文本、视觉、音频和多模态领域的最先进机器学习模型的推理与训练，极大推动了预训练模型的普及与应用。",
+  "highlights": [
+    "支持多模态模型（文本/视觉/音频）",
+    "统一API简化模型加载与微调",
+    "拥有海量预训练模型库与社区生态"
+  ],
+  "tags": [
+    "LLM",
+    "Transformer",
+    "Multi-modal",
+    "Fine-tuning",
+    "Inference"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-18T11:35:22Z",
+  "updated_at": "2026-05-18T11:35:22Z"
+}

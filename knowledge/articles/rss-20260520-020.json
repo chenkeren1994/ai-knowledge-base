@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260520-020",
+  "title": "Gemini 3.5 Flash",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+  "author": null,
+  "summary": "Gemini 3.5 Flash 是 Google 推出的轻量级快速推理模型，可能优化了速度和成本。",
+  "highlights": [
+    "快速推理的轻量级模型",
+    "可能降低部署成本"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-20T10:39:56Z",
+  "updated_at": "2026-05-20T10:39:56Z"
+}

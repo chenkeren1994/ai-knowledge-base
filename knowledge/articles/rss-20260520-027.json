@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260520-027",
+  "title": "Growing Neural Cellular Automata",
+  "source": "rss",
+  "source_url": "https://distill.pub/2020/growing-ca/",
+  "author": null,
+  "summary": "提出通过神经网络学习细胞自动机规则，使一组细胞能自组织生长出预设形态，并具备自我修复能力。",
+  "highlights": [
+    "自组织形态生成",
+    "学习局部规则实现全局行为",
+    "具备损伤修复能力"
+  ],
+  "tags": [
+    "Autonomous",
+    "Multi-agent",
+    "Planning"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-20T10:39:56Z",
+  "updated_at": "2026-05-20T10:39:56Z"
+}

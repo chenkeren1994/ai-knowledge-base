@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260520-025",
+  "title": "Gemini CLI will stop working from June 18, 2026",
+  "source": "rss",
+  "source_url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+  "author": null,
+  "summary": "谷歌宣布 Gemini 命令行界面（CLI）工具将于 2026 年 6 月 18 日停止服务，用户需提前迁移到其他方案。",
+  "highlights": [
+    "Gemini CLI 停服时间明确",
+    "用户需提前迁移"
+  ],
+  "tags": [
+    "LLM",
+    "Chatbot",
+    "Deployment"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-20T10:39:56Z",
+  "updated_at": "2026-05-20T10:39:56Z"
+}

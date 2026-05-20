@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260520-021",
+  "title": "Learnings from 100K lines of Rust with AI (2025)",
+  "source": "rss",
+  "source_url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+  "author": null,
+  "summary": "本文分享了在100K行Rust项目中应用AI辅助编程的经验与教训，涵盖代码生成、审查和效率提升。",
+  "highlights": [
+    "大规模Rust项目中AI辅助的实践",
+    "AI编码工具的实际教训与策略",
+    "提升开发效率的具体方法"
+  ],
+  "tags": [
+    "Coding",
+    "LLM",
+    "Tool-use",
+    "Code Review"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-20T10:39:56Z",
+  "updated_at": "2026-05-20T10:39:56Z"
+}

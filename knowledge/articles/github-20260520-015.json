@@ -1,0 +1,24 @@
+{
+  "id": "github-20260520-015",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropics 官方发布的 Agent 技能公共仓库，提供标准化、可复用的工具集成模块，旨在加速 AI Agent 的开发和部署。",
+  "highlights": [
+    "标准化 Agent 技能接口",
+    "降低智能体工具开发门槛",
+    "与 Claude 系列深度集成"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Autonomous",
+    "Prompt Engineering"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-20T10:39:56Z",
+  "updated_at": "2026-05-20T10:39:56Z"
+}

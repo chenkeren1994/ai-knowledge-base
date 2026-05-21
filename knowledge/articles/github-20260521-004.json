@@ -1,0 +1,25 @@
+{
+  "id": "github-20260521-004",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source": "github",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "author": "Significant-Gravitas",
+  "summary": "AutoGPT 是一个开创性的自主 AI 代理项目，允许用户设定目标后，AI 自动分解任务、调用工具并执行操作，推动了 AI Agent 范式的普及。",
+  "highlights": [
+    "开创自主AI Agent范式",
+    "可扩展的插件系统",
+    "推动开源Agent生态"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "Tool-use",
+    "Planning",
+    "LLM"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-21T10:56:37Z",
+  "updated_at": "2026-05-21T10:56:37Z"
+}

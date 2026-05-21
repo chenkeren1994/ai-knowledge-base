@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260521-021",
+  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+  "source": "rss",
+  "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+  "author": null,
+  "summary": "OpenAI的一个模型推翻了离散几何中的一个核心猜想，展示了大型语言模型在数学推理和科学发现中的潜力。",
+  "highlights": [
+    "AI模型成功推翻几何学核心猜想",
+    "展现LLM在数学证明领域的突破能力"
+  ],
+  "tags": [
+    "LLM",
+    "Transformer",
+    "Chain-of-Thought"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-21T10:56:37Z",
+  "updated_at": "2026-05-21T10:56:37Z"
+}

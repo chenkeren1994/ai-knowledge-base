@@ -1,0 +1,23 @@
+{
+  "id": "github-20260521-015",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic 发布的公共仓库，定义了 Agent 技能的标准或接口，旨在为 AI 智能体提供标准化的可执行技能集合。",
+  "highlights": [
+    "标准化智能体技能定义",
+    "高热度社区关注",
+    "Anthropic 官方发布"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Autonomous"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-21T10:56:37Z",
+  "updated_at": "2026-05-21T10:56:37Z"
+}

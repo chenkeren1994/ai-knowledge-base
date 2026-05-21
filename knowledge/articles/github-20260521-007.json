@@ -1,0 +1,23 @@
+{
+  "id": "github-20260521-007",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "为Stable Diffusion模型提供功能丰富的Web界面，支持文本到图像、图像到图像、修复等多种任务，并集成模型扩展与插件系统。",
+  "highlights": [
+    "用户友好的图形化界面",
+    "支持模型扩展与插件系统",
+    "集成文本反转、LoRA等微调功能"
+  ],
+  "tags": [
+    "Diffusion",
+    "Prompt Engineering",
+    "Fine-tuning"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-21T10:56:37Z",
+  "updated_at": "2026-05-21T10:56:37Z"
+}

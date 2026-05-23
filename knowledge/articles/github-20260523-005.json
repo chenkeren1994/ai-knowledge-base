@@ -1,0 +1,25 @@
+{
+  "id": "github-20260523-005",
+  "title": "ollama/ollama",
+  "source": "github",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "summary": "Ollama 是一个开源工具，让用户能在本地轻松运行和管理各种大型语言模型（如 Kimi-K2.5、DeepSeek 等），提供类似 Docker 的简化部署体验。",
+  "highlights": [
+    "本地零配置运行多种 LLM",
+    "类 Docker 的模型管理体验",
+    "支持 GPU 加速与模型定制"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Inference",
+    "Tool-use",
+    "Fine-tuning"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-23T09:30:31Z",
+  "updated_at": "2026-05-23T09:30:31Z"
+}

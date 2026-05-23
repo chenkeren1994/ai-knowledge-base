@@ -1,0 +1,25 @@
+{
+  "id": "github-20260523-007",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "Hermes Agent 是 NousResearch 开发的可成长智能体框架，支持自主决策与工具使用，采用持续学习机制以适应不同场景。",
+  "highlights": [
+    "可成长智能体框架",
+    "160k+ Stars 高关注度",
+    "自主决策与工具使用"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "LLM",
+    "Tool-use",
+    "Fine-tuning"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-23T09:30:31Z",
+  "updated_at": "2026-05-23T09:30:31Z"
+}

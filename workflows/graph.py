@@ -25,9 +25,9 @@ from workflows.nodes import (
     analyze_node,
     collect_node,
     organize_node,
-    review_node,
     save_node,
 )
+from workflows.reviewer import review_node
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)

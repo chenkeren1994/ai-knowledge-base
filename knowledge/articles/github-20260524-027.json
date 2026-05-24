@@ -1,0 +1,23 @@
+{
+  "id": "github-20260524-027",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个广受欢迎的 Stable Diffusion 模型 Web 界面，集成了 txt2img、img2img、inpainting 等核心功能，并支持通过扩展插件增强能力。",
+  "highlights": [
+    "提供易用的 Web 界面，降低 SD 使用门槛",
+    "支持多种图像生成模式与丰富扩展插件"
+  ],
+  "tags": [
+    "Diffusion",
+    "Multi-modal",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-24T08:23:04Z",
+  "updated_at": "2026-05-24T08:23:04Z"
+}

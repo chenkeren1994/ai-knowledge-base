@@ -293,8 +293,12 @@ def main() -> int:
         print("ERROR: 未找到任何 JSON 文件", file=sys.stderr)
         return 1
 
+    file_count = 0
     has_c = False
     for filepath in files:
+        if filepath.name == "index.json":
+            continue
+        file_count += 1
         report = evaluate_file(filepath)
         total_max = report.total_max
 
@@ -319,8 +323,8 @@ def main() -> int:
 
     # ---- 汇总 ----
     print(f"\n{'='*50}")
-    print(f"文件总数: {len(files)}")
-    grades = [evaluate_file(f).grade for f in files]
+    print(f"文件总数: {file_count}")
+    grades = [evaluate_file(f).grade for f in files if f.name != "index.json"]
     print(f"A: {grades.count('A')}  B: {grades.count('B')}  C: {grades.count('C')}")
 
     return 1 if has_c else 0

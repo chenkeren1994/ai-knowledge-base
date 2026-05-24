@@ -1,0 +1,23 @@
+{
+  "id": "github-20260524-017",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "Stable Diffusion 网页界面，提供文本到图像、图像到图像、修复等多种功能，支持扩展插件和多种模型，极大地降低了扩散模型的使用门槛。",
+  "highlights": [
+    "功能齐全的图形化界面，操作简便",
+    "丰富的插件系统，社区活跃",
+    "支持多种模型与参数调整，扩展性强"
+  ],
+  "tags": [
+    "Diffusion",
+    "Multi-modal",
+    "Deployment"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-24T05:07:24Z",
+  "updated_at": "2026-05-24T05:07:24Z"
+}

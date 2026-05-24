@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260524-019",
+  "title": "Making deep learning go brrrr from first principles (2022)",
+  "source": "rss",
+  "source_url": "https://horace.io/brrr_intro.html",
+  "author": null,
+  "summary": "本文从第一性原理出发，深入讲解深度学习计算优化，聚焦GPU架构、内存带宽与矩阵乘法的高效实现，帮助读者理解如何让模型训练和推理跑得更快。",
+  "highlights": [
+    "从硬件层面拆解深度学习性能瓶颈",
+    "深入内存层级与内核优化技巧"
+  ],
+  "tags": [
+    "Inference",
+    "Deployment",
+    "Coding"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-24T05:07:24Z",
+  "updated_at": "2026-05-24T05:07:24Z"
+}

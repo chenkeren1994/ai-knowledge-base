@@ -1,0 +1,24 @@
+{
+  "id": "github-20260524-007",
+  "title": "anomalyco/opencode",
+  "source": "github",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "summary": "opencode是一个开源的编码代理项目，通过AI智能体自主完成编程任务，提升开发效率。",
+  "highlights": [
+    "开源编码代理，自主完成编程任务",
+    "高热度项目，受到开发者广泛关注"
+  ],
+  "tags": [
+    "Coding",
+    "Agent",
+    "Tool-use",
+    "Autonomous",
+    "LLM"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-24T05:05:28Z",
+  "updated_at": "2026-05-24T05:05:28Z"
+}

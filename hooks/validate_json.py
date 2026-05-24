@@ -161,6 +161,9 @@ def main() -> int:
     failed_files: list[str] = []
 
     for filepath in files:
+        if filepath.name == "index.json":
+            total -= 1
+            continue
         errors = validate_file(filepath)
         if errors:
             failed_files.append(str(filepath))

@@ -228,7 +228,7 @@ def estimate_cost(
 _PROVIDER_CONFIGS: dict[str, dict[str, str]] = {
     "deepseek": {
         "api_base": "https://api.deepseek.com/v1",
-        "default_model": "deepseek-v4-flash",
+        "default_model": "deepseek-v4-pro",
         "env_key": "DEEPSEEK_API_KEY",
     },
     "qwen": {

@@ -1,0 +1,24 @@
+{
+  "id": "github-20260524-037",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "author": "langchain-ai",
+  "summary": "LangChain 是一个用于构建 LLM 驱动代理的工程平台，提供工具链、记忆管理和多模型集成，极大简化了复杂 AI 应用的开发流程。",
+  "highlights": [
+    "定义 LLM 代理开发范式的里程碑项目",
+    "丰富的工具、记忆和检索模块生态"
+  ],
+  "tags": [
+    "LangChain",
+    "Agent",
+    "Tool-use",
+    "Memory",
+    "RAG"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-24T08:23:04Z",
+  "updated_at": "2026-05-24T08:23:04Z"
+}

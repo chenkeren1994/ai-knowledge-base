@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260524-010",
+  "title": "Making deep learning go brrrr from first principles (2022)",
+  "source": "rss",
+  "source_url": "https://horace.io/brrr_intro.html",
+  "author": null,
+  "summary": "从第一性原理出发，探讨如何系统性地加速深度学习模型的训练和推理性能，涵盖计算、内存和并行化等底层优化技术。",
+  "highlights": [
+    "从底层原理解析深度学习性能瓶颈",
+    "系统化优化策略提升训练/推理速度"
+  ],
+  "tags": [
+    "Deployment",
+    "Inference",
+    "Quantization",
+    "Optimization"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-24T05:05:28Z",
+  "updated_at": "2026-05-24T05:05:28Z"
+}

@@ -120,7 +120,7 @@ async def _llm_classify(query: str) -> str:
     from workflows.model_client import chat_json
 
     try:
-        result = await chat_json(
+        result, _usage = await chat_json(
             prompt=query,
             system_prompt=_LLM_CLASSIFY_SYSTEM,
             temperature=0.1,

@@ -79,7 +79,7 @@ async def chat_json(
     model: str = "",
     temperature: float = 0.3,
     max_tokens: int = 4096,
-) -> dict[str, Any]:
+) -> tuple[dict[str, Any], Usage]:
     """发送对话请求并将响应解析为 JSON。
 
     系统提示中会自动追加 JSON 输出格式要求。
@@ -92,7 +92,7 @@ async def chat_json(
         max_tokens: 最大输出 Token 数。
 
     Returns:
-        解析后的 JSON 字典。
+        ``(parsed_json, Usage)`` 元组，其中 ``Usage`` 包含 Token 统计。
 
     Raises:
         json.JSONDecodeError: 如果 LLM 输出不是合法 JSON。
@@ -100,7 +100,7 @@ async def chat_json(
     json_hint = "\n请严格以 JSON 格式输出，不要包含 markdown 代码块标记。"
     full_system = system_prompt + json_hint if system_prompt else json_hint.lstrip()
 
-    text, _usage = await chat(
+    text, usage = await chat(
         prompt=prompt,
         system_prompt=full_system,
         model=model,
@@ -117,4 +117,24 @@ async def chat_json(
             lines = lines[1:]
         text = "\n".join(lines).strip()
 
-    return json.loads(text)
+    return json.loads(text), usage
+
+
+def accumulate_usage(cost_tracker: dict, usage: Usage, model: str = "") -> dict:
+    """累加 Token 统计到 cost_tracker 字典。
+
+    Args:
+        cost_tracker: KBState 中的 ``cost_tracker`` 字典，会被原地修改。
+        usage: 单次 LLM 调用的用量。
+        model: 使用的模型名称，用于去重记录模型列表。
+
+    Returns:
+        更新后的 cost_tracker 字典（与传入的是同一对象）。
+    """
+    cost_tracker["total_tokens"] = cost_tracker.get("total_tokens", 0) + usage.total_tokens
+    cost_tracker["total_cost_cny"] = cost_tracker.get("total_cost_cny", 0.0)
+    cost_tracker["records"] = cost_tracker.get("records", 0) + 1
+    models: list[str] = cost_tracker.setdefault("models", [])
+    if model and model not in models:
+        models.append(model)
+    return cost_tracker

@@ -145,3 +145,21 @@ class KBState(TypedDict):
             "models": ["deepseek-v4-pro"],
         }
     """
+
+    # ---- 人工干预 ----
+    needs_human_review: bool
+    """是否需要人工审核。
+
+    当审核循环超过 ``max_iterations`` 仍未通过时设为 ``True``，
+    触发 HumanFlag 节点将问题条目写入独立目录。
+
+    - ``True``: 需人工判断，流程终止前标记问题条目
+    - ``False``: 自动处理完成，无需人工干预
+    """
+
+    flagged_path: str
+    """人工标记文件的路径。
+
+    HumanFlag 节点写入的标记文件绝对路径，供后续人工审核参考。
+    未触发 HumanFlag 时为空字符串。
+    """

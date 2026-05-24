@@ -6,8 +6,11 @@
 .. code-block::
 
     collect → analyze → organize → review ── passed ──→ save → END
-                        ↑            │
-                        └── not passed ┘ (最多重试 3 次)
+                         │            │
+                         │            └── not passed, iter < 3 ──→ revise ──┐
+                         │                                                 │
+                         └── not passed, iter >= 3 ──→ human_flag ──→ END  ┘
+                                                       (人工标记)
 
 用法::
 
@@ -21,30 +24,41 @@ import logging
 
 from langgraph.graph import END, StateGraph
 
+from workflows.human_flag import human_flag_node
 from workflows.nodes import (
     analyze_node,
     collect_node,
     organize_node,
     save_node,
 )
+from workflows.reviser import revise_node
 from workflows.reviewer import review_node
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
 
+_MAX_ITERATIONS = 3
 
-def _route_after_review(state: KBState) -> str:
-    """审核后的条件路由。
+
+def route_after_review(state: KBState) -> str:
+    """审核后的 3 路条件路由。
 
     Args:
         state: 工作流共享状态。
 
     Returns:
-        ``"save"`` 表示审核通过进入保存，``"organize"`` 表示退回整理节点修正。
+        - ``"save"``: 审核通过，进入保存节点
+        - ``"revise"``: 审核不通过且 iteration < 3，退回修订节点
+        - ``"human_flag"``: 审核不通过且 iteration >= 3，转人工标记
     """
-    if state.get("review_passed", False):
+    passed = state.get("review_passed", False)
+    iteration = state.get("iteration", 0)
+
+    if passed:
         return "save"
-    return "organize"
+    if iteration < _MAX_ITERATIONS:
+        return "revise"
+    return "human_flag"
 
 
 def build_graph() -> StateGraph:
@@ -60,6 +74,8 @@ def build_graph() -> StateGraph:
     graph.add_node("analyze", analyze_node)
     graph.add_node("organize", organize_node)
     graph.add_node("review", review_node)
+    graph.add_node("revise", revise_node)
+    graph.add_node("human_flag", human_flag_node)
     graph.add_node("save", save_node)
 
     # 线性链
@@ -67,18 +83,26 @@ def build_graph() -> StateGraph:
     graph.add_edge("analyze", "organize")
     graph.add_edge("organize", "review")
 
-    # 审核分支：通过 → 保存，不通过 → 退回整理
+    # 审核 3 路分支
     graph.add_conditional_edges(
         "review",
-        _route_after_review,
+        route_after_review,
         {
             "save": "save",
-            "organize": "organize",
+            "revise": "revise",
+            "human_flag": "human_flag",
         },
     )
 
-    # 终点
+    # 修订 → 审核（形成循环）
+    graph.add_edge("revise", "review")
+
+    # 人工标记 → 终止
+    graph.add_edge("human_flag", END)
+
+    # 保存 → 终止
     graph.add_edge("save", END)
+
     graph.set_entry_point("collect")
 
     return graph.compile()
@@ -107,6 +131,8 @@ async def _main() -> None:
         "review_passed": False,
         "iteration": 0,
         "cost_tracker": {},
+        "needs_human_review": False,
+        "flagged_path": "",
     }
 
     logger.info("=" * 50)
@@ -150,6 +176,14 @@ async def _main() -> None:
                 print(f"  当前迭代: {iteration}")
                 if feedback:
                     print(f"  反馈: {feedback}")
+
+            elif node_name == "revise":
+                revised = node_output.get("analyses", [])
+                print(f"  修订条目数: {len(revised)}")
+
+            elif node_name == "human_flag":
+                flagged_path = node_output.get("flagged_path", "")
+                print(f"  已标记到人工审核: {flagged_path}")
 
             elif node_name == "save":
                 print("  文章已写入 knowledge/articles/")

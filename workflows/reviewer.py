@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 from typing import Any
 
 from workflows.model_client import chat_json, accumulate_usage
@@ -27,7 +28,7 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 
 _MAX_REVIEW_ITEMS = 5
-_PASS_THRESHOLD = 7.0
+_PASS_THRESHOLD = float(os.getenv("REVIEW_PASS_THRESHOLD", "7.0"))
 
 _WEIGHTS = {
     "summary_quality": 0.25,

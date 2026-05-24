@@ -146,13 +146,16 @@ async def collect_node(state: KBState) -> dict:
         logger.info("[CollectNode] 非首次迭代 (iteration=%d)，跳过采集", state["iteration"])
         return {}
 
+    plan = state.get("plan", {}) or {}
+    per_source_limit = int(plan.get("per_source_limit", 10))
+
     def _fetch() -> list[dict[str, Any]]:
         """同步 HTTP 请求（urllib），放入 executor 避免阻塞事件循环。"""
         params = {
             "q": _GITHUB_AI_QUERY,
             "sort": "stars",
             "order": "desc",
-            "per_page": "20",
+            "per_page": str(per_source_limit),
         }
         url = f"{_GITHUB_SEARCH_URL}?{urllib.parse.urlencode(params, quote_via=urllib.parse.quote)}"
         logger.info("[CollectNode] 请求 GitHub Search: %s", url)
@@ -304,9 +307,13 @@ async def organize_node(state: KBState) -> dict:
         logger.warning("[OrganizeNode] 无分析结果，跳过整理")
         return {"articles": []}
 
-    # 1. 过滤低分条目（relevance < 6，即低于"值得了解"）
-    filtered = [a for a in analyses if a.get("relevance", 0) >= 6]
-    logger.info("[OrganizeNode] 过滤低分: %d -> %d 条 (threshold=6)", len(analyses), len(filtered))
+    plan = state.get("plan", {}) or {}
+    relevance_threshold = float(plan.get("relevance_threshold", 0.5))
+
+    # 1. 过滤低分条目
+    min_relevance = max(1, min(10, int(round(relevance_threshold * 10))))
+    filtered = [a for a in analyses if a.get("relevance", 0) >= min_relevance]
+    logger.info("[OrganizeNode] 过滤低分: %d -> %d 条 (threshold=%.1f → min_relevance=%d)", len(analyses), len(filtered), relevance_threshold, min_relevance)
 
     if not filtered:
         return {"articles": []}

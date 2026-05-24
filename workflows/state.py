@@ -4,6 +4,15 @@
 使用 ``TypedDict`` 定义 ``KBState``，作为所有工作流节点的公共状态容器。
 遵循"报告式通信"原则：每个字段均为结构化摘要，而非原始数据全文。
 
+数据流向::
+
+    planner → plan ──→ collector → sources ──→ analyzer → analyses
+                   │                                          │
+                   └──→ organizer → articles ←───────────────┘
+                          │
+                          └──→ reviewer → review_feedback / review_passed
+
+
 用法::
 
     from workflows.state import KBState
@@ -22,6 +31,31 @@ class KBState(TypedDict):
     """LangGraph 知识库流水线的共享状态。
 
     在工作流中按需读写这些字段即可，LangGraph 会自动管理状态持久化和传递。
+    """
+
+    # ---- 规划阶段 ----
+    plan: dict
+    """工作流执行计划与策略。
+
+    由 planner_node 生成，下游 collector / organizer / reviewer 通过
+    ``state["plan"]`` 读取策略配置。
+
+    典型字段包括：
+    - ``sources`` (list[str]): 启用的数据源（如 ``["github", "rss"]``）
+    - ``limit`` (int): 每源采集上限
+    - ``model`` (str | None): 推荐 LLM 模型
+    - ``filters`` (dict): 关键词 / 标签过滤配置
+    - ``dry_run`` (bool): 是否为干跑模式
+
+    示例::
+
+        {
+            "sources": ["github", "rss"],
+            "limit": 20,
+            "model": "deepseek-v4-pro",
+            "filters": {"min_relevance": 5},
+            "dry_run": False,
+        }
     """
 
     # ---- 采集阶段 ----

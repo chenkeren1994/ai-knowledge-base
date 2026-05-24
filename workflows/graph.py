@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """LangGraph 工作流编排。
 
-组装审核循环流水线：
+组装规划驱动的审核循环流水线：
 
 .. code-block::
 
-    collect → analyze → organize → review ── passed ──→ save → END
-                         │            │
-                         │            └── not passed, iter < 3 ──→ revise ──┐
-                         │                                                 │
-                         └── not passed, iter >= 3 ──→ human_flag ──→ END  ┘
-                                                       (人工标记)
+    planner → collect → analyze → organize → review ── passed ──→ save → END
+                                      │            │
+                                      │            ├── not passed, iter < max_iter ──→ revise ──┐
+                                      │            │                                        │
+                                      │            └── not passed, iter >= max_iter ──→ human_flag → END
+                                      └───────────────────────────────────────────────────────┘
+                                                     (修订后重新组织)
 
 用法::
 
@@ -31,13 +32,12 @@ from workflows.nodes import (
     organize_node,
     save_node,
 )
+from workflows.planner import planner_node
 from workflows.reviser import revise_node
 from workflows.reviewer import review_node
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
-
-_MAX_ITERATIONS = 3
 
 
 def route_after_review(state: KBState) -> str:
@@ -48,15 +48,17 @@ def route_after_review(state: KBState) -> str:
 
     Returns:
         - ``"save"``: 审核通过，进入保存节点
-        - ``"revise"``: 审核不通过且 iteration < 3，退回修订节点
-        - ``"human_flag"``: 审核不通过且 iteration >= 3，转人工标记
+        - ``"revise"``: 审核不通过且 iteration < max_iterations，退回修订节点
+        - ``"human_flag"``: 审核不通过且 iteration >= max_iterations，转人工标记
     """
     passed = state.get("review_passed", False)
     iteration = state.get("iteration", 0)
+    plan = state.get("plan", {}) or {}
+    max_iterations = int(plan.get("max_iterations", 3))
 
     if passed:
         return "save"
-    if iteration < _MAX_ITERATIONS:
+    if iteration < max_iterations:
         return "revise"
     return "human_flag"
 
@@ -70,6 +72,7 @@ def build_graph() -> StateGraph:
     graph = StateGraph(KBState)
 
     # 注册节点
+    graph.add_node("planner", planner_node)
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("organize", organize_node)
@@ -78,6 +81,8 @@ def build_graph() -> StateGraph:
     graph.add_node("human_flag", human_flag_node)
     graph.add_node("save", save_node)
 
+    # 规划 → 采集
+    graph.add_edge("planner", "collect")
     # 线性链
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "organize")
@@ -103,7 +108,7 @@ def build_graph() -> StateGraph:
     # 保存 → 终止
     graph.add_edge("save", END)
 
-    graph.set_entry_point("collect")
+    graph.set_entry_point("planner")
 
     return graph.compile()
 
@@ -124,6 +129,7 @@ async def _main() -> None:
     app = build_graph()
 
     initial_state: KBState = {
+        "plan": {},
         "sources": [],
         "analyses": [],
         "articles": [],

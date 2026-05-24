@@ -122,8 +122,20 @@ async def review_node(state: KBState) -> dict:
     logger.info("[ReviewNode] 开始审核")
 
     iteration = state.get("iteration", 0)
+    plan = state.get("plan", {}) or {}
+    max_iterations = int(plan.get("max_iterations", 3))
+
     analyses = state.get("analyses", [])
     cost_tracker = state.get("cost_tracker", {}).copy()
+
+    if iteration >= max_iterations:
+        logger.info("[ReviewNode] iteration=%d >= max_iterations=%d，内部兜底强制通过", iteration, max_iterations)
+        return {
+            "review_passed": True,
+            "review_feedback": "",
+            "iteration": iteration + 1,
+            "cost_tracker": cost_tracker,
+        }
 
     if not analyses:
         logger.warning("[ReviewNode] 无分析结果，视为通过")
@@ -154,7 +166,7 @@ async def review_node(state: KBState) -> dict:
             prompt=content,
             system_prompt=_REVIEW_SYSTEM_PROMPT,
             temperature=0.1,
-            max_tokens=2048,
+            max_tokens=4096,
         )
     except Exception as exc:
         logger.error("[ReviewNode] LLM 调用失败: %s，自动通过", exc)

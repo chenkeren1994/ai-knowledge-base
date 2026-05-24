@@ -1,0 +1,23 @@
+{
+  "id": "github-20260524-049",
+  "title": "Snailclimb/JavaGuide",
+  "source": "github",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "author": "Snailclimb",
+  "summary": "JavaGuide 是一个全面的 Java 后端与面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计及 AI 应用开发，拥有极高的关注度。",
+  "highlights": [
+    "覆盖后端开发全栈知识体系",
+    "包含 AI 应用开发与面试内容",
+    "社区热度极高（15.5 万星）"
+  ],
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Coding"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-24T09:46:58Z",
+  "updated_at": "2026-05-24T09:46:58Z"
+}

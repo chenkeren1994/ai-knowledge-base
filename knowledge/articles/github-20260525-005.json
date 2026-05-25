@@ -1,0 +1,22 @@
+{
+  "id": "github-20260525-005",
+  "title": "ollama/ollama",
+  "source": "github",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "summary": "Ollama 是一个便捷的本地大模型运行工具，支持 Kimi-K2.5、GLM-5、DeepSeek 等多种热门模型，帮助用户快速部署和体验 LLM。",
+  "highlights": [
+    "一键式本地模型部署",
+    "支持国内外主流开源模型"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Inference"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-25T11:41:08Z",
+  "updated_at": "2026-05-25T11:41:08Z"
+}

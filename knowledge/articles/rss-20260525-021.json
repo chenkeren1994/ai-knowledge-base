@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260525-021",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.06445",
+  "author": null,
+  "summary": "本文研究了LLM代理在后端代码生成任务中的“约束衰减”现象，揭示了其生成过程中约束条件逐渐失效的脆弱性，表明代理可靠性存在系统性缺陷。",
+  "highlights": [
+    "提出约束衰减概念，系统分析脆弱性",
+    "聚焦后端代码生成，实践意义强"
+  ],
+  "tags": [
+    "Agent",
+    "Coding",
+    "Evaluation",
+    "Safety"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-25T11:41:08Z",
+  "updated_at": "2026-05-25T11:41:08Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260525-022",
+  "title": "AI errno(2) values",
+  "source": "rss",
+  "source_url": "https://www.netmeister.org/blog/ai-errno.html",
+  "author": null,
+  "summary": "本文以Unix系统的errno(2)错误码为比喻，探讨了AI系统中错误状态的分类与表示方法，可能涉及错误处理机制的设计思路。",
+  "highlights": [
+    "用errno比喻AI错误状态",
+    "提供错误分类的尝试"
+  ],
+  "tags": [
+    "Evaluation",
+    "Safety",
+    "Guardrails"
+  ],
+  "relevance": 3,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-25T11:41:08Z",
+  "updated_at": "2026-05-25T11:41:08Z"
+}

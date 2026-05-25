@@ -1,0 +1,46 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-05-25T11:40:12Z",
+  "items": [
+    {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "AI errno(2) values",
+      "url": "https://www.netmeister.org/blog/ai-errno.html",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

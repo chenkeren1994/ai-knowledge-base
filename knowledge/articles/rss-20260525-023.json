@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260525-023",
+  "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+  "source": "rss",
+  "source_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+  "author": null,
+  "summary": "AI芯片中内存组件成本已增至近三分之二，表明高带宽内存（HBM）对AI计算至关重要且日益昂贵。",
+  "highlights": [
+    "内存成本占比达三分之二",
+    "高带宽内存需求推动成本上升"
+  ],
+  "tags": [
+    "Deployment",
+    "Inference",
+    "Quantization"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-25T11:41:08Z",
+  "updated_at": "2026-05-25T11:41:08Z"
+}

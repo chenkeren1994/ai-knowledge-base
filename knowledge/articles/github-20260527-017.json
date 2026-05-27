@@ -1,0 +1,23 @@
+{
+  "id": "github-20260527-017",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该项目收集了主流AI编码工具（如Cursor、Copilot、Devin等）的系统提示、内部工具及模型信息，为研究和对比AI编程助手的提示工程与架构提供开源资源。",
+  "highlights": [
+    "覆盖超20款AI编码工具的系统提示",
+    "开源集中式研究资源，便于对比分析"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Coding",
+    "Agent",
+    "LLM"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-27T11:26:40Z",
+  "updated_at": "2026-05-27T11:26:40Z"
+}

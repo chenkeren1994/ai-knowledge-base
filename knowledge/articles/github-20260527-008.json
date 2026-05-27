@@ -1,0 +1,22 @@
+{
+  "id": "github-20260527-008",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是 Stable Diffusion 模型的一个功能丰富的开源 Web 界面，大幅降低了文本到图像生成的使用门槛，支持多种模型、插件和高级参数控制，成为社区最主流的交互工具。",
+  "highlights": [
+    "最流行的 Stable Diffusion 开源 WebUI，生态丰富",
+    "支持扩展、脚本和大量社区插件，灵活可定制"
+  ],
+  "tags": [
+    "Diffusion",
+    "Multi-modal",
+    "Deployment"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-27T11:26:40Z",
+  "updated_at": "2026-05-27T11:26:40Z"
+}

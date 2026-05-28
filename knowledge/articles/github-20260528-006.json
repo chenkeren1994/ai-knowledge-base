@@ -1,0 +1,24 @@
+{
+  "id": "github-20260528-006",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "一个开源AI代理框架，能够通过用户交互持续成长，融合记忆、规划与工具使用能力，实现自主任务执行。",
+  "highlights": [
+    "代理具备持续学习能力，随使用进化",
+    "集成记忆与规划，支持复杂任务自主拆解"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "Memory",
+    "Planning",
+    "Tool-use"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-28T11:28:06Z",
+  "updated_at": "2026-05-28T11:28:06Z"
+}

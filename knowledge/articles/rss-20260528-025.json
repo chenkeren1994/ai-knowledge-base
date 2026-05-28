@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260528-025",
+  "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2510.04950",
+  "author": null,
+  "summary": "本研究探讨指令礼貌程度对LLM准确性的影响，发现过于礼貌或过度命令式提示均可能降低性能，适度中性表达效果最佳。",
+  "highlights": [
+    "量化验证礼貌用语对准确率的影响",
+    "为提示优化提供新的行为准则"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Evaluation"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-28T11:28:06Z",
+  "updated_at": "2026-05-28T11:28:06Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "github-20260531-017",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该项目汇总了 Augment Code、Cursor、Devin AI、Manus 等热门 AI 工具的完整系统提示词、内部工具与模型信息，为开发者提供洞察这些工具行为的窗口，可作为提示工程与 AI Agent 研究的参考资源。",
+  "highlights": [
+    "揭示主流 AI 编码工具内部系统提示",
+    "开源公开多款 AI 模型与工具信息"
+  ],
+  "tags": [
+    "Agent",
+    "Prompt Engineering",
+    "Coding",
+    "Tool-use"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-05-31T10:06:12Z",
+  "updated_at": "2026-05-31T10:06:12Z"
+}

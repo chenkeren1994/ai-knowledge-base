@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260602-026",
+  "title": "Florida sues OpenAI and Sam Altman over AI risks",
+  "source": "rss",
+  "source_url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+  "author": null,
+  "summary": "佛罗里达州起诉OpenAI及Sam Altman，指控其开发的大型语言模型和相关AI技术带来安全风险，可能对公众造成危害。",
+  "highlights": [
+    "州级政府正式起诉AI公司，监管力度升级",
+    "AI安全风险从行业讨论进入法律程序"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Guardrails"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-02T11:56:46Z",
+  "updated_at": "2026-06-02T11:56:46Z"
+}

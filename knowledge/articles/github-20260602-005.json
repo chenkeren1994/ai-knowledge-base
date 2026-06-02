@@ -1,0 +1,24 @@
+{
+  "id": "github-20260602-005",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "一个基于Hermes模型的自适应AI Agent框架，能够通过与用户的持续交互不断学习和进化，实现个性化智能体验。",
+  "highlights": [
+    "基于Hermes模型的强大语言能力",
+    "自适应成长机制，随交互持续进化"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Autonomous",
+    "Planning",
+    "LLM"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-02T11:56:46Z",
+  "updated_at": "2026-06-02T11:56:46Z"
+}

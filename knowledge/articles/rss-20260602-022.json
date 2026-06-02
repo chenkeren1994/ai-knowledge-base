@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260602-022",
+  "title": "OpenAI frontier models and Codex are now available on AWS",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+  "author": null,
+  "summary": "OpenAI 前沿模型与 Codex 代码模型现已在 AWS 上可用，开发者可直接通过 AWS 平台调用，便于集成与部署。",
+  "highlights": [
+    "前沿模型上云，降低使用门槛",
+    "Codex 助力代码生成与理解",
+    "AWS 集成简化企业级部署"
+  ],
+  "tags": [
+    "Deployment",
+    "LLM",
+    "Coding"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-02T11:56:46Z",
+  "updated_at": "2026-06-02T11:56:46Z"
+}

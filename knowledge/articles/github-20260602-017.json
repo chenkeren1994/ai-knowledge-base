@@ -1,0 +1,25 @@
+{
+  "id": "github-20260602-017",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该仓库系统收集了 Augment Code、Cursor、Devin、Replit 等 20+ 款主流 AI 编程与智能体工具的系统提示、内部工具及模型配置，为研究现代编码智能体的设计与实现提供了集中参考。",
+  "highlights": [
+    "覆盖 20+ 流行 AI 工具的系统提示",
+    "涉及 Agent、IDE、终端等多种工具类型",
+    "提供开源与内部工具的反向工程参考"
+  ],
+  "tags": [
+    "Agent",
+    "Prompt Engineering",
+    "Coding",
+    "Tool-use",
+    "Code Review"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-02T11:56:46Z",
+  "updated_at": "2026-06-02T11:56:46Z"
+}

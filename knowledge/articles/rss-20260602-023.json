@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260602-023",
+  "title": "AI Agent Guidelines for CS336 at Stanford",
+  "source": "rss",
+  "source_url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+  "author": null,
+  "summary": "斯坦福CS336课程发布的AI Agent开发指南，涵盖代理架构设计、任务规划、工具使用与评估方法等核心实践原则。",
+  "highlights": [
+    "提供系统化的Agent开发框架",
+    "注重可靠规划与工具集成",
+    "结合课程作业的实用设计约束"
+  ],
+  "tags": [
+    "Agent",
+    "Planning",
+    "Tool-use",
+    "Prompt Engineering"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-02T11:56:46Z",
+  "updated_at": "2026-06-02T11:56:46Z"
+}

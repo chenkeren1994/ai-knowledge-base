@@ -1,0 +1,36 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-06-03T12:27:03Z",
+  "items": [
+    {
+      "title": "AI outperforms law professors in Stanford Law study",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "How we index images for RAG",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

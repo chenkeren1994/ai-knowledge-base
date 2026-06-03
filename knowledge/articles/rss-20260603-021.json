@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260603-021",
+  "title": "U of T researchers demonstrate AI worm could target any online device",
+  "source": "rss",
+  "source_url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+  "author": null,
+  "summary": "多伦多大学研究人员展示了一种AI蠕虫，能够自主传播并攻击任意在线设备，凸显AI代理带来的新型安全威胁。",
+  "highlights": [
+    "演示AI自主传播蠕虫，可跨设备攻击",
+    "揭示AI代理在网络安全中的潜在风险"
+  ],
+  "tags": [
+    "Safety",
+    "Agent",
+    "Autonomous"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-03T12:28:02Z",
+  "updated_at": "2026-06-03T12:28:02Z"
+}

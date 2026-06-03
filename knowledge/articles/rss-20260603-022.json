@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260603-022",
+  "title": "How we index images for RAG",
+  "source": "rss",
+  "source_url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+  "author": null,
+  "summary": "文章介绍了在RAG系统中如何对图像进行索引的技术方案，涉及多模态嵌入、图像检索与文本协同，以提升知识库中视觉内容的检索效果。",
+  "highlights": [
+    "结合多模态嵌入统一处理图像与文本",
+    "解决RAG中视觉内容不可检索的痛点"
+  ],
+  "tags": [
+    "RAG",
+    "Multi-modal",
+    "Embedding",
+    "Semantic Search",
+    "Knowledge Base"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-03T12:28:02Z",
+  "updated_at": "2026-06-03T12:28:02Z"
+}

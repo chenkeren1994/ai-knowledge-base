@@ -1,0 +1,25 @@
+{
+  "id": "github-20260603-009",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "基于Gradio构建的Stable Diffusion Web界面，提供全面的图像生成控制功能，极大降低了扩散模型的使用门槛，是社区标志性开源项目。",
+  "highlights": [
+    "功能完备的WebUI，集成txt2img、img2img等核心模式",
+    "丰富的插件生态，支持ControlNet、LoRA等扩展",
+    "易用的本地部署与参数调节，推动创作民主化"
+  ],
+  "tags": [
+    "Diffusion",
+    "Multi-modal",
+    "Prompt Engineering",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-03T12:28:02Z",
+  "updated_at": "2026-06-03T12:28:02Z"
+}

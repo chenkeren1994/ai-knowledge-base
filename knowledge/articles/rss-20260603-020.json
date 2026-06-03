@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260603-020",
+  "title": "AI outperforms law professors in Stanford Law study",
+  "source": "rss",
+  "source_url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+  "author": null,
+  "summary": "斯坦福法学院的一项研究表明，AI 在法律相关任务上的表现超越了法学教授，展现了 AI 在法律推理和专业评估中的强大能力。",
+  "highlights": [
+    "AI 在法律测试中击败人类法学教授",
+    "表明法律领域可借助 AI 提升分析效率"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Prompt Engineering",
+    "Fine-tuning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-03T12:28:02Z",
+  "updated_at": "2026-06-03T12:28:02Z"
+}

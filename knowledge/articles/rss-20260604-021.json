@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260604-021",
+  "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
+  "source": "rss",
+  "source_url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
+  "author": null,
+  "summary": "本文介绍了如何让 Claude Code 和 OpenAI Codex 通过 Git 仓库进行实时对话，实现两个 AI 编码助手之间的协作、代码审查和迭代开发。",
+  "highlights": [
+    "双 AI 助手通过 Git 异步协作",
+    "无需额外 API 即可实现跨模型交互"
+  ],
+  "tags": [
+    "Coding",
+    "Code Review",
+    "Agent",
+    "Multi-agent"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-04T10:53:31Z",
+  "updated_at": "2026-06-04T10:53:31Z"
+}

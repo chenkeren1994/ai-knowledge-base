@@ -1,0 +1,25 @@
+{
+  "id": "github-20260604-004",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source": "github",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "author": "Significant-Gravitas",
+  "summary": "AutoGPT 是一个旨在实现通用人工智能的开源自主 AI 代理，它能够将高层次目标分解为子任务，并通过互联网访问、内存管理和工具使用自动执行，无需人工干预。",
+  "highlights": [
+    "自主任务分解与执行",
+    "内置联网与长短期记忆",
+    "插件式架构支持工具扩展"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "Memory",
+    "Tool-use",
+    "Open-source"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-04T10:53:31Z",
+  "updated_at": "2026-06-04T10:53:31Z"
+}

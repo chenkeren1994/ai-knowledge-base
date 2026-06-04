@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260604-022",
+  "title": "The ways we contain Claude across products",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+  "author": null,
+  "summary": "Anthropic分享跨产品部署Claude时的安全约束实践，涵盖模型层、系统层和策略层的多重抑制机制，旨在平衡安全性与实用性。",
+  "highlights": [
+    "跨产品统一的安全约束框架",
+    "兼顾安全与功能性的多层抑制设计"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-04T10:53:31Z",
+  "updated_at": "2026-06-04T10:53:31Z"
+}

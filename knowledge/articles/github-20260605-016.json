@@ -1,0 +1,22 @@
+{
+  "id": "github-20260605-016",
+  "title": "open-webui/open-webui",
+  "source": "github",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "author": "open-webui",
+  "summary": "开源的 AI 交互 Web 界面，统一接入 Ollama、OpenAI API 等后端，让用户轻松与多种大语言模型对话，降低本地部署和使用门槛。",
+  "highlights": [
+    "多后端聚合，管理本地与云端模型",
+    "开箱即用的美观界面，简化 AI 对话"
+  ],
+  "tags": [
+    "Deployment",
+    "Chatbot",
+    "LLM"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-05T11:17:14Z",
+  "updated_at": "2026-06-05T11:17:14Z"
+}

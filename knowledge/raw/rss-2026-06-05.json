@@ -1,0 +1,46 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-06-05T11:16:14Z",
+  "items": [
+    {
+      "title": "Fine-tuning an LLM to write docs like it&#x27;s 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Anthropic&#x27;s open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Ask HN: Is the web for machines (&#x2F;llm.txt) the one we wished we had as humans?",
+      "url": "https://news.ycombinator.com/item?id=48410589",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

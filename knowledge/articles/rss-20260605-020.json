@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260605-020",
+  "title": "Fine-tuning an LLM to write docs like it&#x27;s 1995",
+  "source": "rss",
+  "source_url": "https://passo.uno/fine-tuning-docs-llm/",
+  "author": null,
+  "summary": "本文介绍微调大语言模型以生成1995年复古风格文档的方法，涵盖数据集构建、风格迁移和微调策略，实现特定年代的文档撰写自动化。",
+  "highlights": [
+    "通过微调实现1995年文档风格生成",
+    "解决了特定风格文档编写的实际需求"
+  ],
+  "tags": [
+    "Fine-tuning",
+    "LLM",
+    "Documentation",
+    "Prompt Engineering"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-05T11:17:14Z",
+  "updated_at": "2026-06-05T11:17:14Z"
+}

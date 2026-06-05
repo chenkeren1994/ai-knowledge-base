@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260605-022",
+  "title": "Ask HN: Is the web for machines (&#x2F;llm.txt) the one we wished we had as humans?",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48410589",
+  "author": null,
+  "summary": "讨论 /llms.txt 提议，即让网站提供专门为 AI 代理设计的结构化内容标准，并反思这是否就是人类长期以来期望的语义网愿景。",
+  "highlights": [
+    "提出面向 LLM 的结构化网页标准",
+    "对比人类期待的语义网设想"
+  ],
+  "tags": [
+    "LLM",
+    "Semantic Search",
+    "Knowledge Graph"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-05T11:17:14Z",
+  "updated_at": "2026-06-05T11:17:14Z"
+}

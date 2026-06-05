@@ -1,0 +1,24 @@
+{
+  "id": "github-20260605-009",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "Stable Diffusion WebUI 是一个基于 Gradio 的图形化操作界面，为 Stable Diffusion 模型提供文生图、图生图、修复等完整功能，大幅降低 AI 绘画的使用门槛。",
+  "highlights": [
+    "一键启动的交互式 Web 界面，操作直观",
+    "丰富的插件生态与活跃社区支持",
+    "支持多种采样器、模型动态切换和精细参数调节"
+  ],
+  "tags": [
+    "Diffusion",
+    "Multi-modal",
+    "Deployment",
+    "Inference"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-05T11:17:14Z",
+  "updated_at": "2026-06-05T11:17:14Z"
+}

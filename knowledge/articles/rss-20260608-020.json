@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260608-020",
+  "title": "Tiny hackable CUDA language model implementation",
+  "source": "rss",
+  "source_url": "https://github.com/markusheimerl/gpt",
+  "author": null,
+  "summary": "一个用CUDA编写的轻量级可修改语言模型实现，专注于从底层展示语言模型原理，便于开发者理解和实验。",
+  "highlights": [
+    "纯CUDA实现，无外部依赖",
+    "代码简洁，易于二次开发"
+  ],
+  "tags": [
+    "LLM",
+    "Coding"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-08T12:19:04Z",
+  "updated_at": "2026-06-08T12:19:04Z"
+}

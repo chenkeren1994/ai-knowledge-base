@@ -1,0 +1,26 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-06-08T12:18:10Z",
+  "items": [
+    {
+      "title": "Tiny hackable CUDA language model implementation",
+      "url": "https://github.com/markusheimerl/gpt",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

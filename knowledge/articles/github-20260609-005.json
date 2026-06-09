@@ -1,0 +1,23 @@
+{
+  "id": "github-20260609-005",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "NousResearch推出的自适应智能体框架，基于Hermes模型，支持工具调用、记忆与自我进化，旨在与用户共同成长。",
+  "highlights": [
+    "自适应智能体，随使用自我进化",
+    "深度集成Hermes模型与工具调用"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Memory",
+    "Fine-tuning"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-09T10:50:07Z",
+  "updated_at": "2026-06-09T10:50:07Z"
+}

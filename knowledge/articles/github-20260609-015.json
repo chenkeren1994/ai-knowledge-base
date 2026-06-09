@@ -1,0 +1,24 @@
+{
+  "id": "github-20260609-015",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic发布的Agent Skills公共仓库，旨在为AI代理提供标准化的技能模块，便于集成工具调用、规划等能力，加速代理开发。",
+  "highlights": [
+    "为代理提供可复用的技能库",
+    "标准化技能接口促进生态协作",
+    "高热度反映社区对代理基础设施的需求"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Planning",
+    "Autonomous"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-09T10:50:07Z",
+  "updated_at": "2026-06-09T10:50:07Z"
+}

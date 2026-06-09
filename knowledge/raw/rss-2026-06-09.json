@@ -1,0 +1,56 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-06-09T10:49:20Z",
+  "items": [
+    {
+      "title": "Microsoft&#x27;s open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "url": "https://news.ycombinator.com/item?id=48449187",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-20260609-008",
+  "title": "anomalyco/opencode",
+  "source": "github",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "summary": "OpenCode 是一个开源的 AI 编码智能体，能够自主理解编程任务、规划步骤、生成与修改代码，并执行测试与调试，旨在提供类似 Devin 的自主软件开发能力。",
+  "highlights": [
+    "开源自驱动编程代理，对标 Devin",
+    "支持多语言、自主规划与执行",
+    "高度可定制，社区活跃迭代快"
+  ],
+  "tags": [
+    "Coding",
+    "Agent",
+    "Autonomous",
+    "LLM",
+    "Tool-use"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-09T10:50:07Z",
+  "updated_at": "2026-06-09T10:50:07Z"
+}

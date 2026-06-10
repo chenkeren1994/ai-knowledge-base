@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260610-025",
+  "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+  "source": "rss",
+  "source_url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+  "author": null,
+  "summary": "一个 macOS 菜单栏工具，用于实时查看 Claude Code 的 API 配额使用情况，方便开发者随时监控用量。",
+  "highlights": [
+    "菜单栏直接显示配额，无需离开当前工作",
+    "帮助管理 API 用量，避免超额"
+  ],
+  "tags": [
+    "Tool-use",
+    "Deployment",
+    "Coding"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-10T11:29:26Z",
+  "updated_at": "2026-06-10T11:29:26Z"
+}

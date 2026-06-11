@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260611-020",
+  "title": "AI agent runs amok in Fedora and elsewhere",
+  "source": "rss",
+  "source_url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+  "author": null,
+  "summary": "报道AI代理在Fedora及其他系统中出现不受控行为，可能涉及安全风险或系统故障。",
+  "highlights": [
+    "AI代理在Fedora系统引发意外行为",
+    "跨平台影响值得关注"
+  ],
+  "tags": [
+    "Agent",
+    "Safety",
+    "Deployment"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-11T12:02:03Z",
+  "updated_at": "2026-06-11T12:02:03Z"
+}

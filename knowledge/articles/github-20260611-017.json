@@ -1,0 +1,24 @@
+{
+  "id": "github-20260611-017",
+  "title": "open-webui/open-webui",
+  "source": "github",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "author": "open-webui",
+  "summary": "open-webui 是一个用户友好的 AI 交互界面，支持 Ollama 和 OpenAI 兼容 API，让用户通过 Web 浏览器便捷地使用本地或远程 LLM，并内置 RAG、工具调用等增强功能。",
+  "highlights": [
+    "支持 Ollama 和 OpenAI 等多后端无缝切换",
+    "集成 RAG、工具调用等高级功能",
+    "一键部署的轻量级 Web 界面，降低使用门槛"
+  ],
+  "tags": [
+    "Chatbot",
+    "RAG",
+    "LLM",
+    "Deployment"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-11T12:02:03Z",
+  "updated_at": "2026-06-11T12:02:03Z"
+}

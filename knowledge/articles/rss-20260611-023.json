@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260611-023",
+  "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+  "source": "rss",
+  "source_url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+  "author": null,
+  "summary": "Anthropic 针对其早期模型 Fable 和 Mythos 制定了 30 天的用户数据保留政策，作为数据安全与合规管理措施。",
+  "highlights": [
+    "明确数据保留时限，强化隐私保护",
+    "体现 AI 公司对数据治理的重视"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails",
+    "Deployment"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-11T12:02:03Z",
+  "updated_at": "2026-06-11T12:02:03Z"
+}

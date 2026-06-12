@@ -1,0 +1,23 @@
+{
+  "id": "github-20260612-007",
+  "title": "ollama/ollama",
+  "source": "github",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "summary": "Ollama 是一个开源工具，可快速在本地部署和运行 Kimi、GLM、DeepSeek 等多种大语言模型，简化实验与应用开发流程。",
+  "highlights": [
+    "一键式本地运行主流大模型，免除复杂配置",
+    "内置模型库丰富，涵盖前沿对话与代码模型"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Inference",
+    "Quantization"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

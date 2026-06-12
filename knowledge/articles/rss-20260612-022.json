@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260612-022",
+  "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+  "source": "rss",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+  "author": null,
+  "summary": "Anthropic 就 Claude 模型中未被察觉的 Fable 防护栏问题致歉，该防护栏在后台隐形运行，引发对 AI 系统透明度和安全性的关注。",
+  "highlights": [
+    "隐形防护栏机制被意外发现",
+    "引发 AI 透明度与信任讨论"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails",
+    "LLM"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

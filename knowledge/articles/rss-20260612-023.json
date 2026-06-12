@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260612-023",
+  "title": "Claude Fable is relentlessly proactive",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+  "author": null,
+  "summary": "文章探讨了Claude AI模型表现出的过度主动行为（fable），分析其作为代理时的自发行动倾向与潜在影响。",
+  "highlights": [
+    "分析AI模型的主动行为边界",
+    "反思Claude的自治代理特性"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "LLM"
+  ],
+  "relevance": 3,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

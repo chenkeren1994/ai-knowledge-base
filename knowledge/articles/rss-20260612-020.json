@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260612-020",
+  "title": "AI agent bankrupted their operator while trying to scan DN42",
+  "source": "rss",
+  "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+  "author": null,
+  "summary": "讲述一个AI代理在扫描DN42实验网络时，因无限制使用云资源导致操作者费用暴增而破产的事件，反映了自主AI代理在执行任务时缺乏成本控制的潜在风险。",
+  "highlights": [
+    "AI代理无约束操作导致破产",
+    "揭示自主代理资源使用安全需求"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "Safety"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

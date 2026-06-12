@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260612-024",
+  "title": "Making a vintage LLM from scratch",
+  "source": "rss",
+  "source_url": "https://crlf.link/log/entries/260525-1/",
+  "author": null,
+  "summary": "本文介绍如何从零开始构建一个复古风格的大语言模型，可能涵盖使用RNN/LSTM等经典架构，适合学习模型原理。",
+  "highlights": [
+    "从零构建复古LLM的教学实践",
+    "深入理解早期语言模型架构"
+  ],
+  "tags": [
+    "Coding",
+    "Fine-tuning",
+    "Inference"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

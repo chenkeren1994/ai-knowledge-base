@@ -1,0 +1,22 @@
+{
+  "id": "github-20260612-010",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "一个基于 Gradio 的 Stable Diffusion 图像生成 Web 界面，集成了 txt2img、img2img、inpainting 等核心功能，并支持大量扩展和自定义脚本。",
+  "highlights": [
+    "最流行的 Stable Diffusion 前端界面",
+    "丰富的扩展生态系统和社区支持"
+  ],
+  "tags": [
+    "Diffusion",
+    "Deployment",
+    "Fine-tuning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

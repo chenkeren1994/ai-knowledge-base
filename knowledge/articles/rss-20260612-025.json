@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260612-025",
+  "title": "Claude Fable 5: mid-tier results on coding tasks",
+  "source": "rss",
+  "source_url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+  "author": null,
+  "summary": "文章简要提及了 Claude Fable 5 在编程任务中取得中等水平的表现，可能涉及模型在代码生成或问题求解方面的评估。",
+  "highlights": [
+    "Claude 新版本在编码任务上的表现",
+    "中等水平的结果可能用于基准比较"
+  ],
+  "tags": [
+    "LLM",
+    "Coding",
+    "Evaluation"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

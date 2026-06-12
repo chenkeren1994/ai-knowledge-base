@@ -1,0 +1,25 @@
+{
+  "id": "github-20260612-012",
+  "title": "huggingface/transformers",
+  "source": "github",
+  "source_url": "https://github.com/huggingface/transformers",
+  "author": "huggingface",
+  "summary": "🤗 Transformers 是 Hugging Face 维护的模型定义框架，为文本、视觉、音频及多模态领域提供统一的预训练模型接口，支持推理与训练，是现代 NLP/CV 等任务的事实标准工具库。",
+  "highlights": [
+    "统一 API 调用海量 SOTA 模型",
+    "覆盖多模态与多领域预训练模型",
+    "社区驱动的模型生态与持续扩展"
+  ],
+  "tags": [
+    "Transformer",
+    "Multi-modal",
+    "Fine-tuning",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

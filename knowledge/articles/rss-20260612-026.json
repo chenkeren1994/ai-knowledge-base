@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260612-026",
+  "title": "How Terry Tao became an evangelist for AI in math",
+  "source": "rss",
+  "source_url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+  "author": null,
+  "summary": "数学家陶哲轩成为AI在数学领域应用的积极倡导者，探讨如何利用大型语言模型和形式化工具辅助定理证明与数学研究。",
+  "highlights": [
+    "顶尖数学家公开支持AI研究数学",
+    "AI辅助证明可能改变数学研究范式"
+  ],
+  "tags": [
+    "LLM",
+    "Chain-of-Thought",
+    "Agent",
+    "Search"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

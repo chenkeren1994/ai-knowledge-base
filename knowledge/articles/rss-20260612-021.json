@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260612-021",
+  "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+  "source": "rss",
+  "source_url": "https://fablepool.com",
+  "author": null,
+  "summary": "FablePool 是一个资金托管平台，用户通过投入资金支持一个创意提示，由 AI 代理公开构建并交付项目，实现众筹式开发。",
+  "highlights": [
+    "资金池驱动 AI 公开构建",
+    "将提示转化为众包项目"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Agent",
+    "Autonomous"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-12T11:33:08Z",
+  "updated_at": "2026-06-12T11:33:08Z"
+}

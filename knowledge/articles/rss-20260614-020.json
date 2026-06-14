@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260614-020",
+  "title": "Making Claude a Chemist",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/making-claude-a-chemist",
+  "author": null,
+  "summary": "本文探讨如何将Claude大模型应用于化学领域，通过提示工程与工具调用，使其能进行化学信息检索、数据分析与辅助研究。",
+  "highlights": [
+    "利用Claude的推理和工具调用能力处理化学任务",
+    "展示LLM在专业科学领域的可扩展应用"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Tool-use",
+    "Knowledge Base"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-14T10:42:07Z",
+  "updated_at": "2026-06-14T10:42:07Z"
+}

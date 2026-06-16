@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260616-020",
+  "title": "Ask HN: Has anyone replaced Claude&#x2F;GPT with a local model for daily coding?",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48542100",
+  "author": null,
+  "summary": "Hacker News 用户询问是否有人已将 Claude/GPT 替换为本地模型用于日常编码，关注本地 LLM 在编程任务中的可行性和实际体验。",
+  "highlights": [
+    "探讨本地模型替代闭源 API 的可行性",
+    "聚焦日常编码场景的实际使用体验"
+  ],
+  "tags": [
+    "LLM",
+    "Coding",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-16T12:44:30Z",
+  "updated_at": "2026-06-16T12:44:30Z"
+}

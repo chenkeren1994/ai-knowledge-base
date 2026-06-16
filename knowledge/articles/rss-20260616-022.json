@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260616-022",
+  "title": "My Homelab AI Dev Platform",
+  "source": "rss",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "author": null,
+  "summary": "文章介绍个人搭建家庭实验室AI开发平台的实践经验，涵盖硬件选型、软件栈配置和AI开发工具链，旨在低成本实现高效本地AI研发环境。",
+  "highlights": [
+    "低成本搭建本地AI开发环境",
+    "硬件与软件的实用选型指南"
+  ],
+  "tags": [
+    "Deployment",
+    "Inference",
+    "Data Analysis"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-16T12:44:30Z",
+  "updated_at": "2026-06-16T12:44:30Z"
+}

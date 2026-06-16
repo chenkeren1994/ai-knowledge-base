@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260616-021",
+  "title": "Feds freaked over Fable 5 after simple &#x27;fix this code&#x27; prompt, not jailbreak",
+  "source": "rss",
+  "source_url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+  "author": null,
+  "summary": "AI模型Fable 5在无需越狱的情况下，仅通过“修复这段代码”的简单提示即可生成可能存在安全风险的代码修复，导致美国联邦机构对其潜在滥用感到恐慌。",
+  "highlights": [
+    "无需越狱，简单功能提示引发安全恐慌",
+    "代码修复能力暴露模型潜在危险"
+  ],
+  "tags": [
+    "Coding",
+    "Safety",
+    "Evaluation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-16T12:44:30Z",
+  "updated_at": "2026-06-16T12:44:30Z"
+}

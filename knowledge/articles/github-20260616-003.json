@@ -1,0 +1,23 @@
+{
+  "id": "github-20260616-003",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "Hermes-agent是Nous Research推出的开源智能体框架，基于Hermes语言模型，支持工具调用、记忆管理和自主规划，旨在构建可定制且能持续进化的AI助手。",
+  "highlights": [
+    "深度集成Nous Hermes模型，智能体自主成长",
+    "内置记忆与工具调用机制，实现复杂任务处理"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Memory",
+    "Autonomous"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-16T12:44:30Z",
+  "updated_at": "2026-06-16T12:44:30Z"
+}

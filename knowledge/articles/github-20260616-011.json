@@ -1,0 +1,23 @@
+{
+  "id": "github-20260616-011",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "一个功能丰富且高度可定制的 Stable Diffusion Web 界面，支持文生图、图生图、修复等，拥有庞大的扩展生态，极大降低了 AI 绘画的使用门槛。",
+  "highlights": [
+    "开箱即用的 WebUI，简化 Stable Diffusion 操作",
+    "丰富的插件系统与社区贡献，功能持续扩展"
+  ],
+  "tags": [
+    "Diffusion",
+    "Inference",
+    "Deployment",
+    "Prompt Engineering"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-16T12:44:30Z",
+  "updated_at": "2026-06-16T12:44:30Z"
+}

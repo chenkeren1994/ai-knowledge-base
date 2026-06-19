@@ -1,0 +1,23 @@
+{
+  "id": "github-20260619-003",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "Hermes-Agent 是基于 Hermes 模型构建的开源智能体框架，强调个性化与持续学习能力，能够通过交互记忆和工具使用逐步适应用户需求，实现“与你共同成长”的智能助手。",
+  "highlights": [
+    "基于 Hermes 的个性化智能体框架",
+    "支持记忆、工具调用与持续学习"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Chatbot",
+    "Function calling"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-19T11:57:19Z",
+  "updated_at": "2026-06-19T11:57:19Z"
+}

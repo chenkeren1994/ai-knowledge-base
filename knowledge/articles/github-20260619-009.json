@@ -1,0 +1,24 @@
+{
+  "id": "github-20260619-009",
+  "title": "ollama/ollama",
+  "source": "github",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "summary": "Ollama 是一个开源工具，让开发者能快速在本地运行各种大型语言模型（如 Llama、Qwen、Gemma 等），支持模型下载、量化和推理，简化了 LLM 的本地部署与实验流程。",
+  "highlights": [
+    "一键式本地运行主流 LLM",
+    "自动模型量化，降低硬件门槛",
+    "支持 REST API，方便集成"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Inference",
+    "Quantization"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-19T11:57:19Z",
+  "updated_at": "2026-06-19T11:57:19Z"
+}

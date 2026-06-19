@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260619-020",
+  "title": "Zen and the Art of Machine Learning Research",
+  "source": "rss",
+  "source_url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+  "author": null,
+  "summary": "文章探讨机器学习研究中的禅宗哲学，强调简化问题、专注本质和直觉实验，避免盲目追求复杂模型。",
+  "highlights": [
+    "以禅宗精神简化研究流程",
+    "提倡直觉驱动实验而非繁复调参"
+  ],
+  "tags": [
+    "Chain-of-Thought",
+    "Fine-tuning",
+    "Evaluation",
+    "Planning"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-19T11:57:19Z",
+  "updated_at": "2026-06-19T11:57:19Z"
+}

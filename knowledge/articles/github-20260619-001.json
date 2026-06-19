@@ -1,0 +1,22 @@
+{
+  "id": "github-20260619-001",
+  "title": "openclaw/openclaw",
+  "source": "github",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "author": "openclaw",
+  "summary": "OpenClaw 是一个跨平台的个人 AI 助手框架，旨在让用户在任何操作系统和设备上运行自定义的 AI 智能体，支持工具调用和多种交互方式。",
+  "highlights": [
+    "全平台兼容，覆盖桌面与移动端",
+    "以龙虾为主题，强调自由与可定制性"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Chatbot"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-19T11:57:19Z",
+  "updated_at": "2026-06-19T11:57:19Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-20260620-002",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "summary": "一个智能体技能框架及软件开发方法论，提供可落地的agentic系统构建指南，获得极高社区关注。",
+  "highlights": [
+    "提供可操作的智能体开发方法论",
+    "高星标验证实用性",
+    "覆盖技能定义与编排"
+  ],
+  "tags": [
+    "Agent",
+    "Multi-agent",
+    "Tool-use",
+    "Planning",
+    "Autonomous"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-20T10:24:05Z",
+  "updated_at": "2026-06-20T10:24:05Z"
+}

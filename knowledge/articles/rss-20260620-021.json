@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260620-021",
+  "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+  "source": "rss",
+  "source_url": "https://arrowtsx.dev/bigger-models/",
+  "author": null,
+  "summary": "研究比较发现，MIT 许可的 GLM-5.2 模型的幻觉率仅为 GPT-5.5 的三分之一，凸显开源模型在事实准确性上的优势。",
+  "highlights": [
+    "开源 GLM-5.2 幻觉控制显著优于 GPT-5.5",
+    "为可靠性敏感场景的模型选择提供数据参考"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Safety"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-20T10:24:05Z",
+  "updated_at": "2026-06-20T10:24:05Z"
+}

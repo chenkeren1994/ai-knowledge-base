@@ -1,0 +1,46 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-06-20T10:23:30Z",
+  "items": [
+    {
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "John Jumper to join Anthropic",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

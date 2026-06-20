@@ -1,0 +1,23 @@
+{
+  "id": "github-20260620-019",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该项目收集了 Augment Code、Cursor、Devin AI、Perplexity 等大量 AI 开发工具的系统提示、内部工具和模型信息，为安全研究、提示工程分析和工具逆向提供参考。",
+  "highlights": [
+    "集中公开了大量知名 AI 编码工具的完整系统提示",
+    "可复现工具内部行为，辅助安全与合规性检测"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Safety",
+    "Agent",
+    "LLM"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-20T10:24:05Z",
+  "updated_at": "2026-06-20T10:24:05Z"
+}

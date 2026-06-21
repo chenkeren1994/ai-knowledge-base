@@ -1,0 +1,25 @@
+{
+  "id": "github-20260621-015",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic Skills 是一个公开的 Agent 技能仓库，通过标准化的 Markdown 文件为 AI Agent 提供可复用的任务指令，使其能动态加载所需能力，缓解长上下文压力并提升复杂任务执行的可靠性。",
+  "highlights": [
+    "标准化技能格式，Agent 即插即用",
+    "动态加载缓解上下文窗口瓶颈",
+    "社区共建扩展 Agent 能力生态"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Prompt Engineering",
+    "Autonomous",
+    "Function calling"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-21T10:57:59Z",
+  "updated_at": "2026-06-21T10:57:59Z"
+}

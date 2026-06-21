@@ -1,0 +1,24 @@
+{
+  "id": "github-20260621-002",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "summary": "该项目提出了一套代理技能框架及软件开发方法论，将开发者任务分解为可组合的代理技能，支持编码、测试、工具使用等，旨在让AI代理高效完成软件工程全流程。",
+  "highlights": [
+    "模块化、可组合的代理技能设计",
+    "覆盖开发全流程的实用方法论"
+  ],
+  "tags": [
+    "Agent",
+    "Coding",
+    "Tool-use",
+    "Planning",
+    "Autonomous"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-21T10:57:59Z",
+  "updated_at": "2026-06-21T10:57:59Z"
+}

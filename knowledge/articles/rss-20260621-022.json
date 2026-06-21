@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260621-022",
+  "title": "Temporary Cloudflare accounts for AI agents",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/temporary-accounts/",
+  "author": null,
+  "summary": "该文介绍了一种为AI代理生成临时Cloudflare账户的方案，用于安全隔离代理执行环境，实现代理对云资源的临时访问，避免长期凭证泄露风险。",
+  "highlights": [
+    "安全临时凭证管理",
+    "隔离AI代理运行环境",
+    "简化代理部署流程"
+  ],
+  "tags": [
+    "Agent",
+    "Deployment",
+    "Safety",
+    "Tool-use"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-21T10:57:59Z",
+  "updated_at": "2026-06-21T10:57:59Z"
+}

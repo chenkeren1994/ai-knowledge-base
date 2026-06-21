@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260621-021",
+  "title": "Building reliable agentic AI systems",
+  "source": "rss",
+  "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+  "author": null,
+  "summary": "文章探讨如何构建可靠的代理型AI系统，聚焦于代理在决策与执行中的稳定性、安全性和可预测性设计原则。",
+  "highlights": [
+    "强调代理AI系统的可靠性设计",
+    "涵盖安全性与故障恢复机制"
+  ],
+  "tags": [
+    "Agent",
+    "Safety",
+    "Planning",
+    "Multi-agent"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-21T10:57:59Z",
+  "updated_at": "2026-06-21T10:57:59Z"
+}

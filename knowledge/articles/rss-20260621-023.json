@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260621-023",
+  "title": "When I reject AI code even if it works",
+  "source": "rss",
+  "source_url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+  "author": null,
+  "summary": "文章探讨了开发者拒绝AI生成代码的常见原因，即使代码功能正确，主要关注可维护性、可读性、安全性和架构合理性，强调代码审查中对AI产出的严格人工评估。",
+  "highlights": [
+    "提出功能正确不等于可接受的AI代码",
+    "总结了可读性、架构、安全等拒绝维度"
+  ],
+  "tags": [
+    "Coding",
+    "Code Review",
+    "Evaluation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-21T10:57:59Z",
+  "updated_at": "2026-06-21T10:57:59Z"
+}

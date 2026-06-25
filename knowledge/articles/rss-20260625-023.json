@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260625-023",
+  "title": "RubyLLM: A Ruby framework for all major AI providers",
+  "source": "rss",
+  "source_url": "https://rubyllm.com/",
+  "author": null,
+  "summary": "RubyLLM 是一个为 Ruby 开发者提供的统一框架，支持 OpenAI、Anthropic、Google 等主流 AI 服务商，简化了多模型集成与调用。",
+  "highlights": [
+    "统一的 API 封装多个 AI 提供商",
+    "原生 Ruby 风格，降低学习成本"
+  ],
+  "tags": [
+    "LLM",
+    "LangChain",
+    "Chatbot"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-25T10:32:15Z",
+  "updated_at": "2026-06-25T10:32:15Z"
+}

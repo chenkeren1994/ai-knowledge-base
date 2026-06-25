@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260625-022",
+  "title": "OpenAI unveils its first custom chip, built by Broadcom",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+  "author": null,
+  "summary": "OpenAI 与 Broadcom 合作推出首款定制 AI 芯片，旨在优化大模型推理性能并降低对英伟达的依赖，提升部署效率。",
+  "highlights": [
+    "摆脱对英伟达单一供应商依赖",
+    "定制化设计优化大模型推理性能"
+  ],
+  "tags": [
+    "Inference",
+    "Deployment",
+    "Quantization"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-25T10:32:15Z",
+  "updated_at": "2026-06-25T10:32:15Z"
+}

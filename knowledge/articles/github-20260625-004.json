@@ -1,0 +1,23 @@
+{
+  "id": "github-20260625-004",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "该项目提供了一个可与用户共同成长的开源智能体，基于 Hermes 模型构建，支持工具调用和记忆机制，能够从交互中持续学习和个性化适应。",
+  "highlights": [
+    "智能体可随交互持续进化与个性化",
+    "集成工具调用与长期记忆管理"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Tool-use",
+    "RAG"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-25T10:32:15Z",
+  "updated_at": "2026-06-25T10:32:15Z"
+}

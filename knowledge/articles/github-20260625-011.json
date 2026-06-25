@@ -1,0 +1,23 @@
+{
+  "id": "github-20260625-011",
+  "title": "f/prompts.chat",
+  "source": "github",
+  "source_url": "https://github.com/f/prompts.chat",
+  "author": "f",
+  "summary": "一个开源提示词社区平台，支持自托管部署以保护隐私，用户可分享、发现和收集各类提示词。",
+  "highlights": [
+    "完全开源且可私有化部署",
+    "社区驱动的提示词协作生态",
+    "注重隐私与数据安全"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Chatbot",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-25T10:32:15Z",
+  "updated_at": "2026-06-25T10:32:15Z"
+}

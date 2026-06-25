@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260625-021",
+  "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+  "author": null,
+  "summary": "Anthropic 指控阿里巴巴非法提取其 Claude AI 模型的能力，引发对 AI 模型知识产权与技术合规的关注。",
+  "highlights": [
+    "AI 模型知识产权争议",
+    "企业合规警示"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails",
+    "LLM"
+  ],
+  "relevance": 3,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-25T10:32:15Z",
+  "updated_at": "2026-06-25T10:32:15Z"
+}

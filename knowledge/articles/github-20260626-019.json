@@ -1,0 +1,25 @@
+{
+  "id": "github-20260626-019",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该仓库收集了 Augment Code、Cursor、Windsurf 等 20 余款 AI 编程与生成工具的系统提示与模型信息，为理解提示词工程和工具内部设计提供了开源参考。",
+  "highlights": [
+    "覆盖 20+ 主流 AI 工具系统提示",
+    "揭示内部提示词设计思路",
+    "开源共享便于研究学习"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "LLM",
+    "Agent",
+    "Tool-use",
+    "Coding"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-26T10:41:27Z",
+  "updated_at": "2026-06-26T10:41:27Z"
+}

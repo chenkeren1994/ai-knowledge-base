@@ -1,0 +1,24 @@
+{
+  "id": "github-20260626-017",
+  "title": "langgenius/dify",
+  "source": "github",
+  "source_url": "https://github.com/langgenius/dify",
+  "author": "langgenius",
+  "summary": "Dify 是一个开源 LLM 应用开发平台，提供可视化工作流编排，支持快速构建与部署包含 Agent、RAG 等能力的 AI 应用，面向生产环境。",
+  "highlights": [
+    "可视化构建 Agent 工作流，支持拖拽编排",
+    "集成多种 LLM 与知识库，生产就绪"
+  ],
+  "tags": [
+    "Dify",
+    "Agent",
+    "Tool-use",
+    "Deployment",
+    "Knowledge Base"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-26T10:41:27Z",
+  "updated_at": "2026-06-26T10:41:27Z"
+}

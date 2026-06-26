@@ -1,0 +1,22 @@
+{
+  "id": "github-20260626-012",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "Stable Diffusion 模型的Web用户界面，提供便捷的图像生成、参数调节和扩展功能，是最广泛使用的开源文生图工具之一。",
+  "highlights": [
+    "简化了复杂模型的本地使用门槛",
+    "丰富的插件生态和社区支持"
+  ],
+  "tags": [
+    "Diffusion",
+    "Deployment",
+    "Inference"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-26T10:41:27Z",
+  "updated_at": "2026-06-26T10:41:27Z"
+}

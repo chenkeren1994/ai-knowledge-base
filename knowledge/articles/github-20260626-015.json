@@ -1,0 +1,22 @@
+{
+  "id": "github-20260626-015",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic 发布的 Agent Skills 公共仓库，旨在为 AI Agent 提供可复用的技能模块与标准化工具接口，方便开发者构建和组合 Agent 能力。",
+  "highlights": [
+    "定义 Agent 技能标准接口，促进技能复用",
+    "提供开箱即用的技能库与示例"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Planning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-26T10:41:27Z",
+  "updated_at": "2026-06-26T10:41:27Z"
+}

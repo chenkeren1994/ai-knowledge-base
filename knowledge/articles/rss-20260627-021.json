@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260627-021",
+  "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+  "source": "rss",
+  "source_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "author": null,
+  "summary": "DeepSeek 开源了针对大模型推理的优化方案，可将生成速度提升 60–85%，帮助实际部署显著降低延迟。",
+  "highlights": [
+    "推理速度提升 60–85%，降低部署成本",
+    "开源优化技术，可直接应用于生产"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Deployment",
+    "Quantization"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-27T09:54:30Z",
+  "updated_at": "2026-06-27T09:54:30Z"
+}

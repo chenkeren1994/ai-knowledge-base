@@ -1,0 +1,23 @@
+{
+  "id": "github-20260627-004",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "NousResearch 发布的 Hermes Agent 是一个强调持续学习与个性化适应的智能代理框架，旨在通过与用户交互不断优化行为，实现“与你共同成长”的体验。",
+  "highlights": [
+    "动态适应与个性化演进机制",
+    "开源设计，易于集成与扩展"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Autonomous",
+    "Tool-use"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-27T09:54:30Z",
+  "updated_at": "2026-06-27T09:54:30Z"
+}

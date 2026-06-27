@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260627-023",
+  "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+  "source": "rss",
+  "source_url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+  "author": null,
+  "summary": "美国政府允许 Anthropic 向受信任的美国组织发布其 Mythos AI，可能涉及安全审查和定向分发机制，标志着 AI 模型出口管控的细微调整。",
+  "highlights": [
+    "美国放开特定模型分发限制",
+    "信任名单机制纳入 AI 模型部署"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Deployment"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-27T09:54:30Z",
+  "updated_at": "2026-06-27T09:54:30Z"
+}

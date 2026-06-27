@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260627-024",
+  "title": "AI in mathematics is forcing big questions",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/ai-in-mathematics",
+  "author": null,
+  "summary": "本文探讨了人工智能在数学研究中的应用，如使用大语言模型辅助定理证明与模式发现，并分析其对数学知识本质和研究范式带来的深刻影响。",
+  "highlights": [
+    "AI辅助数学定理证明",
+    "重塑数学研究范式",
+    "引发对数学知识本质的追问"
+  ],
+  "tags": [
+    "LLM",
+    "Chain-of-Thought",
+    "Knowledge Graph",
+    "Data Analysis"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-27T09:54:30Z",
+  "updated_at": "2026-06-27T09:54:30Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260627-026",
+  "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+  "source": "rss",
+  "source_url": "https://github.com/workweave/router",
+  "author": null,
+  "summary": "该项目实现了智能模型路由功能，可直接集成到Claude、Codex和Cursor等编码助手工具中，根据任务需求动态选择最合适的LLM，以在成本与性能之间取得平衡。",
+  "highlights": [
+    "在主流AI工具中实现动态模型路由",
+    "智能优化不同任务下的模型选择"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Tool-use",
+    "Coding"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-27T09:54:30Z",
+  "updated_at": "2026-06-27T09:54:30Z"
+}

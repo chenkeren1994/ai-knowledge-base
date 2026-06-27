@@ -1,0 +1,23 @@
+{
+  "id": "github-20260627-003",
+  "title": "affaan-m/ECC",
+  "source": "github",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "author": "affaan-m",
+  "summary": "这是一个面向AI编程助手的性能优化系统，集成技能、记忆、安全等功能，支持Claude Code、Codex等多平台，提升agent在代码任务中的表现。",
+  "highlights": [
+    "跨多编程助手的agent性能优化框架",
+    "内置记忆、安全与技能模块"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Safety",
+    "Coding"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-27T09:54:30Z",
+  "updated_at": "2026-06-27T09:54:30Z"
+}

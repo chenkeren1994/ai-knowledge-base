@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260629-022",
+  "title": "I used Claude Code to get a second opinion on my MRI",
+  "source": "rss",
+  "source_url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+  "author": null,
+  "summary": "使用Claude Code多模态能力分析个人MRI影像，获取医学第二意见，展示了LLM在医疗图像分析中的个人化应用潜力。",
+  "highlights": [
+    "将Claude Code的多模态分析用于医疗影像解读",
+    "低成本获取专业医学影像第二意见的尝试"
+  ],
+  "tags": [
+    "LLM",
+    "Multi-modal",
+    "Data Analysis",
+    "Safety"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-29T12:21:17Z",
+  "updated_at": "2026-06-29T12:21:17Z"
+}

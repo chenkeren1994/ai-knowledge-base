@@ -1,0 +1,25 @@
+{
+  "id": "github-20260629-015",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic 官方发布的 Agent 技能库，旨在为 AI Agent 提供可复用、标准化的工具与能力模块，支持在 Claude 等模型中直接集成，加速多步骤任务自动化。",
+  "highlights": [
+    "官方维护的标准化 Agent 技能集",
+    "可直接集成到 Claude 工作流",
+    "覆盖工具调用、代码执行等关键能力"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Function calling",
+    "Coding",
+    "Deployment"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-29T12:21:17Z",
+  "updated_at": "2026-06-29T12:21:17Z"
+}

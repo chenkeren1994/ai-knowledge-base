@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260629-026",
+  "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+  "source": "rss",
+  "source_url": "https://github.com/openai/codex/issues/2847",
+  "author": null,
+  "summary": "OpenAI Codex仍存在无法排除敏感文件的问题，该Issue长期未解决，可能引发代码隐私泄露风险。",
+  "highlights": [
+    "敏感文件排除功能缺失，影响代码安全",
+    "Issue长期开放，用户需求迫切"
+  ],
+  "tags": [
+    "Coding",
+    "Safety"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-29T12:21:17Z",
+  "updated_at": "2026-06-29T12:21:17Z"
+}

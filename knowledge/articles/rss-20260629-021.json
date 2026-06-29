@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260629-021",
+  "title": "GLM 5.2 beats Claude in our benchmarks",
+  "source": "rss",
+  "source_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+  "author": null,
+  "summary": "GLM 5.2 模型在基准测试中声称超越 Claude，展示了新模型的强劲性能。",
+  "highlights": [
+    "GLM 5.2 超越 Claude",
+    "基准测试表现优异"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-29T12:21:17Z",
+  "updated_at": "2026-06-29T12:21:17Z"
+}

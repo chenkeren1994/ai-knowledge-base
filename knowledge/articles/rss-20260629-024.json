@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260629-024",
+  "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2401.07013",
+  "author": null,
+  "summary": "本文提出了一种针对黑盒大语言模型的知识蒸馏方法，在无需访问模型内部结构和权重的情况下，仅通过API查询结果将大型模型的知识迁移到小模型，降低了闭源模型能力的获取门槛。",
+  "highlights": [
+    "无需访问模型权重，仅用黑盒输出蒸馏",
+    "适用于闭源商业大模型的知识迁移",
+    "提升小模型在特定任务上的表现"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-29T12:21:17Z",
+  "updated_at": "2026-06-29T12:21:17Z"
+}

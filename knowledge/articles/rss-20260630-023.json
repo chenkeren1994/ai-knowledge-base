@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260630-023",
+  "title": "Kb – Prolog Knowledge Base",
+  "source": "rss",
+  "source_url": "https://github.com/mat-mgm/kb-prolog",
+  "author": null,
+  "summary": "一个基于 Prolog 语言构建的知识库项目，支持逻辑知识表示与推理，可用于构建智能体或专家系统的记忆模块。",
+  "highlights": [
+    "逻辑推理驱动的知识表示",
+    "可作为智能体记忆组件"
+  ],
+  "tags": [
+    "Knowledge Base",
+    "Agent"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-30T10:47:01Z",
+  "updated_at": "2026-06-30T10:47:01Z"
+}

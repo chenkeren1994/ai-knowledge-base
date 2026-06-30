@@ -1,0 +1,22 @@
+{
+  "id": "github-20260630-002",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "summary": "一个代理技能框架与软件开发方法论，旨在构建可靠、可工作的代理系统，通过结构化技能定义和工程化方法提升代理开发效率。",
+  "highlights": [
+    "提出 agentic skills 抽象，模块化代理能力",
+    "融合软件工程方法，确保代理系统可维护性与可靠性"
+  ],
+  "tags": [
+    "Agent",
+    "Coding",
+    "Tool-use"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-30T10:47:01Z",
+  "updated_at": "2026-06-30T10:47:01Z"
+}

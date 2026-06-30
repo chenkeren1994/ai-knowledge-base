@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260630-022",
+  "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.22283",
+  "author": null,
+  "summary": "介绍苹果神经网络引擎的硬件架构、编程接口及性能特性，为在Apple设备上高效部署和优化ML模型提供指导。",
+  "highlights": [
+    "深入解析Apple Neural Engine架构",
+    "涵盖编程模型与性能调优方法"
+  ],
+  "tags": [
+    "Inference",
+    "Deployment",
+    "Evaluation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-30T10:47:01Z",
+  "updated_at": "2026-06-30T10:47:01Z"
+}

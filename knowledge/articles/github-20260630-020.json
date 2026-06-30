@@ -1,0 +1,25 @@
+{
+  "id": "github-20260630-020",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该项目收集了 Cursor、Devin、Windsurf、Perplexity 等 25+ 款主流 AI 编程工具的完整系统提示词、内部工具配置及模型信息，是目前最大的 AI 工具提示词公开合集，热度超 14 万星，为研究商业 AI 产品的提示工程策略提供了罕见的透明度。",
+  "highlights": [
+    "覆盖 25+ 主流 AI 编程工具的系统提示词",
+    "揭示商业 AI 产品内部提示工程与工具配置",
+    "开源社区极高关注度，星标超 14 万"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Agent",
+    "Coding",
+    "LLM",
+    "Tool-use"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-30T10:47:01Z",
+  "updated_at": "2026-06-30T10:47:01Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-20260630-019",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "summary": "Firecrawl 提供可扩展的网页抓取、搜索和交互 API，将任意网站内容转换为结构化 Markdown 或文本，专为 LLM 应用和 AI 代理设计。",
+  "highlights": [
+    "一键抓取并转换为 Markdown 格式",
+    "为 LLM 提供干净的结构化数据",
+    "支持大规模搜索与交互式浏览"
+  ],
+  "tags": [
+    "RAG",
+    "Knowledge Base",
+    "Search",
+    "Tool-use"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-30T10:47:01Z",
+  "updated_at": "2026-06-30T10:47:01Z"
+}

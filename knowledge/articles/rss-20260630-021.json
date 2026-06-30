@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260630-021",
+  "title": "Qwen 3.6 27B is the sweet spot for local development",
+  "source": "rss",
+  "source_url": "https://quesma.com/blog/qwen-36-is-awesome/",
+  "author": null,
+  "summary": "Qwen 3.6 27B 模型在本地开发场景中表现突出，平衡了性能与资源需求，非常适合个人开发者和中小团队进行原型验证和私有化部署。",
+  "highlights": [
+    "27B参数规模实现性能与效率的平衡",
+    "专为本地开发优化，降低硬件门槛",
+    "适合私有化部署和数据隐私要求"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Qwen"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-06-30T10:47:01Z",
+  "updated_at": "2026-06-30T10:47:01Z"
+}

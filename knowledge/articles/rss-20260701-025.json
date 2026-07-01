@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260701-025",
+  "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+  "source": "rss",
+  "source_url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+  "author": null,
+  "summary": "一则虚假消息，声称美国商务部解除了对 Claude Fable 5 和 Mythos 5 模型的出口管制，无实际技术内容。",
+  "highlights": [
+    "无实际技术亮点"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails"
+  ],
+  "relevance": 1,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-01T11:00:01Z",
+  "updated_at": "2026-07-01T11:00:01Z"
+}

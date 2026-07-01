@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260701-024",
+  "title": "Claude Science",
+  "source": "rss",
+  "source_url": "https://claude.com/product/claude-science",
+  "author": null,
+  "summary": "该技术内容涉及Claude模型在科学领域的应用探索，可能涵盖模型评估与微调等方向。",
+  "highlights": [
+    "探索Claude在科学领域的应用",
+    "可能涉及模型评估与微调"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation"
+  ],
+  "relevance": 2,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-01T11:00:01Z",
+  "updated_at": "2026-07-01T11:00:01Z"
+}

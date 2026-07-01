@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260701-022",
+  "title": "Claude Sonnet 5",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "author": null,
+  "summary": "Claude Sonnet 5 是 Anthropic 推出的新一代中端大语言模型，在性能与成本间取得平衡，重点提升编码、推理与安全能力。",
+  "highlights": [
+    "新一代中端模型，性能显著提升",
+    "优化编码和推理任务"
+  ],
+  "tags": [
+    "LLM",
+    "Coding",
+    "Safety",
+    "Agent"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-01T11:00:01Z",
+  "updated_at": "2026-07-01T11:00:01Z"
+}

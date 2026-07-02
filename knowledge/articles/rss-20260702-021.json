@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260702-021",
+  "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+  "source": "rss",
+  "source_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+  "author": null,
+  "summary": "Kimi K2.7 代码模型已正式集成到 GitHub Copilot 中，为开发者提供 AI 辅助编程服务，标志着该模型广泛可用。",
+  "highlights": [
+    "代码模型集成至主流开发工具",
+    "面向开发者普遍可用"
+  ],
+  "tags": [
+    "Coding",
+    "LLM",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-02T10:25:47Z",
+  "updated_at": "2026-07-02T10:25:47Z"
+}

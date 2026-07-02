@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260702-022",
+  "title": "Opening up &#x27;Zero-Knowledge Proof&#x27; technology to promote privacy in age assurance",
+  "source": "rss",
+  "source_url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+  "author": null,
+  "summary": "文章探讨了利用零知识证明技术实现年龄验证中的隐私保护，在无需泄露用户身份信息的前提下完成合规性检查。",
+  "highlights": [
+    "零知识证明用于年龄验证，保护用户隐私",
+    "平衡监管合规与数据最小化原则"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails"
+  ],
+  "relevance": 3,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-02T10:25:47Z",
+  "updated_at": "2026-07-02T10:25:47Z"
+}

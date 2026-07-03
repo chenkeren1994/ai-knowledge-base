@@ -1,0 +1,23 @@
+{
+  "id": "github-20260703-019",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "summary": "Firecrawl 提供大规模网页搜索、抓取和交互的 API，可高效提取结构化数据，适用于数据采集和构建知识库等场景。",
+  "highlights": [
+    "支持大规模网页搜索与抓取",
+    "提供简洁 API 便于集成流程"
+  ],
+  "tags": [
+    "RAG",
+    "Search",
+    "Data Analysis",
+    "Knowledge Base"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-03T10:24:08Z",
+  "updated_at": "2026-07-03T10:24:08Z"
+}

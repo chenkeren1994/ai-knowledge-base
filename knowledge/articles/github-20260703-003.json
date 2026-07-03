@@ -1,0 +1,23 @@
+{
+  "id": "github-20260703-003",
+  "title": "affaan-m/ECC",
+  "source": "github",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "author": "affaan-m",
+  "summary": "ECC 是一个面向 AI 编码助手的统一性能优化框架，通过整合技能、本能、记忆与安全机制，并以研究优先的方式开发，提升 Claude Code、Codex 等工具的效率和可靠性。",
+  "highlights": [
+    "跨多 AI 编码助手的统一性能优化系统",
+    "集成技能、记忆与安全的研究优先开发范式"
+  ],
+  "tags": [
+    "Agent",
+    "Coding",
+    "Memory",
+    "Safety"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-03T10:24:08Z",
+  "updated_at": "2026-07-03T10:24:08Z"
+}

@@ -1,0 +1,36 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-07-03T10:23:30Z",
+  "items": [
+    {
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    },
+    {
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "source": "rss",
+      "popularity": 0,
+      "description": "",
+      "author": "",
+      "language": null,
+      "topics": []
+    }
+  ]
+}

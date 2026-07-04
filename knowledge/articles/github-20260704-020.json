@@ -1,0 +1,23 @@
+{
+  "id": "github-20260704-020",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该项目收集了包括 Cursor、Devin、Windsurf 等数十款流行 AI 编程工具的系统提示、内部工具配置与模型详情，为研究其行为机制与安全设计提供直接素材。",
+  "highlights": [
+    "汇集数十款知名 AI 编程工具的系统提示",
+    "揭示工具内部模型与安全防护机制"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Agent",
+    "Coding",
+    "Safety"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-04T09:57:36Z",
+  "updated_at": "2026-07-04T09:57:36Z"
+}

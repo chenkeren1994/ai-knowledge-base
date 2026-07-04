@@ -1,0 +1,24 @@
+{
+  "id": "github-20260704-007",
+  "title": "multica-ai/andrej-karpathy-skills",
+  "source": "github",
+  "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "author": "multica-ai",
+  "summary": "该项目提供一份CLAUDE.md配置文件，基于Andrej Karpathy对LLM编程易错点的观察，通过行为约束提升Claude Code的代码生成质量与可靠性。",
+  "highlights": [
+    "源自Karpathy的LLM编码陷阱洞察",
+    "单一文件即可显著改善编码助手行为",
+    "针对常见错误提供可落地的行为规范"
+  ],
+  "tags": [
+    "LLM",
+    "Coding",
+    "Prompt Engineering",
+    "Prompt Optimization"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-04T09:57:36Z",
+  "updated_at": "2026-07-04T09:57:36Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260704-021",
+  "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+  "source": "rss",
+  "source_url": "https://epoch.ai/data-insights/cve-severity-spike",
+  "author": null,
+  "summary": "文章报道了Anthropic的Claude Mythos Preview发布期间新出现的严重安全漏洞激增，涉及内容过滤绕过、提示注入等风险。",
+  "highlights": [
+    "Claude Mythos Preview发布伴随安全漏洞激增",
+    "涉及内容过滤绕过及提示注入风险"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails",
+    "Prompt Engineering"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-04T09:57:36Z",
+  "updated_at": "2026-07-04T09:57:36Z"
+}

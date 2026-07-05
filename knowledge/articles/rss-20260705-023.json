@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260705-023",
+  "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+  "author": null,
+  "summary": "sqlite-utils 4.0rc2是一个用于操作SQLite数据库的命令行工具和Python库，该版本大部分代码由AI助手Claude编写，总成本约149.25美元，展示了AI辅助编程在工具开发中的实际应用。",
+  "highlights": [
+    "主要代码由Claude编写，开发成本仅149美元",
+    "为SQLite提供便捷的命令行与Python API"
+  ],
+  "tags": [
+    "Coding",
+    "LLM",
+    "Data Analysis"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-05T10:01:46Z",
+  "updated_at": "2026-07-05T10:01:46Z"
+}

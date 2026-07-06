@@ -1,0 +1,24 @@
+{
+  "id": "github-20260706-009",
+  "title": "anomalyco/opencode",
+  "source": "github",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "summary": "开源编码代理，能够自主完成编程任务，具备工具调用与规划能力，热度极高，可能是社区瞩目的里程碑项目。",
+  "highlights": [
+    "高星标的开源编码代理",
+    "具备自主工具调用与规划能力"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "Coding",
+    "Tool-use",
+    "Planning"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-06T11:53:01Z",
+  "updated_at": "2026-07-06T11:53:01Z"
+}

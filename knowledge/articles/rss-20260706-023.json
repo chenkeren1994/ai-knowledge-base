@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260706-023",
+  "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+  "source": "rss",
+  "source_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+  "author": null,
+  "summary": "该研究介绍了一种新型AI导师系统，在达特茅斯学院的实际课程中取得了0.71至1.30标准差效应量，表明其显著提升了学习成效，可能基于大语言模型的个性化辅导技术。",
+  "highlights": [
+    "效应量高达1.30 SD，学习效果提升显著",
+    "在真实大学课程中完成部署验证"
+  ],
+  "tags": [
+    "LLM",
+    "Chatbot",
+    "Evaluation",
+    "RLHF"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-06T11:53:01Z",
+  "updated_at": "2026-07-06T11:53:01Z"
+}

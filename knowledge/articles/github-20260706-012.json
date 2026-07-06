@@ -1,0 +1,22 @@
+{
+  "id": "github-20260706-012",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "Stable Diffusion Web UI 是基于Gradio构建的交互界面，集成文生图、图生图、模型合并等功能，极大降低了扩散模型的使用门槛，成为AI图像生成领域的标杆性开源工具。",
+  "highlights": [
+    "高度集成的Web界面，功能全面",
+    "活跃社区与大量插件扩展生态"
+  ],
+  "tags": [
+    "Diffusion",
+    "Deployment",
+    "Inference"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-06T11:53:01Z",
+  "updated_at": "2026-07-06T11:53:01Z"
+}

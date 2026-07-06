@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260706-024",
+  "title": "When AI Costs More Than the Engineer",
+  "source": "rss",
+  "source_url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+  "author": null,
+  "summary": "文章探讨了AI应用的经济性，指出持续使用AI服务的累计成本可能超过雇佣工程师的费用，提醒企业在自动化决策中需权衡投入与产出。",
+  "highlights": [
+    "强调AI隐性成本可能被低估",
+    "推动成本效益评估作为落地前提"
+  ],
+  "tags": [
+    "Deployment",
+    "Inference",
+    "Evaluation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-06T11:53:01Z",
+  "updated_at": "2026-07-06T11:53:01Z"
+}

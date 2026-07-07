@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260707-023",
+  "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+  "source": "rss",
+  "source_url": "https://ternlight-demo.vercel.app/",
+  "author": null,
+  "summary": "Ternlight 是一个仅 7MB 的嵌入模型，通过 WebAssembly 在浏览器中直接运行，实现客户端向量化，无需依赖服务端，有助于隐私保护和低延迟应用。",
+  "highlights": [
+    "超轻量 7MB 嵌入模型",
+    "浏览器端 WASM 推理，保护用户隐私",
+    "无需服务端即可完成文本向量化"
+  ],
+  "tags": [
+    "Embedding",
+    "Deployment",
+    "Inference",
+    "Quantization"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-07T10:43:05Z",
+  "updated_at": "2026-07-07T10:43:05Z"
+}

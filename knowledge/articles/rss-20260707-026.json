@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260707-026",
+  "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+  "source": "rss",
+  "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+  "author": null,
+  "summary": "OfficeCLI 是一个为AI代理设计的命令行工具，允许对Microsoft Office文件进行读取和编辑操作，简化了AI与办公文档的交互，适合自动化办公场景。",
+  "highlights": [
+    "为AI代理提供Office文件读写接口",
+    "通过CLI实现无界面的文档编辑"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Function calling",
+    "Documentation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-07T10:43:05Z",
+  "updated_at": "2026-07-07T10:43:05Z"
+}

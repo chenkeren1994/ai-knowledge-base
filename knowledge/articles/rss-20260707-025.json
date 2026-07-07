@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260707-025",
+  "title": "Pruning RAG context down to what the answer actually needs",
+  "source": "rss",
+  "source_url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+  "author": null,
+  "summary": "本文介绍了一种剪枝RAG检索上下文的方法，通过仅保留答案所需的必要信息，减少噪声和冗余，从而提升生成答案的质量与效率。",
+  "highlights": [
+    "上下文剪枝降低无关信息干扰",
+    "提升RAG问答精准度与推理速度"
+  ],
+  "tags": [
+    "RAG",
+    "Prompt Engineering",
+    "Search",
+    "Knowledge Base"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-07T10:43:05Z",
+  "updated_at": "2026-07-07T10:43:05Z"
+}

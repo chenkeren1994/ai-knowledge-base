@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260707-021",
+  "title": "GLM 5.2 and the coming AI margin collapse",
+  "source": "rss",
+  "source_url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+  "author": null,
+  "summary": "文章分析GLM-5.2开源模型对AI行业的冲击，认为其能力逼近闭源顶尖模型，将加速AI商品化进程，导致模型服务利润空间大幅收窄，预示AI市场即将面临边际成本崩溃。",
+  "highlights": [
+    "GLM-5.2性能比肩闭源模型，开源策略重塑竞争格局",
+    "AI模型趋于同质化，服务利润将急剧下降"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-07T10:43:05Z",
+  "updated_at": "2026-07-07T10:43:05Z"
+}

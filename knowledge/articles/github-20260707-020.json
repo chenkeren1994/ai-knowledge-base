@@ -1,0 +1,23 @@
+{
+  "id": "github-20260707-020",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该仓库汇集了Augment Code、Cursor、Devin等20余款AI编程助手和工具的系统提示、内部模型及工具链，为研究AI助手行为机制、提示工程与安全防护提供了开源素材。",
+  "highlights": [
+    "系统化收集主流AI编程工具的系统提示与模型",
+    "开源共享，便于研究AI工具内部机制与安全性"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Agent",
+    "Coding",
+    "Safety"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-07T10:43:05Z",
+  "updated_at": "2026-07-07T10:43:05Z"
+}

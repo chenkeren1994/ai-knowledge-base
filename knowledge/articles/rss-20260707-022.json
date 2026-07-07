@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260707-022",
+  "title": "Small AI Models Gain Traction In places with unreliable networks",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+  "author": null,
+  "summary": "本文探讨了小型AI模型在网络连接不稳定的区域日益受到青睐的现象，因其低存储和计算需求，适合边缘部署和离线推理。",
+  "highlights": [
+    "小模型降低对网络依赖",
+    "边缘部署解决弱网痛点"
+  ],
+  "tags": [
+    "Inference",
+    "Deployment",
+    "Quantization"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-07T10:43:05Z",
+  "updated_at": "2026-07-07T10:43:05Z"
+}

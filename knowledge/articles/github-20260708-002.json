@@ -1,0 +1,22 @@
+{
+  "id": "github-20260708-002",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "summary": "该项目提出了一个可组合的智能体技能框架与配套的软件开发方法，旨在简化智能体系统的构建与管理，提升开发效率与可靠性。",
+  "highlights": [
+    "提供可复用的 Agent 技能抽象",
+    "将软件工程实践融入智能体开发流程"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Coding"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-08T10:03:43Z",
+  "updated_at": "2026-07-08T10:03:43Z"
+}

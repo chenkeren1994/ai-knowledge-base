@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260712-023",
+  "title": "An agent in 100 lines of Lisp",
+  "source": "rss",
+  "source_url": "https://thebeach.dev/posts/lisp-agent/",
+  "author": null,
+  "summary": "文章展示用100行Lisp代码实现一个AI智能体，强调极简设计和核心原理。",
+  "highlights": [
+    "用100行Lisp实现智能体",
+    "极简设计，突出核心机制"
+  ],
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "relevance": 4,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-12T09:40:28Z",
+  "updated_at": "2026-07-12T09:40:28Z"
+}

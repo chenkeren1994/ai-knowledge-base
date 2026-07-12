@@ -1,0 +1,22 @@
+{
+  "id": "github-20260712-012",
+  "title": "f/prompts.chat",
+  "source": "github",
+  "source_url": "https://github.com/f/prompts.chat",
+  "author": "f",
+  "summary": "一个开源提示词分享与发现社区（前身为 Awesome ChatGPT Prompts），支持自托管和隐私保护，便于组织内部管理。",
+  "highlights": [
+    "社区驱动的提示词收集与共享",
+    "完全开源，支持私有化部署"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Prompt Optimization",
+    "Chatbot"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-12T09:40:28Z",
+  "updated_at": "2026-07-12T09:40:28Z"
+}

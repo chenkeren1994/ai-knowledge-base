@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260712-021",
+  "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+  "source": "rss",
+  "source_url": "https://github.com/cosmtrek/mindwalk",
+  "author": null,
+  "summary": "Mindwalk 是一个工具，能以 3D 地图形式可视化和重放编码代理在代码库中的操作过程，帮助开发者理解代理决策与行为。",
+  "highlights": [
+    "3D 地图直观呈现代理行为轨迹",
+    "支持会话录制与回放，便于调试分析"
+  ],
+  "tags": [
+    "Coding",
+    "Agent",
+    "Autonomous"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-12T09:40:28Z",
+  "updated_at": "2026-07-12T09:40:28Z"
+}

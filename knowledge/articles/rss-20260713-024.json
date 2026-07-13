@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260713-024",
+  "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+  "source": "rss",
+  "source_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+  "author": null,
+  "summary": "对比Claude Code和OpenCode在读取提示词前发送的token数量，前者33k，后者7k，反映了不同工具对上下文传输的效率差异。",
+  "highlights": [
+    "Claude Code额外发送33k token",
+    "OpenCode仅需7k token"
+  ],
+  "tags": [
+    "Coding",
+    "LLM",
+    "Evaluation",
+    "Inference"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-13T10:47:25Z",
+  "updated_at": "2026-07-13T10:47:25Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "github-20260713-009",
+  "title": "anomalyco/opencode",
+  "source": "github",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "summary": "OpenCode 是一个开源终端编码代理，旨在通过自然语言交互辅助开发者进行代码生成、调试和项目管理，类似开源版的 GitHub Copilot，热度极高。",
+  "highlights": [
+    "开源终端编码代理，185k stars 热度",
+    "支持自然语言驱动全栈开发任务"
+  ],
+  "tags": [
+    "Coding",
+    "Agent",
+    "Tool-use",
+    "Autonomous"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-13T10:47:25Z",
+  "updated_at": "2026-07-13T10:47:25Z"
+}

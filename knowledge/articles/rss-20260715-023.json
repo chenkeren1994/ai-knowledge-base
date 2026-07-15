@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260715-023",
+  "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+  "source": "rss",
+  "source_url": "https://agnost.ai",
+  "author": null,
+  "summary": "Agnost AI 是 YC S26 项目，从 AI 代理与用户对话中自动提取反馈信息，帮助改进代理表现。",
+  "highlights": [
+    "从代理对话中提取用户反馈",
+    "YC S26 创业项目"
+  ],
+  "tags": [
+    "Agent",
+    "Data Analysis",
+    "LLM"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-15T09:46:42Z",
+  "updated_at": "2026-07-15T09:46:42Z"
+}

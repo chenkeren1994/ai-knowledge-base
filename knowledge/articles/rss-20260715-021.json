@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260715-021",
+  "title": "I tricked Claude into leaking your deepest, darkest secrets",
+  "source": "rss",
+  "source_url": "https://www.ayush.digital/blog/the-memory-heist",
+  "author": null,
+  "summary": "文章展示了一种通过社会工程或提示注入欺骗Claude模型泄露用户私人信息的方法，暴露了LLM在安全对齐上的潜在漏洞。",
+  "highlights": [
+    "社会工程攻击诱导模型泄密",
+    "揭示前沿模型安全对齐缺陷"
+  ],
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Safety"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-15T09:46:42Z",
+  "updated_at": "2026-07-15T09:46:42Z"
+}

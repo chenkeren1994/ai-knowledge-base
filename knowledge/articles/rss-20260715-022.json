@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260715-022",
+  "title": "How to stop Claude from saying load-bearing",
+  "source": "rss",
+  "source_url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+  "author": null,
+  "summary": "介绍如何阻止Claude模型说出特定短语“load-bearing”的方法，涉及提示词调整或输出限制。",
+  "highlights": [
+    "解决特定敏感词输出问题的小技巧",
+    "可应用于合规性场景"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Guardrails",
+    "Safety"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-15T09:46:42Z",
+  "updated_at": "2026-07-15T09:46:42Z"
+}

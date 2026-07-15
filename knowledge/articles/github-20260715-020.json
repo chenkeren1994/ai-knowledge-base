@@ -1,0 +1,24 @@
+{
+  "id": "github-20260715-020",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "summary": "该仓库汇集了众多主流AI开发工具（如Cursor、Devin、Perplexity等）的系统提示、内部模型及工具配置，为研究提示工程、代理架构与工具使用提供了丰富的真实案例。",
+  "highlights": [
+    "系统性收集商业AI工具的内部提示",
+    "揭示多智能体与工具调用的设计模式",
+    "为提示优化与安全研究提供直接素材"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Agent",
+    "Tool-use",
+    "Coding"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-15T09:46:42Z",
+  "updated_at": "2026-07-15T09:46:42Z"
+}

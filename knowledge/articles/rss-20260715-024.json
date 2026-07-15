@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260715-024",
+  "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+  "source": "rss",
+  "source_url": "https://github.com/juggler-ai/juggler",
+  "author": null,
+  "summary": "Juggler 是一个开源的 GUI 编码代理，由 JUCE 框架作者开发，旨在辅助图形用户界面编程工作。",
+  "highlights": [
+    "JUCE 作者打造的开源 GUI 编码代理",
+    "专注于图形界面开发的 AI 助手"
+  ],
+  "tags": [
+    "Agent",
+    "Coding",
+    "Tool-use"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-15T09:46:42Z",
+  "updated_at": "2026-07-15T09:46:42Z"
+}

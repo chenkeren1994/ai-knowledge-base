@@ -1,0 +1,24 @@
+{
+  "id": "github-20260715-002",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "summary": "Superpowers是一个代理技能框架与软件开发方法论，提供模块化技能组合和自主任务规划，旨在构建实用的AI代理系统。",
+  "highlights": [
+    "模块化技能组合，使代理可复用和扩展",
+    "提供可落地的自主代理开发方法论"
+  ],
+  "tags": [
+    "Agent",
+    "Multi-agent",
+    "Tool-use",
+    "Autonomous",
+    "Function calling"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-15T09:46:42Z",
+  "updated_at": "2026-07-15T09:46:42Z"
+}

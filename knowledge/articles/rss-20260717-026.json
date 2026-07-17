@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260717-026",
+  "title": "UIUC AI Teaching Assistant",
+  "source": "rss",
+  "source_url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+  "author": null,
+  "summary": "伊利诺伊大学香槟分校（UIUC）开发了一款AI教学助手，旨在辅助课程教学、答疑和学习支持。",
+  "highlights": [
+    "高校自研AI助教，提升教学效率",
+    "可能集成大语言模型进行智能问答"
+  ],
+  "tags": [
+    "Chatbot",
+    "Education"
+  ],
+  "relevance": 5,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-17T09:43:37Z",
+  "updated_at": "2026-07-17T09:43:37Z"
+}

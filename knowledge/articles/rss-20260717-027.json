@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260717-027",
+  "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+  "source": "rss",
+  "source_url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+  "author": null,
+  "summary": "本文介绍如何在仅有6GB显存的旧Linux台式机上训练生成式AI底鼓模型，通过低资源优化技术实现音频生成模型的训练。",
+  "highlights": [
+    "极低显存需求（6GB VRAM）的生成模型训练",
+    "面向音乐创作者的实用音频AI教程"
+  ],
+  "tags": [
+    "Fine-tuning",
+    "Quantization",
+    "Coding"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-17T09:43:37Z",
+  "updated_at": "2026-07-17T09:43:37Z"
+}

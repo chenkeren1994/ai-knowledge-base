@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260717-022",
+  "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+  "source": "rss",
+  "source_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+  "author": null,
+  "summary": "文章比较了Claude Fable 5与GPT-5.6 Sol两款AI在音乐视频制作中的表现，总成本仅100美元，展示了多模态生成技术在创意内容生产中的实际应用与性价比。",
+  "highlights": [
+    "$100预算内完成AI音乐视频制作",
+    "两款前沿模型的创意能力直接对决"
+  ],
+  "tags": [
+    "Multi-modal",
+    "Diffusion",
+    "Evaluation",
+    "Prompt Engineering"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-17T09:43:37Z",
+  "updated_at": "2026-07-17T09:43:37Z"
+}

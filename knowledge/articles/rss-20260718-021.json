@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260718-021",
+  "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+  "source": "rss",
+  "source_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+  "author": null,
+  "summary": "文章报道凯撒医疗集团的护士反映，引入的AI和监控系统增加了不必要的工作负担，并降低了患者护理质量，凸显了AI在医疗场景落地的实践挑战。",
+  "highlights": [
+    "护士额外监控任务加重工作负荷",
+    "AI系统削弱直接患者护理质量"
+  ],
+  "tags": [
+    "Safety",
+    "Guardrails",
+    "Deployment"
+  ],
+  "relevance": 4,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-18T09:13:40Z",
+  "updated_at": "2026-07-18T09:13:40Z"
+}

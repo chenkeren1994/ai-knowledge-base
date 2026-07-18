@@ -1,0 +1,23 @@
+{
+  "id": "github-20260718-004",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "NousResearch 开源的 Hermes Agent 是一个基于 Hermes 模型的 AI 代理框架，强调通过用户交互持续学习和进化，支持工具使用与函数调用，旨在打造个性化、可成长的智能助手。",
+  "highlights": [
+    "基于强交互的持续学习代理",
+    "原生支持工具调用与功能扩展"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Function calling",
+    "LLM"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-18T09:13:40Z",
+  "updated_at": "2026-07-18T09:13:40Z"
+}

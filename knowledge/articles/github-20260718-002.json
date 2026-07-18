@@ -1,0 +1,23 @@
+{
+  "id": "github-20260718-002",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "summary": "一个智能体技能框架与软件开发方法论，将模块化AI智能体技能融入开发流程，旨在提升软件开发的自动化与效率。",
+  "highlights": [
+    "模块化智能体技能设计，便于组合与复用",
+    "提出可落地的智能体驱动开发方法论"
+  ],
+  "tags": [
+    "Agent",
+    "Coding",
+    "Tool-use",
+    "Planning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-18T09:13:40Z",
+  "updated_at": "2026-07-18T09:13:40Z"
+}

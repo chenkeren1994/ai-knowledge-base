@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260719-022",
+  "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+  "source": "rss",
+  "source_url": "https://ykdojo.github.io/claude-controls-mac/",
+  "author": null,
+  "summary": "本文提供分步指南，教用户如何配置一台闲置的 Mac，使其能被 Claude Code 代理控制，实现自动化编程任务。",
+  "highlights": [
+    "利用闲置 Mac 搭建 AI 编程代理环境",
+    "实现 Claude Code 远程控制与代码执行"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Coding",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-19T09:41:48Z",
+  "updated_at": "2026-07-19T09:41:48Z"
+}

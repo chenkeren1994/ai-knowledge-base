@@ -1,0 +1,24 @@
+{
+  "id": "github-20260719-014",
+  "title": "anthropics/skills",
+  "source": "github",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "summary": "Anthropic 官方开源的智能体技能库，展示如何为 Claude 等智能体赋予结构化工具使用、规划等能力，帮助开发者构建更可靠的自主智能体。",
+  "highlights": [
+    "Anthropic 官方发布，权威性高",
+    "提供可复用的 Agent 技能模块",
+    "直接助力自主智能体落地"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Planning",
+    "Autonomous"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-19T09:41:48Z",
+  "updated_at": "2026-07-19T09:41:48Z"
+}

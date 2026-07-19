@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260719-025",
+  "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does &#x2F;goal help?",
+  "source": "rss",
+  "source_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+  "author": null,
+  "summary": "本文比较了Fable 5与GPT-5.6 Sol在解决NP难问题上的能力，重点分析了/goal提示策略对提升模型规划与求解效率的作用。",
+  "highlights": [
+    "对比两种前沿模型在复杂推理任务中的表现",
+    "揭示/goal提示对规划能力的正向影响"
+  ],
+  "tags": [
+    "LLM",
+    "Planning",
+    "Prompt Engineering",
+    "Evaluation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-19T09:41:48Z",
+  "updated_at": "2026-07-19T09:41:48Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "github-20260719-012",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "一款流行的开源Stable Diffusion网页交互界面，通过图形化操作简化图像生成流程，并支持丰富的扩展与参数调节。",
+  "highlights": [
+    "直观的Web界面简化操作",
+    "丰富的插件生态与自定义流程"
+  ],
+  "tags": [
+    "Diffusion",
+    "Deployment"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-19T09:41:48Z",
+  "updated_at": "2026-07-19T09:41:48Z"
+}

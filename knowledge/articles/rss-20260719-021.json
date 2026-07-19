@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260719-021",
+  "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+  "source": "rss",
+  "source_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+  "author": null,
+  "summary": "GPT-5.6 通过精心设计的提示（prompt）直接解决了凸优化领域一个悬置30年的开放问题，展示了大型语言模型在数学推理与科研发现中的突破性潜力，预示着 AI 驱动科学创新的新范式。",
+  "highlights": [
+    "单一提示解决30年数学难题",
+    "LLM 直接攻克科研前沿",
+    "提示工程成为科学发现工具"
+  ],
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Data Analysis"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-19T09:41:48Z",
+  "updated_at": "2026-07-19T09:41:48Z"
+}

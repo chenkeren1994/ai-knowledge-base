@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260720-021",
+  "title": "Claude Code uses Bun written in Rust now",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+  "author": null,
+  "summary": "Claude Code 现已采用基于 Rust 重写的 Bun 运行时，有望提升代码执行性能与稳定性。",
+  "highlights": [
+    "Claude Code 迁移至 Rust 版 Bun 运行时",
+    "提升 AI 辅助编码工具的响应速度"
+  ],
+  "tags": [
+    "Coding",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-20T10:37:54Z",
+  "updated_at": "2026-07-20T10:37:54Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260720-022",
+  "title": "1-Bit LLM in the Browser",
+  "source": "rss",
+  "source_url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+  "author": null,
+  "summary": "展示如何在浏览器中以 1-bit 量化运行大语言模型，实现客户端低资源、低延迟推理。",
+  "highlights": [
+    "极低比特量化大幅降低模型体积",
+    "浏览器端侧推理保护隐私与离线可用"
+  ],
+  "tags": [
+    "LLM",
+    "Quantization",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-20T10:37:54Z",
+  "updated_at": "2026-07-20T10:37:54Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github-20260720-010",
+  "title": "ollama/ollama",
+  "source": "github",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "summary": "Ollama 是一个开源工具，用于在本地轻松运行和管理大型语言模型，如 DeepSeek、Qwen、Gemma 等，提供命令行和 REST API，简化本地部署与集成。",
+  "highlights": [
+    "一键本地运行多种主流大模型",
+    "提供简洁的 CLI 和 REST API 接口"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Inference"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-20T10:37:54Z",
+  "updated_at": "2026-07-20T10:37:54Z"
+}

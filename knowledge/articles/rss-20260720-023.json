@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260720-023",
+  "title": "Qwen 3.8",
+  "source": "rss",
+  "source_url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+  "author": null,
+  "summary": "Qwen 3.8 是通义千问团队发布的新一代大语言模型，可能在模型架构、多模态能力或推理性能上有显著提升。",
+  "highlights": [
+    "可能采用更高效的Transformer变体",
+    "支持更长的上下文长度",
+    "多语言和代码能力增强"
+  ],
+  "tags": [
+    "LLM",
+    "Multi-modal",
+    "Inference"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-20T10:37:54Z",
+  "updated_at": "2026-07-20T10:37:54Z"
+}

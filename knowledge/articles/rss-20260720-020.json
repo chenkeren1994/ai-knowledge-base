@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260720-020",
+  "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+  "source": "rss",
+  "source_url": "https://github.com/Saivineeth147/lora-speedrun",
+  "author": null,
+  "summary": "该项目建立一个公开的挂钟时间排行榜，专门对比各种 LoRA 微调技术的实际训练速度，为选择高效微调方法提供基准参考。",
+  "highlights": [
+    "提供真实挂钟时间对比",
+    "聚焦微调效率的公开基准"
+  ],
+  "tags": [
+    "Fine-tuning",
+    "Evaluation"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-20T10:37:54Z",
+  "updated_at": "2026-07-20T10:37:54Z"
+}

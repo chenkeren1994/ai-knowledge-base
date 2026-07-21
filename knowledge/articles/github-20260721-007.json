@@ -1,0 +1,22 @@
+{
+  "id": "github-20260721-007",
+  "title": "ultraworkers/claw-code",
+  "source": "github",
+  "source_url": "https://github.com/ultraworkers/claw-code",
+  "author": "ultraworkers",
+  "summary": "该项目是一个完全由AI代理自主开发与维护的博物馆展览，使用Rust构建，展示了无人类干预下代码的演化与维护能力。",
+  "highlights": [
+    "AI代理自主完成全部开发与维护",
+    "Rust实现，展示无人类干预的代码演化"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "Coding"
+  ],
+  "relevance": 9,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-21T10:11:29Z",
+  "updated_at": "2026-07-21T10:11:29Z"
+}

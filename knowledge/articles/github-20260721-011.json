@@ -1,0 +1,22 @@
+{
+  "id": "github-20260721-011",
+  "title": "f/prompts.chat",
+  "source": "github",
+  "source_url": "https://github.com/f/prompts.chat",
+  "author": "f",
+  "summary": "开源提示词分享与发现平台，支持社区投稿、浏览及自托管部署，保障数据隐私。",
+  "highlights": [
+    "开源自托管，数据完全私有化",
+    "社区驱动提示词聚合与搜索"
+  ],
+  "tags": [
+    "Prompt Engineering",
+    "Prompt Optimization",
+    "Knowledge Base"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-21T10:11:29Z",
+  "updated_at": "2026-07-21T10:11:29Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260721-022",
+  "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48981136",
+  "author": null,
+  "summary": "Bloomy是一个面向K-12教育的AI精熟学习平台，利用大语言模型提供个性化学习内容、即时反馈和自适应评估，帮助学生按自己的节奏掌握知识点。",
+  "highlights": [
+    "AI驱动的自适应学习引擎，动态调整内容与难度",
+    "实时反馈与补救练习，确保真正掌握每个概念"
+  ],
+  "tags": [
+    "LLM",
+    "Chatbot",
+    "Agent",
+    "Memory",
+    "Knowledge Base"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-21T10:11:29Z",
+  "updated_at": "2026-07-21T10:11:29Z"
+}

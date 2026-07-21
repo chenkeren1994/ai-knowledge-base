@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260721-020",
+  "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+  "source": "rss",
+  "source_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+  "author": null,
+  "summary": "Qwen-Image-3.0 是通义千问推出的图像生成模型，能生成细节真实、内容丰富的图像，并融合深度知识以提升场景理解和语义一致性。",
+  "highlights": [
+    "内容生成丰富，细节真实度提升",
+    "深度融合知识，增强语义理解"
+  ],
+  "tags": [
+    "Diffusion",
+    "Multi-modal",
+    "LLM"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-21T10:11:29Z",
+  "updated_at": "2026-07-21T10:11:29Z"
+}

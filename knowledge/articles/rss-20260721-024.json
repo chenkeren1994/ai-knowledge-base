@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260721-024",
+  "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+  "source": "rss",
+  "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+  "author": null,
+  "summary": "该研究系统测量了arXiv论文中AI写作的痕迹，并分析了现有AI文本检测工具在学术场景下的失效情况，指出测量方法的局限性。",
+  "highlights": [
+    "大规模检测arXiv中AI生成文本",
+    "揭示AI写作检测工具误判场景"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Data Analysis",
+    "Safety"
+  ],
+  "relevance": 6,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-21T10:11:29Z",
+  "updated_at": "2026-07-21T10:11:29Z"
+}

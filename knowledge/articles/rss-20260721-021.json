@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260721-021",
+  "title": "Agent swarms and the new model economics",
+  "source": "rss",
+  "source_url": "https://cursor.com/blog/agent-swarm-model-economics",
+  "author": null,
+  "summary": "本文探讨了智能体集群（Agent Swarms）的兴起及其对模型经济学的影响，指出通过多智能体协作与动态路由机制，能以更低成本实现更高效的任务处理，改变传统单模型部署的经济模式。",
+  "highlights": [
+    "多智能体集群协作降低整体推理成本",
+    "动态路由优化模型资源分配"
+  ],
+  "tags": [
+    "Agent",
+    "Multi-agent",
+    "LLM"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-21T10:11:29Z",
+  "updated_at": "2026-07-21T10:11:29Z"
+}

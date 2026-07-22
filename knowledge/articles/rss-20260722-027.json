@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260722-027",
+  "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+  "source": "rss",
+  "source_url": "https://ai.google.dev/gemini-api/docs/latest-model",
+  "author": null,
+  "summary": "Gemini 最新模型已弃用并忽略 temperature、top_p 和 top_k 等采样参数，API 可接受这些参数但不再影响输出，简化了模型调用但降低了控制粒度。",
+  "highlights": [
+    "采样参数完全被忽略，模型输出固定",
+    "API 向后兼容但行为变化需注意"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-22T10:11:04Z",
+  "updated_at": "2026-07-22T10:11:04Z"
+}

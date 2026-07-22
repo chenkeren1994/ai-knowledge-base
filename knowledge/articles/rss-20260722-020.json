@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260722-020",
+  "title": "OpenAI and Hugging Face address security incident during model evaluation",
+  "source": "rss",
+  "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+  "author": null,
+  "summary": "OpenAI 与 Hugging Face 联合处理模型评估过程中的安全事件，强调开源模型分发平台的安全防护与社区协作。",
+  "highlights": [
+    "两大AI组织联合应对安全事件",
+    "聚焦模型评估环节的漏洞与防护"
+  ],
+  "tags": [
+    "Safety",
+    "Evaluation",
+    "Deployment"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-22T10:11:04Z",
+  "updated_at": "2026-07-22T10:11:04Z"
+}

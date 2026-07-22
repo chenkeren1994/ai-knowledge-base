@@ -1,0 +1,25 @@
+{
+  "id": "github-20260722-014",
+  "title": "huggingface/transformers",
+  "source": "github",
+  "source_url": "https://github.com/huggingface/transformers",
+  "author": "huggingface",
+  "summary": "Hugging Face Transformers 库提供了统一的 API，用于加载、训练和部署涵盖文本、视觉、音频和多模态的最新预训练模型，是当前深度学习模型研发与部署的核心基础框架。",
+  "highlights": [
+    "统一API覆盖文本/视觉/音频/多模态",
+    "社区驱动，模型数量庞大且快速迭代",
+    "支持推理与训练，与PyTorch/TF/JAX无缝集成"
+  ],
+  "tags": [
+    "Transformer",
+    "Multi-modal",
+    "Fine-tuning",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 10,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-22T10:11:04Z",
+  "updated_at": "2026-07-22T10:11:04Z"
+}

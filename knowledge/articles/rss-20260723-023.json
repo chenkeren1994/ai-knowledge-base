@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260723-023",
+  "title": "GigaToken: ~1000x faster Language model tokenization",
+  "source": "rss",
+  "source_url": "https://github.com/marcelroed/gigatoken/",
+  "author": null,
+  "summary": "GigaToken 实现了一种极速文本分词器，声称比现有方案快约1000倍，可大幅降低大语言模型预处理延迟，提升推理或训练的整体吞吐。",
+  "highlights": [
+    "分词速度提升千倍级",
+    "可能采用SIMD或高效并行算法",
+    "可显著优化LLM服务延迟"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Deployment"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-23T10:09:31Z",
+  "updated_at": "2026-07-23T10:09:31Z"
+}

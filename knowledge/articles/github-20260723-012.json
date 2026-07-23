@@ -1,0 +1,22 @@
+{
+  "id": "github-20260723-012",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "summary": "Stable Diffusion 的图形化 Web 操作界面，集成了文生图、图生图、模型切换等丰富功能，极大降低了 AI 绘画的使用门槛。",
+  "highlights": [
+    "功能全面的一站式 AI 绘画工具",
+    "直观的图形界面，简化模型操作"
+  ],
+  "tags": [
+    "Diffusion",
+    "Inference",
+    "Prompt Engineering"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-23T10:09:31Z",
+  "updated_at": "2026-07-23T10:09:31Z"
+}

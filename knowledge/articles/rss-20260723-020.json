@@ -1,0 +1,22 @@
+{
+  "id": "rss-20260723-020",
+  "title": "Terence Tao&#x27;s ChatGPT conversation about the Jacobian Conjecture counterexample",
+  "source": "rss",
+  "source_url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+  "author": null,
+  "summary": "数学家陶哲轩与 ChatGPT 对话，尝试利用大语言模型探索雅可比猜想反例，展示了 AI 在高级数学推理中的辅助作用及当前的局限性。",
+  "highlights": [
+    "顶级数学家实战 ChatGPT 辅助数学猜想",
+    "揭示 LLM 处理复杂抽象推理的边界"
+  ],
+  "tags": [
+    "LLM",
+    "Chain-of-Thought",
+    "Prompt Engineering"
+  ],
+  "relevance": 7,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-23T10:09:31Z",
+  "updated_at": "2026-07-23T10:09:31Z"
+}

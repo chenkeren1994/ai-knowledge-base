@@ -1,0 +1,25 @@
+{
+  "id": "github-20260723-004",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "summary": "Hermes-Agent 是 Nous Research 推出的开源智能体框架，旨在构建能持续学习、调用工具并执行自主任务的 AI Agent，强调动态上下文扩展与完整数据主权。",
+  "highlights": [
+    "随用随学的可成长 Agent 架构",
+    "支持工具调用与自主决策",
+    "完全本地化运行，保障数据隐私"
+  ],
+  "tags": [
+    "Agent",
+    "Tool-use",
+    "Function calling",
+    "Autonomous",
+    "Planning"
+  ],
+  "relevance": 8,
+  "status": "published",
+  "published_at": null,
+  "created_at": "2026-07-23T10:09:31Z",
+  "updated_at": "2026-07-23T10:09:31Z"
+}
